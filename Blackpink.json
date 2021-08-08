@@ -1,4 +1,36 @@
+{
+  "Ads":
+  [
     {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+       {
       "id":1,
       "name_skin":"yumi blackpink",
       "skin_url":"https://lh3.googleusercontent.com/XiDfYoxzr_-t687rt990BVUJE93qeOD3E9e1kr7dFrxEEdS4XkOWKtBw9SFtwAdols_pE9zchH_XPQWEUwhZ0w",
@@ -256,3 +288,27 @@
       "skin_url":"https://lh3.googleusercontent.com/EzBZpdGCv0skRf1n8Sa3-DXCmz30LecLK4I8ratMgGpPA9J2I9DxPHdyCrJwDA7F3UFCAtwrDGY5pyxLzsxLWnnrlpSQqMSu9WY",
       "view_skin":"https://lh3.googleusercontent.com/gzXQlMzFWOG41uVQ-ajA8mf1LCjp-EHqnJZq7n_ILdS0uGMVLN6sM3NLSLrEnqBZ_rPHFbHfKgER2Zxy9JGLHpAlfeuiCabbpw"
     }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
