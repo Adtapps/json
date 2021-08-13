@@ -1,6 +1,5 @@
 {
-  "Ads": 
-  [
+  "Ads": [
     {
       "select_ads": "",
       "status_app": "0",
@@ -20,7 +19,6 @@
       "packagename": "com.walladt.wallpaperadtfullhd"
     }
   ],
-	
   "More":
   [
     {
@@ -37,8 +35,7 @@
     }
   ],
 
-  "Categories": 
-  [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Mountain",
@@ -753,79 +750,79 @@
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image110",
       "image":"https://c4.wallpaperflare.com/wallpaper/68/675/646/digital-digital-art-artwork-smoke-colored-smoke-hd-wallpaper-preview.jpg"
     }
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image111",
       "image":"https://c4.wallpaperflare.com/wallpaper/724/732/845/your-name-kimi-no-na-wa-sky-torii-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image112",
       "image":"https://c4.wallpaperflare.com/wallpaper/432/543/765/animals-butterfly-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image113",
       "image":"https://c4.wallpaperflare.com/wallpaper/357/1010/339/nata-lee-women-model-blonde-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image114",
       "image":"https://c0.wallpaperflare.com/preview/479/650/468/times-square-blade-runner-new-york-night-time.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image115",
       "image":"https://c1.wallpaperflare.com/preview/653/768/889/night-time-night-blade-runner-vaporwave.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image116",
       "image":"https://c4.wallpaperflare.com/wallpaper/163/41/139/stranger-things-colorful-lights-artwork-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image117",
       "image":"https://c1.wallpaperflare.com/preview/763/410/446/afterglow-backlit-bokeh-dark.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image118",
       "image":"https://c4.wallpaperflare.com/wallpaper/545/821/234/akali-akali-league-of-legends-league-of-legends-video-games-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image119",
       "image":"https://c0.wallpaperflare.com/preview/613/795/764/blur-colored-smoke-creative-effect.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image120",
       "image":"https://c4.wallpaperflare.com/wallpaper/643/21/229/city-night-dark-building-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image121",
       "image":"https://c4.wallpaperflare.com/wallpaper/653/759/773/samurai-cyborg-digital-concept-art-wallpaper-preview.jpg"
     },
 	{
       "id":1,
-      "name_category": "NameCatagori",
+      "name_category": "Light",
       "title":"Image122",
       "image":"https://c4.wallpaperflare.com/wallpaper/650/810/352/concept-art-cyberpunk-city-night-wallpaper-preview.jpg"
     },
@@ -1039,5 +1036,6 @@
       "title":"Image1",
       "image":"https://c4.wallpaperflare.com/wallpaper/101/790/352/overwatch-women-brunette-video-games-wallpaper-preview.jpg"
     }
+   
   ]
 }
