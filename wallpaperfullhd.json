@@ -17,7 +17,7 @@
       "unityID": "",
       "unity_inter": "",
       "unity_banner": "",
-      "packagename": "com.adt.wallpaperultrahd"
+      "packagename": "com.adtwall.wallpaperadtfullhd"
     }
   ],
   "More":
@@ -27,12 +27,6 @@
       "title":"Wallpaper BTS Full HD",
       "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/icon-2bts.png",
       "link":"https://play.google.com/store/apps/details?id=com.adtwall.wallpaperbtsfullhd"
-    },
-    {
-      "id":2,
-      "title":"Wallpaper Blackpink Full HD",
-      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/icon-2Black.png",
-      "link":""
     }
   ],
 
@@ -104,115 +98,115 @@
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image02",
       "image":"https://cdn.pixabay.com/photo/2015/07/15/11/49/mountain-846062_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image03",
       "image":"https://cdn.pixabay.com/photo/2019/08/22/14/14/sunset-4423621_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image04",
       "image":"https://cdn.pixabay.com/photo/2019/09/10/22/05/mountains-4467436_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image05",
       "image":"https://cdn.pixabay.com/photo/2020/11/30/10/58/barberry-5790609_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image06",
       "image":"https://cdn.pixabay.com/photo/2019/10/19/12/21/hot-air-balloons-4561264_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image07",
       "image":"https://cdn.pixabay.com/photo/2012/09/15/02/22/forest-56930_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image08",
       "image":"https://cdn.pixabay.com/photo/2013/05/15/06/10/autumn-111315_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image09",
       "image":"https://cdn.pixabay.com/photo/2017/10/09/21/38/tree-2834973_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image10",
       "image":"https://cdn.pixabay.com/photo/2017/10/28/18/17/trees-2897757_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image11",
       "image":"https://cdn.pixabay.com/photo/2021/07/25/11/15/tree-6491591_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image12",
       "image":"https://cdn.pixabay.com/photo/2012/03/03/23/59/field-21708_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image13",
       "image":"https://cdn.pixabay.com/photo/2011/11/17/19/23/beech-10835_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image14",
       "image":"https://cdn.pixabay.com/photo/2020/06/13/03/39/lotus-5292554_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image15",
       "image":"https://cdn.pixabay.com/photo/2021/07/13/16/05/flower-6463940_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image16",
       "image":"https://cdn.pixabay.com/photo/2021/08/07/14/18/leaves-6528697_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image17",
       "image":"https://cdn.pixabay.com/photo/2021/01/01/18/35/pine-5879565_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image18",
       "image":"https://cdn.pixabay.com/photo/2012/03/07/05/48/garden-22449_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image19",
       "image":"https://cdn.pixabay.com/photo/2019/07/19/03/30/landscape-4347888_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Mountain",
+      "name_category": "Nature",
       "title":"Image20",
       "image":"https://cdn.pixabay.com/photo/2021/06/28/18/36/cereals-6372410_960_720.jpg"
     },
@@ -464,55 +458,55 @@
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image62",
       "image":"https://images.hdqwalls.com/download/the-lion-king-fanart-p8-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image63",
       "image":"https://images.hdqwalls.com/download/lion-opening-mouth-illustration-4k-5d-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image64",
       "image":"https://images.hdqwalls.com/download/lion-black-and-white-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image65",
       "image":"https://cdn.pixabay.com/photo/2019/09/18/10/39/victoria-crowned-pigeon-4486154_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image66",
       "image":"https://cdn.pixabay.com/photo/2013/05/24/17/23/jellyfish-113386_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image67",
       "image":"https://cdn.pixabay.com/photo/2016/04/19/08/44/kingfisher-1338235_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image68",
       "image":"https://cdn.pixabay.com/photo/2014/02/27/16/09/lynx-275982_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology",
+      "name_category": "Animal",
       "title":"Image69",
       "image":"https://cdn.pixabay.com/photo/2012/03/04/00/08/safari-21772_960_720.jpg"
     },
 	{
       "id":1,
-      "name_category": "Technology 	",
+      "name_category": "Animal 	",
       "title":"Image70",
       "image":"https://cdn.pixabay.com/photo/2014/09/16/22/42/cheetah-448901_960_720.jpg"
     },
@@ -639,36 +633,6 @@
 	{
       "id":1,
       "name_category": "Anime",
-      "title":"Image91",
-      "image":"https://cdn.pixabay.com/photo/2017/08/29/23/19/abstract-2695277_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Anime",
-      "title":"Image92",
-      "image":"https://cdn.pixabay.com/photo/2018/05/29/09/23/marilyn-monroe-3438284_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Anime",
-      "title":"Image93",
-      "image":"https://cdn.pixabay.com/photo/2013/02/01/19/00/woman-77170_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Anime",
-      "title":"Image94",
-      "image":"https://cdn.pixabay.com/photo/2014/07/31/23/18/lamps-407140_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image95",
-      "image":"https://cdn.pixabay.com/photo/2017/09/22/21/06/abstract-2777032_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Anime",
       "title":"Image96",
       "image":"https://images.hdqwalls.com/download/anime-boy-4k-xl-1125x2436.jpg"
     },
@@ -746,31 +710,31 @@
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Anime",
       "title":"Image109",
       "image":"https://images.hdqwalls.com/download/goku-fire-oy-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Anime",
       "title":"Image110",
       "image":"https://images.hdqwalls.com/download/4k-goku-2020-t1-1125x2436.jpg"
     }
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Anime",
       "title":"Image111",
       "image":"https://images.hdqwalls.com/download/hatsune-miku-vocaloid-anime-girl-art-4k-tu-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Anime",
       "title":"Image112",
       "image":"https://images.hdqwalls.com/download/hatake-kakashi-naruto-anime-q5-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Anime",
       "title":"Image113",
       "image":"https://images.hdqwalls.com/download/goku-by-bosslogic-4k-on-1125x2436.jpg"
     },
@@ -788,103 +752,103 @@
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image116",
       "image":"https://images.hdqwalls.com/download/spiderman-beyond-5k-kl-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image117",
       "image":"https://images.hdqwalls.com/download/redhood-vigilante-ob-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image118",
       "image":"https://images.hdqwalls.com/download/no-way-home-spider-5k-j7-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image119",
       "image":"https://images.hdqwalls.com/download/spider-man-no-way-home-5k-p4-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image120",
       "image":"https://images.hdqwalls.com/download/deadpool-art-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image121",
       "image":"https://images.hdqwalls.com/download/iron-man-new-2020-4k-ns-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Light",
+      "name_category": "Superhero",
       "title":"Image122",
       "image":"https://images.hdqwalls.com/download/red-hood-arkham-knight-8e-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image123",
       "image":"https://images.hdqwalls.com/download/spiderman-minimal-8k-i5-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image124",
       "image":"https://images.hdqwalls.com/download/venom-minimal-design-fy-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/spiderman-venom-digital-artwork-y2-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/the-dark-knight-fan-art-w7-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/infinity-war-j1-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/superman-logo-illustration-5k-om-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/batman-red-minimal-4k-lm-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/spiderman-hanging-dark-4k-8h-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/deathstroke-4k-night-6g-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Space",
+      "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/batman-biker-ar-1125x2436.jpg"
     },
@@ -950,61 +914,61 @@
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/calm-world-yw-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/earth-moon-4k-ri-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/saturn-eclipse-5k-dd-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/black-hole-space-5k-ob-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/nebula-stars-space-4k-2b-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/pluto-and-baby-pluto-5k-1o-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/nebula-space-universe-art-4k-wr-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/blue-planet-space-view-4k-kh-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/hades-star-space-4k-m9-1125x2436.jpg"
     },
 	{
       "id":1,
-      "name_category": "Games",
+      "name_category": "Space",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/earth-space-5k-lj-1125x2436.jpg"
     },
