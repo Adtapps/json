@@ -34,54 +34,36 @@
   [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://cdn.pixabay.com/photo/2018/03/29/07/35/water-3271579_960_720.jpg"
-
-    },
-    {
-      "id": 2,
       "name_category": "Car",
       "image": "https://cdn.pixabay.com/photo/2021/05/07/13/59/bmw-6236208_960_720.jpg"
 
     },
     {
-      "id": 3,
+      "id": 2,
       "name_category": "motorcycle",
       "image": "https://images.hdqwalls.com/download/indian-built-customs-envy-ge-1125x2436.jpg"
 
     },
 	{
-      "id": 4,
-      "name_category": "Animal",
-      "image": "https://cdn.pixabay.com/photo/2018/07/08/14/16/cat-3523992_960_720.jpg"
-
-    },
-	{
-      "id": 5,
+      "id": 3,
       "name_category": "Abstract",
       "image": "https://images.hdqwalls.com/download/abstract-dark-colors-pattern-8k-dw-1125x2436.jpg"
 
     },
 	{
-      "id": 6,
+      "id": 4,
       "name_category": "Anime",
       "image": "https://images.hdqwalls.com/download/gotenks-dragon-ball-z-20-1125x2436.jpg"
 
     },
 	{
-      "id": 7,
+      "id": 5,
       "name_category": "Superhero",
       "image": "https://images.hdqwalls.com/download/spiderman-beyond-5k-kl-1125x2436.jpg"
 
     },
 	{
-      "id": 8,
-      "name_category": "Space",
-      "image": "https://images.hdqwalls.com/download/vulcan-planet-snow-84-1125x2436.jpg"
-
-    },
-	{
-      "id": 9,
+      "id": 6,
       "name_category": "Games",
       "image": "https://images.hdqwalls.com/download/pubg-season-10-l6-1125x2436.jpg"
 
@@ -90,126 +72,6 @@
 
   "Data":
   [
-    {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image01",
-      "image":"https://cdn.pixabay.com/photo/2018/03/29/07/35/water-3271579_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image02",
-      "image":"https://cdn.pixabay.com/photo/2015/07/15/11/49/mountain-846062_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image03",
-      "image":"https://cdn.pixabay.com/photo/2019/08/22/14/14/sunset-4423621_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image04",
-      "image":"https://cdn.pixabay.com/photo/2019/09/10/22/05/mountains-4467436_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image05",
-      "image":"https://cdn.pixabay.com/photo/2020/11/30/10/58/barberry-5790609_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image06",
-      "image":"https://cdn.pixabay.com/photo/2019/10/19/12/21/hot-air-balloons-4561264_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image07",
-      "image":"https://cdn.pixabay.com/photo/2012/09/15/02/22/forest-56930_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image08",
-      "image":"https://cdn.pixabay.com/photo/2013/05/15/06/10/autumn-111315_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image09",
-      "image":"https://cdn.pixabay.com/photo/2017/10/09/21/38/tree-2834973_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image10",
-      "image":"https://cdn.pixabay.com/photo/2017/10/28/18/17/trees-2897757_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image11",
-      "image":"https://cdn.pixabay.com/photo/2021/07/25/11/15/tree-6491591_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image12",
-      "image":"https://cdn.pixabay.com/photo/2012/03/03/23/59/field-21708_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image13",
-      "image":"https://cdn.pixabay.com/photo/2011/11/17/19/23/beech-10835_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image14",
-      "image":"https://cdn.pixabay.com/photo/2020/06/13/03/39/lotus-5292554_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image15",
-      "image":"https://cdn.pixabay.com/photo/2021/07/13/16/05/flower-6463940_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image16",
-      "image":"https://cdn.pixabay.com/photo/2021/08/07/14/18/leaves-6528697_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image17",
-      "image":"https://cdn.pixabay.com/photo/2021/01/01/18/35/pine-5879565_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image18",
-      "image":"https://cdn.pixabay.com/photo/2012/03/07/05/48/garden-22449_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image19",
-      "image":"https://cdn.pixabay.com/photo/2019/07/19/03/30/landscape-4347888_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Nature",
-      "title":"Image20",
-      "image":"https://cdn.pixabay.com/photo/2021/06/28/18/36/cereals-6372410_960_720.jpg"
-    },
 	{
       "id":1,
       "name_category": "Car",
@@ -452,66 +314,6 @@
     },
 	{
       "id":1,
-      "name_category": "Animal",
-      "title":"Image61",
-      "image":"https://images.hdqwalls.com/download/king-of-the-jungle-4k-ze-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image62",
-      "image":"https://images.hdqwalls.com/download/the-lion-king-fanart-p8-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image63",
-      "image":"https://images.hdqwalls.com/download/lion-opening-mouth-illustration-4k-5d-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image64",
-      "image":"https://images.hdqwalls.com/download/lion-black-and-white-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image65",
-      "image":"https://cdn.pixabay.com/photo/2019/09/18/10/39/victoria-crowned-pigeon-4486154_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image66",
-      "image":"https://cdn.pixabay.com/photo/2013/05/24/17/23/jellyfish-113386_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image67",
-      "image":"https://cdn.pixabay.com/photo/2016/04/19/08/44/kingfisher-1338235_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image68",
-      "image":"https://cdn.pixabay.com/photo/2014/02/27/16/09/lynx-275982_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal",
-      "title":"Image69",
-      "image":"https://cdn.pixabay.com/photo/2012/03/04/00/08/safari-21772_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Animal 	",
-      "title":"Image70",
-      "image":"https://cdn.pixabay.com/photo/2014/09/16/22/42/cheetah-448901_960_720.jpg"
-    },
-	{
-      "id":1,
       "name_category": "Abstract",
       "title":"Image71",
       "image":"https://images.hdqwalls.com/download/abstract-dark-colors-pattern-8k-dw-1125x2436.jpg"
@@ -566,12 +368,6 @@
     },
 	{
       "id":1,
-      "name_category": "Animal",
-      "title":"Image80",
-      "image":"https://images.hdqwalls.com/download/abstract-joints-cy-1125x2436.jpg"
-    },
-	{
-      "id":1,
       "name_category": "Abstract",
       "title":"Image81",
       "image":"https://images.hdqwalls.com/download/abstract-sharp-shapes-5k-ir-1125x2436.jpg"
@@ -593,42 +389,6 @@
       "name_category": "Abstract",
       "title":"Image84",
       "image":"https://images.hdqwalls.com/download/material-style-abstract-4k-9l-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image85",
-      "image":"https://cdn.pixabay.com/photo/2017/01/20/16/41/phoenix-1995285_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image86",
-      "image":"https://cdn.pixabay.com/photo/2017/01/20/16/41/phoenix-1995285_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image87",
-      "image":"https://cdn.pixabay.com/photo/2020/03/31/15/25/steam-4988157_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image88",
-      "image":"https://cdn.pixabay.com/photo/2019/02/17/19/07/grass-4002932_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image89",
-      "image":"https://cdn.pixabay.com/photo/2017/06/09/16/59/abstract-2387476_960_720.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Abstract",
-      "title":"Image90",
-      "image":"https://cdn.pixabay.com/photo/2016/03/25/01/43/abstract-1278044_960_720.jpg"
     },
 	{
       "id":1,
@@ -857,126 +617,6 @@
       "name_category": "Superhero",
       "title":"Image1",
       "image":"https://images.hdqwalls.com/download/the-batman-dark-returns-uy-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/planet-shakuras-4k-7s-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/vulcan-planet-snow-84-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/dust-ring-8k-xr-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/polar-sunset-sr-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/on-project-nebula-g2-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/full-bright-moon-4k-n2-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/astronomy-planet-4k-s7-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/astra-92-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/burning-planet-4k-qq-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/calm-world-yw-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/earth-moon-4k-ri-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/saturn-eclipse-5k-dd-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/black-hole-space-5k-ob-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/nebula-stars-space-4k-2b-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/pluto-and-baby-pluto-5k-1o-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/nebula-space-universe-art-4k-wr-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/blue-planet-space-view-4k-kh-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/hades-star-space-4k-m9-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/earth-space-5k-lj-1125x2436.jpg"
-    },
-	{
-      "id":1,
-      "name_category": "Space",
-      "title":"Image1",
-      "image":"https://images.hdqwalls.com/download/shared-rings-4k-fz-1125x2436.jpg"
     },
 	{
       "id":1,
