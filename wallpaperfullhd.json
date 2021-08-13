@@ -1,5 +1,6 @@
 {
-  "Ads": [
+  "Ads": 
+  [
     {
       "select_ads": "",
       "status_app": "0",
@@ -35,7 +36,8 @@
     }
   ],
 
-  "Categories": [
+  "Categories": 
+  [
     {
       "id": 1,
       "name_category": "Mountain",
