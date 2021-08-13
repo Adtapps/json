@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "",
@@ -16,7 +16,7 @@
       "unityID": "",
       "unity_inter": "",
       "unity_banner": "",
-      "packagename": "com.adtwallp.adtwallwallpaper"
+      "packagename": "com.adtwall.fullhdwallpaper"
     }
   ],
   "More":
