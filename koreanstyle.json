@@ -1,0 +1,598 @@
+{
+  "Ads": [
+    {
+      "select_ads": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "",
+      "admob_nativeid": "",
+      "admob_openid": "",
+      "interval_intertitial": "5",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "unityID": "",
+      "unity_inter": "",
+      "unity_banner": "",
+      "packagename": "com.adtwall.koreanstyle4k"
+    }
+  ],
+  "More":
+  [
+   
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Seventeen",
+      "image": "https://i.pinimg.com/564x/4e/96/0c/4e960cfdc697735025ddde0a1da0afb1.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "BTS",
+      "image": "https://i.pinimg.com/564x/02/83/4b/02834bf35ab72423dbc28d333e6af7fe.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "EXO",
+      "image": "https://i.pinimg.com/564x/ec/83/a3/ec83a378e33342b734c89be1fc2255d8.jpg"
+
+    },
+	{
+      "id": 4,
+      "name_category": "Blackpink",
+      "image": "https://i.pinimg.com/564x/76/fa/8d/76fa8d3b84e2fef0c9a140acbd64dd56.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/8f/80/65/8f8065c39d87daa53f364d726db15ca2.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/56/d4/d1/56d4d1269bf93858f68d7851aceaf0c8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/97/c4/84/97c484b661ba2748ba49284d460b6987.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/d5/c2/9c/d5c29cd78763b7425bdff00a361183fd.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/6c/59/01/6c590110d4205faaa9e8f738bdd28d89.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/ea/5d/ca/ea5dcae5e51abdd108f4fc542642d3e4.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/8c/10/aa/8c10aad9402ff151a9fb31cd58a728c2.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/58/b8/8e/58b88ec09da09a077831d1f26b10b78c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/2a/2f/c9/2a2fc94b04987eb428a367c1d2b96353.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/db/04/ab/db04abbccac4c1f44fe13928c8d2dab9.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"titleImage",
+      "image":"https://i.pinimg.com/564x/64/5e/02/645e02f6ae152a22af6b8479d7416cbf.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/71/fb/c5/71fbc5e6ab8514865845c5c3920d740c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/42/69/ea/4269ea086141c4ce3dea49edcfc7a443.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/61/75/c5/6175c5bd0502797926a02460d6180dc2.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/b6/5b/4f/b65b4f55e32ccb167f40167ae0931db9.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/a8/63/d7/a863d7107d1953be3e2c0aec6e5b6708.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/a9/78/30/a978303b851a44bdef509720ca68f06b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/2f/e0/54/2fe054ec1c1393b4816ced2bd81f88d4.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/a4/a8/89/a4a8891c5895fc823f91fe34bb48d089.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/4e/96/0c/4e960cfdc697735025ddde0a1da0afb1.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/c2/43/2f/c2432f438b37ae9036f04049a5858775.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/a1/47/29/a147293c4f23fa71d40dee48dd0e8642.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Seventeen",
+      "title":"Seventeen",
+      "image":"https://i.pinimg.com/564x/99/8f/96/998f96e1f8c93bc1e3679179f0064140.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/02/83/4b/02834bf35ab72423dbc28d333e6af7fe.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/34/0f/1f/340f1f53931092d3a5ba6aba21e9743f.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/7e/a9/ab/7ea9ab41cdbb06d08f3193aa96c32828.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/62/ce/0c/62ce0c22f237fe81cb299a26848c500e.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/b5/c3/bb/b5c3bb695b171d878ea4d52771025973.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/95/2c/24/952c248d779c98613c27fccd9df77e0f.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/07/29/d7/0729d78de185f7951a93588115ed45f5.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/ca/6e/12/ca6e12e7d20180cf46f3e93b9fe00408.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/12/18/80/1218800669cf686c75cdf9c40a53de8e.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/6b/b7/49/6bb7498780bd5e8c10c5d1bf4fb717cd.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/0f/5c/ce/0f5cce56af7450dba767fd1d511c8b38.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/01/47/73/014773fe384acc5ba085b4a7774d8a9d.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/84/7c/01/847c017c4a4cd6eac454009b892821b5.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/17/50/d3/1750d3d4b7b6e3ecf7f050338eadc7fb.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/39/8a/56/398a563c3bbe65d29f618062362d93a5.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/c7/c0/62/c7c062ef7e3ccb3e44f66ace1d498122.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/31/f9/7f/31f97fe1571480c94893db3bcc0f134e.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/67/69/07/67690744337dcdec25081d00c5b09b2e.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/69/fb/25/69fb25315980625a2741de6ad8ec0a57.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/43/93/fb/4393fb921687afba25ee82a98c499a17.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "BTS",
+      "title":"BTS",
+      "image":"https://i.pinimg.com/564x/2c/ca/d5/2ccad55555029e9d6a168d5448cd0100.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/ec/83/a3/ec83a378e33342b734c89be1fc2255d8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/80/74/95/80749527b0cee065dd9f6b152bf8379b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/f3/47/86/f347862d4d20a0dfa02d469dd5d2f987.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/10/24/ac/1024ace037fb318a340d54d69be6dc2b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/a6/f6/fc/a6f6fc8f3e75ce6ce170f4f74633d867.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/a6/f6/fc/a6f6fc8f3e75ce6ce170f4f74633d867.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/f8/87/5c/f8875c67c45971315367ee5e351be13a.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/85/97/3b/85973bb49610bf64129377840a8a66c4.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/d9/95/60/d9956067d6dcdebb9f03d5975190756b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/ac/51/e3/ac51e3931b263642bc025e2a579fb4b8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/ac/51/e3/ac51e3931b263642bc025e2a579fb4b8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/5f/00/1b/5f001b6eb9fa7b59d845874c5184e8e2.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/50/70/47/5070478372fb677f241766062dd94c89.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/7d/9b/9c/7d9b9cc1529ec8cc17eb31b5c83b54b2.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/0f/66/a7/0f66a7c7a311b8fc2a94dd544c7fef83.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/67/c4/1f/67c41f133a41adf190981fc96969836c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/f1/e1/7b/f1e17bb8eceef2464dd75a9eac74e01a.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/06/9a/8c/069a8c580cea9852620d2d584a80ee1f.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/48/e0/8f/48e08f7b8e36bf31cefc86e5b188103c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/cd/dd/3f/cddd3f54383eee906d61feb6914b2af8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/2c/ca/79/2cca79605a5cdbd2c76abbe89b8e68e0.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "EXO",
+      "title":"EXO",
+      "image":"https://i.pinimg.com/564x/eb/d7/d0/ebd7d0ec3d3b14591895b89892928391.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/b8/c8/af/b8c8afd484fa054a3dc5027c6157c0cd.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/f3/5d/ca/f35dcaf644e52ab5dabf01dc3881f62f.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/7c/7f/05/7c7f054a4bb67bb94494179edc2fccb8.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/d1/89/5a/d1895a53296305f746436fd7d40eece5.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/71/89/ab/7189ab5d6fd018cc5ad937c5c4f08884.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Lisa",
+      "image":"https://i.pinimg.com/564x/24/1c/1d/241c1d7c082a5246ba9b603f1e38f123.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Jisoo",
+      "image":"https://i.pinimg.com/564x/78/de/61/78de61f31d49b956cb738f31ce691ae4.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Jisoo",
+      "image":"https://i.pinimg.com/564x/39/70/68/39706846fd994f3b3999f99efa78420a.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/45/45/ff/4545ffd9e431ebfe6314885480363caa.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/6f/fc/01/6ffc0155fe08e4e27d8d5cbac50aff4c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/6f/fc/01/6ffc0155fe08e4e27d8d5cbac50aff4c.jpg	"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/6f/fc/01/6ffc0155fe08e4e27d8d5cbac50aff4c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/5b/5d/1f/5b5d1f3926bf3fdad829681d5aaa4f35.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/eb/a6/77/eba677e50a7bb659ba7c8028284cf7bb.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/d3/03/b9/d303b9e0c0bab5acaef3b8ecc4e0e22c.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/91/08/09/910809d7b55e54ed3501d6173467f728.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/2a/f2/1a/2af21a51512eaee29a45101e00e5f8ee.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/f8/9b/f8/f89bf8c0697c21aff6e70f6207da9074.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Jisoo",
+      "image":"https://i.pinimg.com/564x/0a/6d/0a/0a6d0a18803bb1365bb7299e04dae176.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Jennie",
+      "image":"https://i.pinimg.com/564x/3c/6f/38/3c6f386117f620ab7f206bc018ec1921.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Lisa",
+      "image":"https://i.pinimg.com/564x/76/29/8f/76298ffa4a22a7613ee1f4d89548071b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/e2/42/6e/e2426eef4ed9baafa90f1d07ae3599c6.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/a3/b9/78/a3b9785de2acee130c92a4e0cda1a86b.jpg"
+    },
+	{
+      "id":1,
+      "name_category": "Blackpink",
+      "title":"Blackpink",
+      "image":"https://i.pinimg.com/564x/e6/b0/c4/e6b0c41a18a34a9cc8ef497c9e0d4c0e.jpg"
+    }
+   
+  ]
+}
