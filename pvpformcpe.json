@@ -67,9 +67,9 @@
     },
 	{
       "id":3,
-      "name_skin":"Cool Boy Pro PvP",
-      "skin_url":"",
-      "view_skin":""
+      "name_skin":"Exe Pvp",
+      "skin_url":"https://lh3.googleusercontent.com/XhLyUecLA9wL1jFoaPft6sPYTxLUL13TXdaN0bRVZ0K1_w4dPV5BS375LpJcOOU2GBeNmuVbv3xZknJn6MSGFCuARvmVH05jUFw",
+      "view_skin":"https://lh3.googleusercontent.com/_7o9rBi9JW49u5sCLWY_Ima-DKvsgxhF7nIU5h59b2bmXLcHGuudItBRqCqOrQmuQcLG3QHhduXgPNEyed_8CGOnhQ04HwWNpQ"
     },
 	  {
       "id":4,
@@ -418,12 +418,6 @@
       "name_skin":"kit pvp skin",
       "skin_url":"https://lh3.googleusercontent.com/HMbavUl7ylDxFPHV9gsAOf5I-4AMAqdecTjPjwKrYG1asI27-NmCmQvIehU-zoe59reCAf4EH2Q6jpmX7gdUlR0I8JhTpVjXSW8",
       "view_skin":"https://lh3.googleusercontent.com/iUuqKQu1LDolpE3RWd0N2FugCbV1i-eDnR4H3nO6rzu3tlJFMpTjzhX1uPhik2wOTmDvSRmYNgoq4oVlviriTnLQX8E_3fxW_g"
-    },
-	{
-      "id":62,
-      "name_skin":"Exe Pvp",
-      "skin_url":"https://lh3.googleusercontent.com/XhLyUecLA9wL1jFoaPft6sPYTxLUL13TXdaN0bRVZ0K1_w4dPV5BS375LpJcOOU2GBeNmuVbv3xZknJn6MSGFCuARvmVH05jUFw",
-      "view_skin":"https://lh3.googleusercontent.com/_7o9rBi9JW49u5sCLWY_Ima-DKvsgxhF7nIU5h59b2bmXLcHGuudItBRqCqOrQmuQcLG3QHhduXgPNEyed_8CGOnhQ04HwWNpQ"
     }
   ],
   "Addons":
