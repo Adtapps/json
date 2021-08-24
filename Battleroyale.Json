@@ -1,0 +1,397 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Pubg",
+      "skin_url":"https://lh3.googleusercontent.com/jwU7-ZU5tnvSXSbCEwrDbwthRklX4wI1Gxw5gllAXRoX7XUNJKPQQbLhgVnRAVvU8JfT16khlF8F9xHe-ZPT",
+      "view_skin":"https://lh3.googleusercontent.com/YQbqb6VWwAJlmiT7TgJzV9GFpZ5QjhVS75e41vYaIcXR-jvmAaobz45yHLi0Cgt9PGwMSobVVDCVoU8eRh4RrA"
+    },
+	{
+      "id":2,
+      "name_skin":"Paroh pubg",
+      "skin_url":"https://lh3.googleusercontent.com/Il7bbjNVer8VoMw38xn4R32WChNTF6dKjpvcR-oiWjFCDv2yQ_vN8NULKhBltM28xYnkIA6clrJbr-vQ3eEc",
+      "view_skin":"https://lh3.googleusercontent.com/Odlwn3VBEJlxleXXsWxX7VznPSjypUk61-L796nzdtq53cd249LQUDa2qAltCdz0O1zEzW3RIJ6bEnd4OallCxI"
+    },
+	{
+      "id":3,
+      "name_skin":"Pubg",
+      "skin_url":"https://lh3.googleusercontent.com/VIskHjY4R_C4JfL4ZJ07z-A7alS_jmIqfU40FAo4w7OC9bid3m9YxpdbwSKC9MzJwYTUBVWmp2ujcAy3BPC3Iw",
+      "view_skin":"https://lh3.googleusercontent.com/z-iJUu9dkCxzGSfTNxnIroHCcVRTkOHJHjUjGxTvlot7q9P99DKLSInhCqLyj9DGLBZPJvKH-etG7qkKgJKang"
+    },
+	  {
+      "id":4,
+      "name_skin":"pubg",
+      "skin_url":"https://lh3.googleusercontent.com/VrDIg0ebAzLw9WZeNYefnFQWnhIWjn7MjRJJufyaTS_ydAKArhj4_z41vzZXPyVGxmgfU6EMLsgLyEAQaLo0ug",
+      "view_skin":"https://lh3.googleusercontent.com/R9ninK3be7fJ-XdbOs0hknHgX34iLVLBcWpWFEXN0WFyXNkfFzsHafMyn9wRGxCRFF_QxMawmp1aWRGMayXJ"
+    },
+	{
+      "id":5,
+      "name_skin":"pubg gamer",
+      "skin_url":"https://lh3.googleusercontent.com/8y6bt1sVm_LZ7QLoEYeeqqblUcphpcebM8TpcGvDWnBGf3M0oCrPLoIDbUU6NrMZbkalo74o26XQgPJKJrEXWA",
+      "view_skin":"https://lh3.googleusercontent.com/j1EkDNlar6srzTg9TOuAp_lIH7yU3VIeM8Z-3grErIVXALbqsXE2Dg5RfowZi79zJ9xFrKTOrLGjXbLj1tpC9A"
+    },
+	  {
+      "id":6,
+      "name_skin":"pubg",
+      "skin_url":"https://lh3.googleusercontent.com/ttFuv1uXsgrxT_bc7NVxR4VhniycpTk55YRGOiN2jnjER16b6KZ5tS34jl9SQ-Xwn5k3TXvAT1xgaASzybrSIg",
+      "view_skin":"https://lh3.googleusercontent.com/iJMSuxyCabW-UohmWK8Y45p4B55haHt0z3SVNOqSGth01ETRrVkDxJIgX-fzqqI5e0ZBZw5hyUpHNZTBCt4l"
+    },
+	{
+      "id":7,
+      "name_skin":"pubg new skin",
+      "skin_url":"https://lh3.googleusercontent.com/c6K93Alq3RQuL5AcEAFpzd6kofgwbZAAEnRJooBlq-M8tUc6_sOxav9TfeN0yS6ppIHnD4ZvqiMVoIafpVyDUA",
+      "view_skin":"https://lh3.googleusercontent.com/ZEmz8mdLcMYrnhXO5bpEYR5mDxzVuZyLVcz0j0fLPZxsf1FuGzJCkEBNvwOP3_Q2vM6mhzl8hggdB53jXVin"
+    },
+	{
+      "id":8,
+      "name_skin":"pubg",
+      "skin_url":"https://lh3.googleusercontent.com/HST-2ynpfXe9PK3PrBVizePVQ4jnRAkMLdvM6N5armdiWBzbUFbvEwfQEuiP0oP0sxHJPv8uaLuRGaB3TvyC",
+      "view_skin":"https://lh3.googleusercontent.com/5w-it3ItiBo3I1ktWI8x6LCjluP7H8mb0ODysRJChNBsVdi6G0nxvrxtrLbTgWhZlrmyTstqIsMe-ts1Owfj6w"
+    },
+	{
+      "id":9,
+      "name_skin":"godzila pubg",
+      "skin_url":"https://lh3.googleusercontent.com/2k1akyP1vcqXHfWu2WaEYygHVKctOBUBRmOLY_uhxGWZUQmGBx4eGSImOCvPRvaU4dbHbEUr6KcEQ6twsL_o-flnxGOEqkluSA4x",
+      "view_skin":"https://lh3.googleusercontent.com/uTN3wbzYB1D19YFnFcL6qlGJySdFs8jrxIJ8cNwMGi3mrW_qTqrf4PgMQKcy1OUiwxF_iVizYAkPfJuxcGUlvUzFeRxQyBZNT7Q"
+    },
+	{
+      "id":10,
+      "name_skin":"pubg team",
+      "skin_url":"https://lh3.googleusercontent.com/ReGhn3GbyIf7na5qCLVPuqZarU3YsKD9IVfrBWQ4csmrrlmbds_oSsr6PROeHsSO9kWkM01_GgZKOJxekTmj",
+      "view_skin":"https://lh3.googleusercontent.com/ruub-saZ-eQ9Wz3j51aUOhRXa8N9nZS9_Z4iSC5FVu2OvnridZIfqS9JOzLcOIbimEiGdZzP9WGVZvDbv0Vv_g"
+    },
+	    {
+      "id":11,
+      "name_skin":"Pubg Assasin",
+      "skin_url":"https://lh3.googleusercontent.com/Nh701fFdPpEwnayia50x92yHJAV4BqbqSVrXGdd7CuyVngUIZrp24pqIX-kBs0ephW4jM5WGidnTrh3K5KnfaV0",
+      "view_skin":"https://lh3.googleusercontent.com/op1dlM_JIbM9GunhgK3nQ9HLJ1DNxo8I8u5C0DpCpxsIacIUOEBIz4Y_ycPwh898Yb1qt9ieUV2aI4bdxWEk_Q"
+    },
+	{
+      "id":12,
+      "name_skin":"PUBG",
+      "skin_url":"https://lh3.googleusercontent.com/wMf7FGw3iWyhJVOcK4bYq98HQrKijARrL2Fnp0aa1lcER49bPigMgwK8BzBgtcAP2Hdkb0Bwy8iLQav3zM_mdp8",
+      "view_skin":"https://lh3.googleusercontent.com/6gEZ3pLD7CwkvRUuxnyUQoe3N6T8RhCk82stlADeIord55LCiFtrkIZQNydCj1np-Dj_aL23o0teW6Q-i6oH"
+    },
+	{
+      "id":13,
+      "name_skin":"PUBG Chicks",
+      "skin_url":"https://lh3.googleusercontent.com/3RMWJDsCESh-VjJJur-SWweWTcab74gk_SwLnFHwknWaVLYLldxeLeucS8ch7DyVd8MN1KQQpTJauPMKY80GhggxCNpjMjrCYDxL",
+      "view_skin":"https://lh3.googleusercontent.com/bWfr6_N8_MBU_9JOuVXwxGw5mSLJA0hJ9zC7Ez_jaKp2TnEbf6bFDwAUhDN_9HEc3A2MXdMicm7WN8zvnnwdTe3nNk3qrKqcF4g"
+    },
+	  {
+      "id":14,
+      "name_skin":"PUBG Vortex",
+      "skin_url":"https://lh3.googleusercontent.com/V_CNsiupmFQd_oM54bHzMrsA2h-MMvtf3ckah8hcQt6zWD-wBMc16Lj4uJZ_ImRdrNNfB_CgtOU0UnIly-FY_KYk0QL8rVWcazI9",
+      "view_skin":"https://lh3.googleusercontent.com/1g7KGsSIOzGgILUhXjYCNtybhwJgj4aZ3y0w2xa-tLnESwBkPkQPtjKgbhqw_kNbCCAF7a-xpiBQGF96gVGeXfLToiVdzhsWyQmM"
+    },
+	{
+      "id":15,
+      "name_skin":"PUBG Hino",
+      "skin_url":"https://lh3.googleusercontent.com/P38Xjp25Zxkf8GaLdMvPMMyUV4UIMaO2qVZgTwM3bhTNCKtTjAQGky1lopQk0mgVgmIg6r0SfIWOw-M6EbZYg90lsZHKHSY2TQE",
+      "view_skin":"https://lh3.googleusercontent.com/uldkgDo3cmqQjVaINHI82u-dAI7pGrxBh_pxFy1R1CeaR_QcFx9SYqtJsRVgNcirTyRmGPwFkXyMrIuRTZkwl5YvcMekIhNSb1GA"
+    },
+	  {
+      "id":16,
+      "name_skin":"Pubg level6 armour",
+      "skin_url":"https://lh3.googleusercontent.com/zWwktt5NCu94YhUF1vLsmS4WtuiDJS8EdcyblYdNt5Ap1H7IGzj4qWfVYxsy-HSCAwES1OzOXfahUi8YiHV8-4k",
+      "view_skin":"https://lh3.googleusercontent.com/M-yCgTSjfsVu_3_fTnV8aXkkM24X1lfEyTeX8NxEP4M7TpizcO1sbCWFXG5UGsihCi_z32Jc2X0BwzSTCz-ERg"
+    },
+	{
+      "id":17,
+      "name_skin":"Fredinator2777 pubg",
+      "skin_url":"https://lh3.googleusercontent.com/6CmmZYuybUKWmZUxNfHiK5nrYfvXLi_q7o0jDmlySD1MMcnEaiQzLYwHVclUsfbWRzWGpyWamgDRVS7tLhk77w",
+      "view_skin":"https://lh3.googleusercontent.com/39OG9XOvXZBTL6M6SxFM6arJ8aA7EOveP_lK_sEgEL29GnntzMdczgNAuWOheRHJVtOSpkcdvxd3xM2C3QD5zQ"
+    },
+	{
+      "id":18,
+      "name_skin":"pubg",
+      "skin_url":"https://lh3.googleusercontent.com/O7HI1-qqVH7QTO4l2Ra70gq4IOdyPUI-WmpvRyLK_095zB4C6XqxgAPPuUQS-m6oe3oaien0DHDq2UDTjHyLtg8",
+      "view_skin":"https://lh3.googleusercontent.com/HJO1C3qIb0-6XOSYJz02D0sXW3wZaPW511RdycEIcfNojD_RnnKtb3xva0xjOTou6N8j5_unwzmljSmoi8TM7A"
+    },
+	{
+      "id":19,
+      "name_skin":"FF DJ Alok",
+      "skin_url":"https://lh3.googleusercontent.com/_pFNloSoYg92QLI1Vb27xsuRAu-kb01LZaHOwa-oT9p32C8CqEqemdH0gcb_4PBxpyKuc801WRa25y6Eed0q160",
+      "view_skin":"https://lh3.googleusercontent.com/SzcT1Mrz6BRHyA4qaadqyJVbdKZMyaFMRQyLrpWAneOZOA2Q5LhuGcmjow9CnA1aX_ugCX-ciCBOQLbI9w9U"
+    },
+	{
+      "id":20,
+      "name_skin":"FREE FIRE COBRA",
+      "skin_url":"https://lh3.googleusercontent.com/yh1PuBcvJRe1yUT8d0U3FqGc-cImgQuzq5OMVR6cXtOQwd_wYUd99izsgHqhyD3iGiHSjabCQrcml-Pb8yLOTuVLwR5M-8PflWfS",
+      "view_skin":"https://lh3.googleusercontent.com/Haoj7ZfTkuoqIK0xpx6HTUqbrptpxcXhxUYjHwCapkvU6b7H0kDxLeyuxEMW4JGwQNrsn9swWrqOUManrfaMb5CmmFP7TqZ7Ivw"
+    },
+	    {
+      "id":21,
+      "name_skin":"Free fire",
+      "skin_url":"https://lh3.googleusercontent.com/3MYYgKLHcGW-vkUrNhw6G5vlko8yBHccewsZelC1O7nSJ_A6Wi_Ii83SG1jJ4Hpa9mXazB01UbDK1m2-RV8Dag",
+      "view_skin":"https://lh3.googleusercontent.com/UMxadp3f-ZKWW3C-VD7u82mO7EsUn5COCSylHdairWvWhwjOueVXYBgqQKbV97TQwTytZB5pKtXYsJiGnGbuXw"
+    },
+	{
+      "id":22,
+      "name_skin":"Alok Free Fire",
+      "skin_url":"https://lh3.googleusercontent.com/OGOYeD6B4HPji8DUi_1jkLAbS-exsxipY_FnEUJy3CakXc32XnpFO5xS4GaVNBtYUc4CHiYDA1UhJBFCijhr",
+      "view_skin":"https://lh3.googleusercontent.com/nbD0TK8nY-6wGvfLQ9p3oQ1kw_f1FXgnpJtGBR2etaU_S4ZHM-4Oxs1fzcjivguMedqkpgZZ1iP91xNOPy8NGak"
+    },
+	{
+      "id":23,
+      "name_skin":"skins free fire",
+      "skin_url":"https://lh3.googleusercontent.com/SEuK7D8u0589gcuZO6f4NK0imHcqgAPSalcsGRdBK5A5BgvJCMrI8OVR2_XzTP8PrH8MlARyepWGrBts0N1y_40",
+      "view_skin":"https://lh3.googleusercontent.com/O3JYabfRk-NX_sQbxqHfp4y1yv-CuZYF0vBBneIbbWE_8VR8lKOWnTdCFl3TAtaODb69SfYES134w3gWL-dXubnJMWiLMZOpVVA"
+    },
+	  {
+      "id":24,
+      "name_skin":"hayato free fire",
+      "skin_url":"https://lh3.googleusercontent.com/qPuq2gprmCiyIj1fqBEP217-DoG_-E1HSDTQIOwFfaSOv9ysMg_kTSrPEl4OLRssyHEgYcbVLGhHyERP7wZ2",
+      "view_skin":"https://lh3.googleusercontent.com/-2IZcvqGZaq_xUj2W05jEYQCgZ34QdcYfENQ1NXxk1go2pU3tGX9C8KDJLBBw-rqIrdhyBmDDK45bu8eHMLn_Q"
+    },
+	{
+      "id":25,
+      "name_skin":"criminal free fire Vert",
+      "skin_url":"https://lh3.googleusercontent.com/J9CUcutmPzYC3D6FyWRu5_BAgSFFDzCWGW7VuTCyu0y7xX4uU3A9fyxPH6lVwYEas0X-XqmXVpzTHVcE3U1kJg",
+      "view_skin":"https://lh3.googleusercontent.com/sIzUY0vjpOQI2h18rMYS2ow5flWfPpdEQx2hbDQWxLApb2ZwLUQZrk-9-QvywQ2hQK3KW_Rf1PZ5RNNUXmDuXQ"
+    },
+	  {
+      "id":26,
+      "name_skin":"criminal free fire bleu",
+      "skin_url":"https://lh3.googleusercontent.com/qCf6WXfYWQd6m0U4_3FEcMSXD59KSCRo4v3pPzrzniR1lVWROQi_qcV3EHirR97GqSi_7acCdhCRZBVfMg3mqw",
+      "view_skin":"https://lh3.googleusercontent.com/DrylvKezD3-LJNaf8osmu51nA9WDTobfsbftpgG3sqKk_lsV1sRsBZj1X8sYWE0GvxJwao5U-k18a9dIAj35bg"
+    },
+	{
+      "id":27,
+      "name_skin":"Pase sakura free fire",
+      "skin_url":"https://lh3.googleusercontent.com/hTFQJfeUeRXt3xNxmgHHoKrw-y0Xscj8nIgAtG_mgObYWbiSgl0RSULj29lBwGc2959xiGUruMbEKxfn1ezDzO_GBLERHCf1MG0",
+      "view_skin":"https://lh3.googleusercontent.com/-SnfBJPJp6EqY5FM4yhTHI_iQqTdP-8h7a6REDGIONdziU8hns17RelfPB8-dShx7A2Cn32yiaobyI2iLSP0aqHt5HCni3oVcA"
+    },
+	{
+      "id":28,
+      "name_skin":"maxim free fire",
+      "skin_url":"https://lh3.googleusercontent.com/5DMpb-AkzdxK0I1d72xTL6RhkQd3Jdvm7AXwFqhBEBRX4miMZBfgCV7Vefu8xgb1fm6uiMkdTuTsneNWmUhmmw",
+      "view_skin":"https://lh3.googleusercontent.com/UKhkSezGevqrBabtWyxK-nG4xm2yV9rRuTTbo63sx8h2puhK3uWcmuDcBNTc-ebUFrnWApP43OPxUPukLqWPCLg"
+    },
+	{
+      "id":29,
+      "name_skin":"hambruna free fire final",
+      "skin_url":"https://lh3.googleusercontent.com/kbwAaZ6pgJ_RWz4BMyC1BKjGzH17L9py4iaq7wlrTDqF9VaK7CHEGlBuq6ObzS7LB9qFHAEIdpmOx5mHFhbu-Q",
+      "view_skin":"https://lh3.googleusercontent.com/BIx2ofBciuZnqAOa6SR47AlDppBe9TpUW9H4x4WDQUlPRm2IBU_f7g6BKpMZDgKK3QoroMQJCHLlxxRHze5p4g"
+    },
+	{
+      "id":30,
+      "name_skin":"free fire",
+      "skin_url":"https://lh3.googleusercontent.com/JkS_9470mKZMWl8q8Njy72XuuZ09fQnlfW9cByoVyMp3-KH6eeNgJUvnAbzRte6UqcCFKnPgtYRe_vInGEAVlg",
+      "view_skin":"https://lh3.googleusercontent.com/PM2ktQz46YpxSz3mMRlAsUXx0IoCH48udZPSyTTrchZ3U1S_MSvI35EdRHSsRTqwjJRG8ZTCaqAuS9BlDrOU"
+    },
+	    {
+      "id":31,
+      "name_skin":"Free Fire- Dia Booyah!",
+      "skin_url":"https://lh3.googleusercontent.com/4HRV0yqzRC_dyFGMW1-zYH92zGfnMqKb4sqZQhoFnStwaqW-zHo6K3XrAbT7ISxoa_Ef1jk2m8GPE9ktq6H4hw",
+      "view_skin":"https://lh3.googleusercontent.com/cDrZVVaejTROD9aVTZCs_otPUsgW2u4YbWwu7uwCiUkk-XE9o_DW-kXk9Bpy8_349HjeJjqzReY0j0T5UOPBKQ"
+    },
+	{
+      "id":32,
+      "name_skin":"free fire",
+      "skin_url":"https://lh3.googleusercontent.com/vDVqwnUiv2MS9RV1XGu7oROGvhSXeKHrwzD-zLmqwMQhv-E9lABWpHWbuYRgDDu1QrolBlxsNXyqf6d0sA0gTQ",
+      "view_skin":"https://lh3.googleusercontent.com/ezhdNMnIZXOgmbp-1SJ4ioJuxhekINp9G0Yz5ePK6JeKpPysS7c1IYGnlI7oXTUYppWNzUZ2-nqkJeWfLzBRloSeaGXr2-6e4l4"
+    },
+	{
+      "id":33,
+      "name_skin":"ghost call of duty 2.0",
+      "skin_url":"https://lh3.googleusercontent.com/Ru5SsKiKTSHwfhb3gdYFU79LQr2zvcoVJBHdRn3DO3-xQ8NxZnCzMbN2fAAGOWeAZfwrvE6zGsXJip8EJDhUg0Y",
+      "view_skin":"https://lh3.googleusercontent.com/96jLha6DVF8GbyTokC5BkFd-5H2umig6IcwHCwObwqj9zU6jLXcIPr5fBzEp-_eI3Q-DIi6eVTvLfbZkInEE"
+    },
+	  {
+      "id":34,
+      "name_skin":"call of duty sniper",
+      "skin_url":"https://lh3.googleusercontent.com/ZGrDVxl15g_oa5IDmnW2WGgL2GTQEiaB1ZVbzXLYDGu-dU7cjk42r6sbG3al4XzLjFuP2X66GdTql_1tB-IaIRs",
+      "view_skin":"https://lh3.googleusercontent.com/GKtRM78Wz5gCG_hIM_SbZ7heAvAI5hdvan5w_Pdgw5nm6tO1HPGKrOeI40YLMkgh7UaLhDpq4HyNbILSaKQLow"
+    },
+	{
+      "id":35,
+      "name_skin":"call of duty",
+      "skin_url":"https://lh3.googleusercontent.com/Hn2MyZC8Y3wpid_zrU8kfCyrt_305yAzy0xBW7aZ-jw10NDlpSvlklyZ7lUrpZHZVTGdvCUbcB84e0OdEztwYw",
+      "view_skin":"https://lh3.googleusercontent.com/6OIvOZCyjTWDoe5z7ZNdbcwHgDol9OkkrqMFLOMwtZbgbLc7TK9QXOHKQwTkmUOPKWy_lUZHNbPuuxK3jNX7"
+    },
+	  {
+      "id":36,
+      "name_skin":"reaper call of duty black ops",
+      "skin_url":"https://lh3.googleusercontent.com/DDPdLelYMrY6cEK3G3V7ciedY6gl1ahBMDB4VZzp8It3XJmRo0_wbH1zgYgNcr9Yeh1UUcK0v23l74ROHbd2rg4",
+      "view_skin":"https://lh3.googleusercontent.com/QvWI4QtCLyLTQ09BAJI5RvgrO48Q5jEejAlDmtCQyJJTGktGLMws4zgfpwn_4rktO6mMdNtBCGtvrJEoh1u9aw"
+    },
+	{
+      "id":37,
+      "name_skin":"call of duty soap 2",
+      "skin_url":"https://lh3.googleusercontent.com/RLcvR90RhYBqp_H-lAp01tcxjlA4FptPE136pyR-Xr6dFm_guRN7ERB3MjhHUY_VvhAu8WLYy1wXhZNFdxvZaA",
+      "view_skin":"https://lh3.googleusercontent.com/7L78WlIYkxi_LNEIuIugWWBJU77d_DIVlfgi5li9CX8mlCwDyMSxpBqsnNm8P3et13afvb5avBSRDz5WXiStyQ"
+    },
+	{
+      "id":38,
+      "name_skin":"Midas fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/gbaAWs7ENKWpWbDeMj_DY6ixCk9i13001YwyDGy5K7UMZA13S581bD5lyKeEH-BBilPR4XfP8QvHRqm_LteK",
+      "view_skin":"https://lh3.googleusercontent.com/PNkDuxh9ij36hveHubX79N_5FjdaReTkQVPCLKB4KKAEfREf6lBQ-vxDDTlV6Xk_NjwmEwpgQV-c4z1V8p-2"
+    },
+	{
+      "id":39,
+      "name_skin":"Fortnite Drift",
+      "skin_url":"https://lh3.googleusercontent.com/oNfCOVyM1Ed52i9-kt1_h_sc4kYoAJ_Km0ordbIeEBgKnKnXRDOxrCILuAnbr4mu5SUqgZxlih0hW9CjxdESESQ",
+      "view_skin":"https://lh3.googleusercontent.com/MxZZ_VQyvbQaz9R7tyJ9UB-sr1-OMPAZPTc1lQvHLFH7sEvSfru_kcN8GXKZNdx6QLj0wriz4Ea7hkhu5SJB_nY"
+    },
+	{
+      "id":40,
+      "name_skin":"marshmello Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/rkN-zEhgab46nkRGGpovXA2WtmvUXOh3kOPHKCuu7cljSnQmDBHiLHkNksGdLIN89GJx-eY9PmVrW5PbIikZJ_w",
+      "view_skin":"https://lh3.googleusercontent.com/uLhOPlQobZmdT33lBi0vUUXgXBSYLsqXuCkfmolaw1KdE3l3mTzn0_FIDO-14O_qAer2HQ5xpxek0V_xzufN"
+    },
+	    {
+      "id":41,
+      "name_skin":"fortnite ninja",
+      "skin_url":"https://lh3.googleusercontent.com/KKm7-uO_oF6TZQNNGtHJt98s6LwjmfiyfPONLjYvTgDygYtp9abMhRNia9dMBc2-i99slUy6zQawV0U46zzu",
+      "view_skin":"https://lh3.googleusercontent.com/gAvhlxM3Z-0aso1XJYz7LQU82be6oaZQG9STXNzsFu2mZRHae9cN8tStC7xmqwZx0tlWshBCkHW3GCsol51Hew"
+    },
+	{
+      "id":42,
+      "name_skin":"Mecha Team Leader Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/KABYeDLGMZn9BqFBfjHDAXmoUIXaHLTAhAtMDb2-m9QmemRzIoryhnKPnw-QevOEgYGIQTa3Ide46waGx3SHUNY",
+      "view_skin":"https://lh3.googleusercontent.com/9bbnBuwoszIrp8T_bq6U3Jf-Ltnthx4i9v2ClHu-On7jkM07E4MOWdOII6imd3rS7oaPExnFIryCm3U20y3b"
+    },
+	{
+      "id":43,
+      "name_skin":"Fortnite Season 4: Omega",
+      "skin_url":"https://lh3.googleusercontent.com/WU9uasMoSraR4qNTmfqUvDm_SqJs9SAXYzNmYd-ZJ4qv_wLAgvgStQauGM4Avg3kesq0SuWfJQZ1HYX7RRyNKPU",
+      "view_skin":"https://lh3.googleusercontent.com/5P8LPi7pPcBGyBYAU1egxZFCw5LuzPRQ-XPXrfkyi5NcA8aa_ZAr0seWiJ7FZXusctBzg0aHLMDcSwu3HISOv-s"
+    },
+	  {
+      "id":44,
+      "name_skin":"NOMADE skin de fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/5O9a0wezH4lC5lXk2tzjEpJSk5zqEP3Y-QqRkVQMLl4E1vkuehpxcdyaIvFx79_2kXUn3APSPqFuMdnwnwh5nw",
+      "view_skin":"https://lh3.googleusercontent.com/OkdMXWrnqBEPKcjMgMahnBPAslH1W5X4GamJtm1pFPYyArUH_jBirkS-HAp8XpLoR8MrvjvwEekZa30IY785rw"
+    },
+	{
+      "id":45,
+      "name_skin":"fortnite ikonik",
+      "skin_url":"https://lh3.googleusercontent.com/uw4hHwgmCf7bALi5achld0gAepLT2pxzNUD6nlxJbN4iSDFlLsMOsnZMbGXpKipO0IYojbzoTVzZz2YVp4f2ig",
+      "view_skin":"https://lh3.googleusercontent.com/Jr5p8AiGhleB0fiS14nEFpSBKIDUiFiWG1WXZKZT75cHyn_F0FZM9nJbL7hFrgz9SfJCPsldxv4WkeoEbqxf"
+    },
+	  {
+      "id":46,
+      "name_skin":"Raven Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/10ZON2h23arre0IPasAngisll_WVAFbTxfcjQzl4unoCnigokD9i0Hpd-1uCLk0TPk1MuzQ-0yKRU6vNIShPOOU",
+      "view_skin":"https://lh3.googleusercontent.com/8-_COqMzCxs1dy3xB5mCCAN5xzv6VXMc8pCuSKzWccmTiMYQz4Jg0Nmmeikh_Pe4Xyc3NiJW9z5aNXRL0Rhq"
+    },
+	{
+      "id":47,
+      "name_skin":"Catalyst fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/3slKiRByPO180YQl0PhLuthMHwTdt5LotEgJOGuGh5OJlM8xW6ZN-SjTSzOKovLKjOWZRikEYI0g79cxPwls",
+      "view_skin":"https://lh3.googleusercontent.com/fyfYgkxsKbrM0jgVicmRVogRXXEmHkkrNjj2HXqBRPc1Vlg4MFnzPnByaup140HlRMj5RRGLnYGv3-VWv3wF8w"
+    },
+	{
+      "id":48,
+      "name_skin":"Fortnite Green Omega",
+      "skin_url":"https://lh3.googleusercontent.com/5z45Vkk3LCpDqkogFUiO6nDse_Xa8qBOp5qNmF3Vm-orgRDBGq9R2GMLkxqgxBoqmS7d8BZ5jUwc0IWoGaFYCA",
+      "view_skin":"https://lh3.googleusercontent.com/_-KcawnoX9wDGiemWdIWFnDEmDIcbeMOapoUAYk9KNBh-9oGXSGGdq7Oqe7w3HwE5GMCrWBCgULidX26tdPN"
+    },
+	{
+      "id":49,
+      "name_skin":"Apex Legends Pathfinder",
+      "skin_url":"https://lh3.googleusercontent.com/rFrWEz7XCOV5RSYll5wc6SzyREchyqbQ2WczbQNlVhwrJ2-HrFA36WTKEHeacM8ajKwI6uFTU0_I-ixqqohPEw",
+      "view_skin":"https://lh3.googleusercontent.com/eHwWxSiL9lAl73M7qCHysDq8zEu-dy1RfsUBcQhYEZ7bAqiRY4PfzRLD3gUkBO4NPhU2L4LogfKNMpCjRc4ATw"
+    },
+	{
+      "id":50,
+      "name_skin":"Apex legends wraith v2 finished",
+      "skin_url":"https://lh3.googleusercontent.com/CQVm0ALn95B5WWGr6BBo1E7CrstuHnWEHwyERJANbixUNZ4LP_N-Q_LWEKWJcOaGGLJKTFFMgevl44hoY5ybj0w",
+      "view_skin":"https://lh3.googleusercontent.com/UA8RHZPAXDmfSGlxNb1jKFXTqv4_h9p9qIUml8jQNVOqFo4KskSF_d6lNopzYs5z0DVLNhyDi2xCMcASeTvf6A"
+    },
+	{
+      "id":51,
+      "name_skin":"Apex Legends Mirage Port",
+      "skin_url":"https://lh3.googleusercontent.com/ofmQtWIptcTufLPHDPlGUSCySIk9Y41jhirTb16AG_Hy1F8Iilyu0nxz2FDaKcyMTUPKanaX2upcaOVbBTgP",
+      "view_skin":"https://lh3.googleusercontent.com/4YMq2CNjsTTgyXAhyHk4fG5xF6xFEywELGd9zZx4u4sotZbxM6Jn_SYsytoKlqY2d9ing1CeRmMzlUVmswgq5w"
+    },
+	{
+      "id":52,
+      "name_skin":"crypto apex legends",
+      "skin_url":"https://lh3.googleusercontent.com/FFps22utcztzoAXV2EhK82DcDIIBGFt9o9XzPxsuZYO7dchZtf2Vxg8RQUFEYoYEpgVWiZfteQOtzRz2Sjh_GA",
+      "view_skin":"https://lh3.googleusercontent.com/QbvSrYSrDPVN0N1FRtbkI2FiDhWEGZYPpqFKbvfSFv-rQSSWnUHStalf30mtrM_2DLaCuHonzX9sQnFcKAjz6gEgbxSgmPkJzdE"
+    },
+	{
+      "id":53,
+      "name_skin":"Apex Legends Caustic Port",
+      "skin_url":"https://lh3.googleusercontent.com/UZFa4KTXa31O6cX5dpOt4RSkhyvNDhTxQaZyJL2FuOOQtVnaVztaj6R-LGVS8ozZ75mJWlyXwaQdmoW-SDkhBQ",
+      "view_skin":"https://lh3.googleusercontent.com/Ummzi_B3WgasU1AvKRlILdwpD6HRzDkbw6qc85bogP8jrkR6FUJEQlmWbBwnR4RkadBJlo6YCKrD1-LDsTVjXg"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
