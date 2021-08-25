@@ -859,7 +859,8 @@
     },
 	{
       "id":1,
-Fortnite      "title":"Fortnite",
+      "name_category": "Fortnite",
+      "title":"Fortnite",
       "image":"https://i.pinimg.com/564x/2f/46/75/2f4675e1abe860e288cf288983efccae.jpg"
     },
 	{
