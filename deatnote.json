@@ -6,7 +6,7 @@
       "link_redirect":"http://",
       "select_ads":"ADMOB",
       "select_backup_ads":"STARTAPP",
-      "backup_mode":"0",
+      "backup_mode":"1",
       "admob_openid":"ca-app-pub-4833378668399877/6282936504",
       "admob_nativeid":"ca-app-pub-4833378668399877/2287565769",
       "admob_interid":"ca-app-pub-4833378668399877/8852974118",
