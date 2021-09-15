@@ -1,0 +1,259 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"ran mouri",
+      "skin_url":"https://lh3.googleusercontent.com/_6AhRVxSiQuKdKK76luz27pv_ApOPzLyuFBN3Hi-QpUuRHcR3EyQ4HoLNv0-Jhmt6dC1Tmy2rcbIMF_TMdeQAQ",
+      "view_skin":"https://lh3.googleusercontent.com/0kXOtRAJCMmZqN7WWcBKp-ht8IAUzR45LMtJWrVuf73cj1cEM5KmWOakCUTqIR5EN36b7ONcyVDIC3KPaeZBUA"
+    },
+	{
+      "id":2,
+      "name_skin":"Ran Mouri",
+      "skin_url":"https://lh3.googleusercontent.com/V0MVI1jLp0zikjki9q6MFEF-DfCHyZPKB2JxyzykBYQU_ln0TnU9o5rjOFGzA5e7BOl9gqbzXLpI7qekg_X4",
+      "view_skin":"https://lh3.googleusercontent.com/M6Ddm_Tl5OKji9PsEE9hhZa8z_jyaB3p5AyrOe4sCD1t3spmv1GcThXhaMeokFXI7-02CfAAOtFfyQTMWrM7Bg"
+    },
+	{
+      "id":3,
+      "name_skin":"shinichi kudo",
+      "skin_url":"https://lh3.googleusercontent.com/NymYEa2Z_azYB95AoDf7RBTfYiwTxA8vbrfYOjU6oBA_h92ZXrCUk_n2LMutHGIRYambe7uPd1roUvfmviQ0",
+      "view_skin":"https://lh3.googleusercontent.com/fb7oGPQdnSTskZVEjPI0AYwdUwhH7fHWC7HQ3z01Hz7lN5023RTjoTfb6ypJ1rqO1bCxWZuJZsGDelG16a5gBL0"
+    },
+	  {
+      "id":4,
+      "name_skin":"MORI KOGORO",
+      "skin_url":"https://lh3.googleusercontent.com/C2ojIczAWE4gR-xLUH_cDGitLGZdCBot_pUHq9cJ5uspqo4RboXzgZ8BnJJIL4Okii_ycMbqoZyGbhlP-jRoVg",
+      "view_skin":"https://lh3.googleusercontent.com/m9gsa7hTR31nePfVVeeyQ4vspl5nUnLWlEZkE5Dyrau1UK805K4mZ8LFHkVsdicv49jrmgh_VFgdQwhl-zbn15c"
+    },
+	{
+      "id":5,
+      "name_skin":"trollino detective",
+      "skin_url":"https://lh3.googleusercontent.com/8pHoSu1m8e6ytrX8k6ZyMZDM4lzRD-T6fiPOx875AXmhcOrcSgOiwvj4aOdb4__18gZJEgYpLv5a-I6jvg54",
+      "view_skin":"https://lh3.googleusercontent.com/KMVXwCp3xTMEQc9ScE5H_le3dnvGCpoBVHrFQJFLnHfrAYy1vrYeRJgJVQXqEdOHNQaX8yDjZnzcLIz5N6de"
+    },
+	  {
+      "id":6,
+      "name_skin":"FixPlay-Detective",
+      "skin_url":"https://lh3.googleusercontent.com/_VjUgooW49HugP9WQbK_OPBHqZ-Fhhm3SfsgJBmiFB1HraLeYmV20FGeh6SEcLKAFh4oiM_I2Q08Ks74A6upyw",
+      "view_skin":"https://lh3.googleusercontent.com/ggJzKbB4pnIqC3YH4nc943O2uhBAeoHQan4LIDKkIba1hkrNlNFNvK6Hl0RmyTTMdEXk0s7WspwbjgEUOqT-x54"
+    },
+	{
+      "id":7,
+      "name_skin":"Detective",
+      "skin_url":"https://lh3.googleusercontent.com/DhUIhIGoAraHzDnUV4QwL101SNQ40a06PVnxHxHluf4MIvRYvjbmiZthCin4B-UmnOypap7v3PCqWEIJn2CRVA",
+      "view_skin":"https://lh3.googleusercontent.com/JV6wFKXryaaZLyZzz-VcEuH44x5fTZ_Fif7rFcdHoWOPiqwfghe4jQ8bzSrBcZ1polUSEjeKqY-12E0048ikLuI"
+    },
+	{
+      "id":8,
+      "name_skin":"Detective Girl",
+      "skin_url":"https://lh3.googleusercontent.com/Zk_MfNkSGPITzeDk_2i3KsDdxG-PBnX26BczYps6dkvwmD6CaScnt9AGeyfS0_RhPQCFikOluiML2svgaJv_aA",
+      "view_skin":"https://lh3.googleusercontent.com/guM1zLxQdsG43ZWQZYsnQmqpgyqgImLXaJ0tOTu676WLCDNQBDHP3VJB1-yepgb3xdmSafiGZaIVpIkfD2PRdzM"
+    },
+	{
+      "id":9,
+      "name_skin":"Tails Detective 2",
+      "skin_url":"https://lh3.googleusercontent.com/tl5x34qzcfojBFNE74snjAlIkFfwe7x_yBeA0sm188iyTHWohQXyP_wFSDjfX8dTrafOfmC0x2PscssxuCxXnA",
+      "view_skin":"https://lh3.googleusercontent.com/1kLXZ9iCN-6cI-v9mjazXPkFb2Ec9RM6ggnzqUCbx_eWjMCOzLsxaJPmMZ2YpWjTdQZ_kHdoX8rUFTvD82KCnA"
+    },
+	{
+      "id":10,
+      "name_skin":"detective",
+      "skin_url":"https://lh3.googleusercontent.com/ky-1aAcjbPmM808f5isPF_bE-Yo3Sq-kngeRQ4Tb9Ob0mORPGGTdDeYoePhh1RnD2VwPnpJhJ9pRlZUAgpmacQ",
+      "view_skin":"https://lh3.googleusercontent.com/mv71vgNTxk2aN_mggzgTWhpXRmzh64shyeRL0h3C07vcGxwrA7arsgQfoPJwdgOPSivU9KBLpa9WL55Hsfcs0vk"
+    },
+	    {
+      "id":11,
+      "name_skin":"detective mahoney",
+      "skin_url":"https://lh3.googleusercontent.com/_MVpaYzy0qn3fOxiCZbmZ9Wf08nART9KFq-cTL3XXaqyqZ27aA_He6WdMK5iAHiNP5U8zyUejTTAMockUvHXhBY",
+      "view_skin":"https://lh3.googleusercontent.com/nH8Wv6ebUjFbzYXvt3y0eMnh8rDXhvLhsOBkSru6-KfpKb3b9TSgBS1yBq5eHv6PxRyFyHGtXGSeKVg9J6OHqw"
+    },
+	{
+      "id":12,
+      "name_skin":"The Detective",
+      "skin_url":"https://lh3.googleusercontent.com/f1GjefQUC1HbGFaTXd0tFLrEtsRqmQwWjx6TjSca2aCbntyWMVTFUlMT7-bhypwQXGpmvOZqjovJ_7ofJGB8KX1YVesxKbHzX2U2",
+      "view_skin":"https://lh3.googleusercontent.com/5g9rEKwiQzE5EnW4dHhp3Em-hWu96T4a5YfiEeULsh5bId92O2O5xLdXKDaFo4SgbRhaLInoJy6xKGOvu8svA3Q2cdB8vPRlixW8"
+    },
+	{
+      "id":13,
+      "name_skin":"detective Potaito",
+      "skin_url":"https://lh3.googleusercontent.com/sAoLVwlY88Fc3y8jikN9ojvape77pcGg5KvyKnlQCqZR8IgIOvTacndS3k0PnRSkI81PX7AEcyz6XA811nlmFp9JABjYZRhQ208",
+      "view_skin":"https://lh3.googleusercontent.com/58AjOZ8wdWegJnnycqhX5R0TyLPt3Cg7wEjnzYu3l7LPjTf6p10zG5MeTHs2GEP-xIQWpoFlYxoH50vjtmml2Pka5TqPg_G_pg"
+    },
+	  {
+      "id":14,
+      "name_skin":"Detective Bush",
+      "skin_url":"https://lh3.googleusercontent.com/nAPsrUXwN0G4XQ2lAmmmKcle4DfpDNVaeQBfQYi7sM6qenB8SqYwSY6eWaLrdeqXPPJ15f_dmiFiZBOc7Bz-xsfrDkPsdNJ38iM",
+      "view_skin":"https://lh3.googleusercontent.com/nwbW7K0rWKhj2IGJuYo3J-DNtOxOXK472f48MXHHlhHvKo0Q0zWQ2oU8r_LoBXUbPffynz3nvyWF1zWRdSb1ebRxFm7LpM5RaR4"
+    },
+	{
+      "id":15,
+      "name_skin":"Detective Snow",
+      "skin_url":"https://lh3.googleusercontent.com/tQWQkS7-QNa2kQcAR8SGm6AduArTwHWha6cjK3aEtiRD2CTcmGvsfaBuhqGq46FAWXTpRIzH7-W9N6-7RQ5Yi5tZYs4tgEheFA",
+      "view_skin":"https://lh3.googleusercontent.com/B8PPpf5jJiTs8MXeqH9d-wHDKAC06JXd_mRDfI_pghOxlDB3R9OQk2YnyJzUwiPD_TmHvyWFji8PWNm3NA2LmjeNB7xC6CTBIA"
+    },
+	  {
+      "id":16,
+      "name_skin":"starleys203_yt detective",
+      "skin_url":"https://lh3.googleusercontent.com/cu5jJ_CQnBggF8-KLIupdVG69-0nIfri6MMGy-ImcAO0DJNx2tF3JScpV1B4PmPi2kN1M47Hl7JTFd6gM6RU48p9v2aU_ULtQXNP",
+      "view_skin":"https://lh3.googleusercontent.com/wRqDNyCnB_eX5sopaRCU_HUGNPpfAE4rhmU4dPIAePwVARjI5jfjDQSJEyGxVlpjSwqpBqkNoxEBjkUVKPrG3K73eufhV5eX3dI"
+    },
+	{
+      "id":17,
+      "name_skin":"Detective",
+      "skin_url":"https://lh3.googleusercontent.com/eNzS2UtrwBdkqx7bxdfP2idvVuLKdCJBXejacgyJGNCMzMj9CpmxHN2_UEHnw5c5QFVo03sv_HU7-R62clyzDgxR-J06QE6K29c",
+      "view_skin":"https://lh3.googleusercontent.com/CerwK3NN74SF6lXXBO9zrXPzO9iG370om5XYtaub-NCpFgnQrl5uPmuKrJwj9fMcwonlv9gil62dfd3o5a6GPJWx-mBfdfGxOdk"
+    },
+	{
+      "id":18,
+      "name_skin":"pandesiuxnv detective",
+      "skin_url":"https://lh3.googleusercontent.com/RGg3oqvlzqcenBppG9yGsX5wPqKVfm8rmN9mYkMWu-ovzLBS9WybQ5nIIi45GFRNcLjBssBhsj70QtISjWWQvJRqanSI7doab98",
+      "view_skin":"https://lh3.googleusercontent.com/BkP9oCquL4bPZyU6xmUd8yNNofi5mAerIm49z6xK8fqycx4ADOMj4J04Ahxtr4Vdvz4wOuLC4j-cNytzIk4lZ-8-RW1vnyI4HGo"
+    },
+	{
+      "id":19,
+      "name_skin":"Detective",
+      "skin_url":"https://lh3.googleusercontent.com/IxgfcIJfdSREMjufuo0R-VfH5ywrIvgAqpdli4IIVhDTfRmy2o6wflJEVtClxvEfp_3HpxE0N-8maVV9CqLgI-AhU5Y05BSeCg",
+      "view_skin":"https://lh3.googleusercontent.com/gSLrxROUhuQ3jOQ0jQp3XaM_RsWiOFYIu38SSpe2vPAhZoJvWcdGAlOTwb_JWYJJ0u-VS87tPxv94z8jPktbfW2OFjD9r9Gt3Fw"
+    },
+	{
+      "id":20,
+      "name_skin":"my name boy detective",
+      "skin_url":"https://lh3.googleusercontent.com/z3Ebnb6XuOKloL-pEtsVOR4HlKMcYz7RAT2gW5IulJT1nt0cXY2KqdiAaXR_zQzilT-6fp5ug22aS9jKCFenC4DBE8H8XgzZ-qc",
+      "view_skin":"https://lh3.googleusercontent.com/x0pp4hOTMlONBKhu6BBr0KcdkM7LiMhLiRg3a_tniro8nwzi2ZNOpsr9WDpSA9eoI33ilA8otwcYPE6gBF9TYXcFqZAo8ZTuTHs"
+    },
+	    {
+      "id":21,
+      "name_skin":"Detective master",
+      "skin_url":"https://lh3.googleusercontent.com/8HHRY6rwug7RJ5AfF1LKXNa59e6I8UHEvtU4pcZiaDx3baHKOdvekKjTw3zV2Lhb8j6eGyyzSsqw38vfqUYHVRuEU4mVvk1HvgE",
+      "view_skin":"https://lh3.googleusercontent.com/jhF_XAuQUDxi55FccAU6Q0UsPvUjspw3YBZEC8lU-OY2MC7jVdR9pi3v2FD7Cm84ZScsJxaBdNDB4sPE3WoOsVdJ7P-eCs-Lqbc"
+    },
+	{
+      "id":22,
+      "name_skin":"Detective Andax42",
+      "skin_url":"https://lh3.googleusercontent.com/VLQ7HWGeZXPHnNDjNzA4sLay-iX4L0-YJeQ3mjucCAFN8T8l1KmxDfI8XjefbF7Rg71NKdtAEwE6Eus4GDDwAJtdG0D8cL0hs8o",
+      "view_skin":"https://lh3.googleusercontent.com/mNc9Yh2fc9wMwD06yd6KqybyZnMdGZ-W7UO977i1BXLst_soD6fQIPMtkX_93guY0MDSP0uypNfMT6KMqzPjcJRjyGIhGVAUxB8e"
+    },
+	{
+      "id":23,
+      "name_skin":"Detective John smith",
+      "skin_url":"https://lh3.googleusercontent.com/LQQiEFuyqZNAAiuqTueK1TArl98_RJMtKTXAIjpe42RgrWpv1NeGbT0U3wuhQ-UugHSVZMxrCuAAwlA-Dc2z2DkuRMPW8t5uef8",
+      "view_skin":"https://lh3.googleusercontent.com/_v_N3M_MPfQsNDY50HuknHrKi4gzGlpR_ReoiqSo7LqnSU-RkahUOhNfTHlsESlQUbWoQ3E3zh2Cm0BqxvrN-C32--_cskNFiQ"
+    },
+	  {
+      "id":24,
+      "name_skin":"detective",
+      "skin_url":"https://lh3.googleusercontent.com/i-qys-9qkxr3Gbt9UVGyvGgV7nfdjWMcrzL3BwSbqsNz4AxgfdEv3vV9Z8oJ7VQ_nYncUkK-Cv4KnG6eSarBz4QFcjo4x-AZCgA",
+      "view_skin":"https://lh3.googleusercontent.com/9YtxW5DqECtGCM-wpswe2DKjxvZvwnr-WGf7U8RVxNjh_BALsY7QwKHjBE_zWEFDTiKupcSs9xX0s13L0FIeBVszC7UefwzleGyX"
+    },
+	{
+      "id":25,
+      "name_skin":"detective",
+      "skin_url":"https://lh3.googleusercontent.com/y8xWWgvgWpLUelgkhvVmUxTBlN01F9mqnk5m5TGeBaCFYFknaW_I3Lc7dn3LQFLeTj3_seine7y3MBLEsxEYCY1BcYWbKKquhw",
+      "view_skin":"https://lh3.googleusercontent.com/moK8P5glq2qPFn8On7NDTQ_0wx4DEffz1oRRzHcWaw_hkK3GAHnypoJMtUPVwmLJ7TDzfweoIQC1yyWeW-5PoEEzd6xeAY6tM4Q"
+    },
+	  {
+      "id":26,
+      "name_skin":"detective Conan",
+      "skin_url":"https://lh3.googleusercontent.com/FPzKhetMEU7wq_jSGtPaQ_9rg5xSG46fEcYGHaXzW48nZhCkcOqPzPHlYXSBeM82SGOKRRyD250JhRWsfwcH",
+      "view_skin":"https://lh3.googleusercontent.com/Z_ETkMqppX9juOWR0lWcOCi7-Wu96Z-LgzVhsb6RyJEFttPCIUk5wJXyOCc6QntYwNybD4G6bVk1anmhILVzkMA"
+    },
+	{
+      "id":27,
+      "name_skin":"eyes blue DETECTIVE CONAN",
+      "skin_url":"https://lh3.googleusercontent.com/3Af0dwWWJI07Rn4wXTkLtsqu5KBM-PEPqeAWWb4-OgSckTEXvIaQJToITBo-99Nd3OudOFTdHGex5sgD8gjcEyU",
+      "view_skin":"https://lh3.googleusercontent.com/oiL-BqOlVML-HMm23XoLOnOqrPkrJufLQ1DLF4vYWtsHprAAlTJ4m8Y981StmzeOkU4ZnlTqh_PovSAz2JVa7g"
+    },
+	{
+      "id":28,
+      "name_skin":"detective conan",
+      "skin_url":"https://lh3.googleusercontent.com/sGqRulsgwTNX2OReB8chN8FK355cfUpmAi5wJKafQ07zC6YFTJ5iqPXPXklvDCKdemwVSMEB4VI5xS78ugKrJw",
+      "view_skin":"https://lh3.googleusercontent.com/caxQj2NeHW-jOm4cv1sVeW3QO9kNkQ1RoGyu7kn8toXIosTNySdq_f_MGGQ6dbPr1rWNajQRIVOGCSjxT63U7AD3qs3J_C5u9t8"
+    },
+	{
+      "id":29,
+      "name_skin":"Detective Conan",
+      "skin_url":"https://lh3.googleusercontent.com/ijBCWyYxyhZgaMiHwKCGeKr0vVK9i46QK9TJEMGW_gD8N0TXmf_wGKc7IrbLsTvNFtxYO66UceL5xxhKwz_Hlko",
+      "view_skin":"https://lh3.googleusercontent.com/PH9fQtAZYhYfqa_nSszSSER0TxBExLE_D6mbQ0SBsVGfw6VtmbCLGFthlhQa2pQFn8KIFJm3fpw-g_-mTOJA6Q"
+    },
+	{
+      "id":30,
+      "name_skin":"detective ne conan pas",
+      "skin_url":"https://lh3.googleusercontent.com/C9vUMGWr-BlSk6AndRsBaMTRfta9wUOOVmXrpHCFUXilpxc0yZCv9WxLExxRRM_lEvId94xFX7VEvHOEfcn7REe1EzNSlUPTO5t_",
+      "view_skin":"https://lh3.googleusercontent.com/B2uFzY_VYenTl2CjUcyuzyg9T_1QpAulrN7qMxtlnQRVbKOUOyfm2UilEFor4UQDF62HfNHIfri9RxPibrz3H1HLfiAMwjEJQkiR"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
