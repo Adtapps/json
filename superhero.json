@@ -4,9 +4,9 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"ADMOB",
+      "select_ads":"STARTAPP",
       "select_backup_ads":"STARTAPP",
-      "backup_mode":"1",
+      "backup_mode":"0",
       "admob_openid":"ca-app-pub-1773994074931797/7286093612",
       "admob_nativeid":"ca-app-pub-1773994074931797/8599175289",
       "admob_interid":"ca-app-pub-1773994074931797/7625483896",
