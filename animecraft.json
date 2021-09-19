@@ -4,9 +4,9 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"APPLOVIN",
+      "select_ads":"STARTAPP",
       "select_backup_ads":"STARTAPP",
-      "backup_mode":"1",
+      "backup_mode":"0",
       "admob_openid":"ca-app-pub-4833378668399877/1635313700",
       "admob_nativeid":"ca-app-pub-4833378668399877/5876976898",
       "admob_interid":"ca-app-pub-4833378668399877/5835440835",
