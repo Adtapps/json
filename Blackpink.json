@@ -4,7 +4,7 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"STARTAPP",
+      "select_ads":"APPLOVIN",
       "select_backup_ads":"STARTAPP",
       "backup_mode":"0",
       "admob_openid":"ca-app-pub-1773994074931797/5018721608",
@@ -19,8 +19,8 @@
       "mopub_banner":"",
       "mopub_inter":"",
       "mopub_mrec":"",
-      "applovin_banner":"01bae48378eb07bb",
-      "applovin_inter":"c25085e6c67e670d"
+      "applovin_banner":"11bdee38bf555ab0",
+      "applovin_inter":"786c3cbe4ab50ec0"
     }
   ],
 
