@@ -4,9 +4,9 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"STARTAPP",
+      "select_ads":"APPLOVIN",
       "select_backup_ads":"STARTAPP",
-      "backup_mode":"0",
+      "backup_mode":"1",
       "admob_openid":"ca-app-pub-1773994074931797/1356762476",
       "admob_nativeid":"ca-app-pub-1773994074931797/7669236997",
       "admob_interid":"ca-app-pub-1773994074931797/2501149726",
@@ -19,8 +19,8 @@
       "mopub_banner":"",
       "mopub_inter":"",
       "mopub_mrec":"",
-      "applovin_banner":"01bae48378eb07bb",
-      "applovin_inter":"c25085e6c67e670d"
+      "applovin_banner":"cb82a83c0cc7db69",
+      "applovin_inter":"285475ffb1715bba"
     }
   ],
 
