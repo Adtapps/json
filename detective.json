@@ -4,7 +4,7 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"",
+      "select_ads":"STARTAPP",
       "select_backup_ads":"APPLOVIN",
       "backup_mode":"0",
       "admob_openid":"",
@@ -15,7 +15,7 @@
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":"",
+      "startappid":"208545508",
       "mopub_banner":"",
       "mopub_inter":"",
       "mopub_mrec":"",
