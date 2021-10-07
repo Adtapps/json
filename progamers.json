@@ -1,4 +1,59 @@
+{
+  "Ads":
+  [
     {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+        {
       "id":1,
       "name_skin":"PRO BOY COOL GAMER ZOMBIE Skin",
       "skin_url":"https://lh3.googleusercontent.com/mr2ZEaSfI81TTk8XpXq0J5ynsZqCo62Wmi7rr4G76fkAefAtrPL-kRqvVAp8KeJw-a8JRRKs39V_LphafOT8qA",
@@ -250,3 +305,27 @@
       "skin_url":"https://lh3.googleusercontent.com/eMmC-N9W_IzogaVv2SJyOTc3fJHwp7Re8bZhNVBhBySRPOQPuB9u9tTfvNn__p6VQtyzQbTL344nSqH5Z3rcg2In3WJJdH7GGOg",
       "view_skin":"https://lh3.googleusercontent.com/4QyDH8fxg--NJXULXcae3oQUlTIeibKhbV3SpZlwoAAi9mmay0GOqQpt04Wk5kQP6MA0WS1n5Xq-cGbbCRkQSz-zRHWF7xsydw"
     }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
