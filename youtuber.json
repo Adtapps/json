@@ -1,0 +1,295 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Frost Diamond YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/EUIlbZV8yZvsCsEd2nwL68jCYvZHVQlHC9Jl5swjmDxWMNPtsOl2lcSYwCfi-kKUDBQ17avu-aVTVo89Mk-N3Hs",
+      "view_skin":"https://lh3.googleusercontent.com/oW8M5fzs_NakuesTgHzfELfF5TrccfQ0zsc0-Ni5Jdvm59qNsU-vSn-QVhvKz7FhNK1oa6H2Ok6ezCI1P35hEA"
+    },
+	{
+      "id":2,
+      "name_skin":"Youtuber Suit Boy",
+      "skin_url":"https://lh3.googleusercontent.com/yD8zhGs6LYlpEUOcBS9W9ZxicEPKiozf13J2cbUCFq1-tQ6-BfYE9Vv9_yjgYojAcAbnB71MWmjAmgECXqV6-A",
+      "view_skin":"https://lh3.googleusercontent.com/U83yAYKpP4LUV-XLCg2cfa13xMfQ7fjXxsosli4gbh0v2QGWQjPIaj1c47cHLtKl46XpQxTHISwo-NiUEB3g"
+    },
+	{
+      "id":3,
+      "name_skin":"cool skins of youtuber by akmal",
+      "skin_url":"https://lh3.googleusercontent.com/BX28PZEhmvHWIDqhStgogYGKM4N0UIm_iL0k0CoK8UB4IYP6rlWjAD8CQd6n67REBr7HKdAIchWN0Gd4oZsc",
+      "view_skin":"https://lh3.googleusercontent.com/ZBYrGS6Oiu4aJ38AhJiTNCgMCp9UowYg8aF3B9EVFAEa5jJoKqztw5RYgYR6gahVaGg-lerKYyiKVXJGeN9cPMg"
+    },
+	  {
+      "id":4,
+      "name_skin":"zack gamer youtuber boy",
+      "skin_url":"https://lh3.googleusercontent.com/_FhUziQBDAO54K28Z-d1s3UsWi-rWtxKRchJ8_Sdsi91wqz-lNuLtYePuk6nQ6rxII-Be85SF_vtQSvXS2OY",
+      "view_skin":"https://lh3.googleusercontent.com/xuEfktudFzC8tnssQHSxgSO9uRGxykUyuB0KBAMu7D6uJjAt1DDha-thnQe3fV1QNkc1H64wJij5NHg54qj5VA"
+    },
+	{
+      "id":5,
+      "name_skin":"NightD YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/7JOC7iJUQ9y6t7L7L-8_sNIvYRgKMwVKTUmreL44r6dRoWrbF8sOeXKi45dpiq02iPRI2kyou3pJaxS_PMkWyg",
+      "view_skin":"https://lh3.googleusercontent.com/tY2vyl9q2u_oPdPUbd2qmMhEzjrlJcMYo-usFNlpSVVxjNSPkWQ3k9uPQRv6dVG2c18GCwI7xZl95G5Z0JZ1"
+    },
+	  {
+      "id":6,
+      "name_skin":"kawaii girl youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/TT6KJCHrN_bqycvDodxfELMXmTF8bCneAgB6FMp7WhFM9qWc4wPcTbSRThLVgBR_TZSQ4793nwmLV0Y2Bv33Tg",
+      "view_skin":"https://lh3.googleusercontent.com/hNFmscHritlT2fKjf1DDvr3VyU9rcgE0Rz3OF6llSiPGORRcQ9Dpz4G_yC6Wm4B9hB1jUJQLo4BDbDd_G1rzeqA"
+    },
+	{
+      "id":7,
+      "name_skin":"Youtuber Suit Boy",
+      "skin_url":"https://lh3.googleusercontent.com/jXMHFznmgD8nt3gJ5-n7xJMsT5K0TsqPBMk1c9qnF3BYDYlY99ZQXmnlukFY3cpa2wCgDGHa83sSw8ThF1AkOnk",
+      "view_skin":"https://lh3.googleusercontent.com/6S2sA6aNpMuTemMVTxQVaFVVBC3MZU_gXCusyeNrP6WoN5ASR_frx7Hg5CVtAt1HsKyeD1AN4eSOmpBEv35Vpg"
+    },
+	{
+      "id":8,
+      "name_skin":"Cepcil youtuber free fire",
+      "skin_url":"https://lh3.googleusercontent.com/SSk_xCTgVc4WNy32s0Ki2rTsNj7cCfIsrFIlSjMAnYOVP6QEsvtdCiupLzMhmHWQiAA4jeRPGB8VtAccvbSnIgdiz6PQ3EjKEWg",
+      "view_skin":"https://lh3.googleusercontent.com/NBr6xOIJcdYeb6dv6HvTC8E9c7qzEyptu9i5dlCZpT62431ydNGdCzFXck47h_OzNdT8OWwWoOjBGT0THaZp3tpvBUeEqIyglw"
+    },
+	{
+      "id":9,
+      "name_skin":"Little Kelly HD youtuber skin",
+      "skin_url":"https://lh3.googleusercontent.com/QZfkuhEikE4u7mkaUKbt-4EX6LMMmwGNhi_OC4GTI_LV0SODfEfglju0dLyaU7hcqRY0lkTt6PClsZGUE3_oZw",
+      "view_skin":"https://lh3.googleusercontent.com/XkN_TkAo6OnrBkuUm6XsXdCM36H6JBbOTVyu-8ZNgD2JOJI3xDH_p1dBKh-Fwyf4tf_KEwf6eOZcCkrbPm0vyA"
+    },
+	{
+      "id":10,
+      "name_skin":"DEADpool Youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/AZWawUW7vZ_8b1MisZRtb2io8xdaF6qRv14XfZd_350sPsW7fiWbHuBhPB9F1ZRNGSgndLY5ubs-TBfvFo1tAw",
+      "view_skin":"https://lh3.googleusercontent.com/ADz-pAYbGbMUgwzSXyscrseVPDGDUJbihzp2bx5O8ruMhIv1McM6kMA3V_iPbGMXC2WSeSgMbqJbrOJ-8Pat_iU"
+    },
+	    {
+      "id":11,
+      "name_skin":"Pak GM YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/gr_75Cs_EGiq5O-Q7-5isqR9b3Om0LjzU0zF2Ys8D5Co4Ga4SHXliBt1STAX_aM4ruPRlBilWGylX_9Ku54stOY",
+      "view_skin":"https://lh3.googleusercontent.com/Ke2_GLu6qdxu8792efKwRZAVTY5E7pBYINWON3fVL31sc6m3H8JzH1ssh4bFQU4Je9B3flpzDWi_mIRJSDenfQ"
+    },
+	{
+      "id":12,
+      "name_skin":"Erpan1140 YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/Zj6eD7EUGT-JbVNtnuO0k7KqRs8c853EQeoCvIzccLYqYp4WT6wsE0p6-oR03WQMEUXMWuGPNM9FcAKavKS6QA",
+      "view_skin":"https://lh3.googleusercontent.com/eBANOb1sQ4dRYOtdVKyLjjoGjYwhA-kxlwZzrnCCkwqCDmhbWfOKCJPMxhIkdfjtSSqeee4L-j67hgE9JOBIjw"
+    },
+	{
+      "id":13,
+      "name_skin":"ArcStone Youtuber Official Hd Skin",
+      "skin_url":"https://lh3.googleusercontent.com/WvtGuiOr_7fL777qVCKAILccHbJcyY3cbc_STEur5PEnQtKJ-wjGgqqMaw1e9bNFErby_WEsk2yv1QF2pF74",
+      "view_skin":"https://lh3.googleusercontent.com/J8A3mVW2NQ9YAEFX0kVMQJFmTgP3wUJgIP8bZQou4EbIpA_JlqmMxjVrXvc-qXuGB1qGIF_zOZ6dG74Sgt-M"
+    },
+	  {
+      "id":14,
+      "name_skin":"Youtuber kız girl",
+      "skin_url":"https://lh3.googleusercontent.com/AZrLCjlQRj_QxqhsUsF7lgdfIMpYryytumPgKETzpXyjZHUqIDwLxio2_aRV561F_xstvCuDLt-33upqeQOasmE",
+      "view_skin":"https://lh3.googleusercontent.com/UGyjWWcQzrN7wKs9y3fkMMPPBlYmvFhgwMqM7SDNG1SI2lu-x9QECpzj1ia3cMraxEI733aSyLE8V0JvLX6spA"
+    },
+	{
+      "id":15,
+      "name_skin":"Youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/voXqO_PWDGyEoWdbtopPcfyPQMJ6ohIr8OW_ueJuCFLBUd6WmVUdEmnZf-4wMjYymODn55e8gdjAlQXIzela",
+      "view_skin":"https://lh3.googleusercontent.com/RR-_NGg8r3Yt9yHRveVFA6pd5R2lmqjfUZtZktI68wGJlLmgPUXcJcZ8GMufTGrB7qNPUuIJH6uaMwoZeQ1z"
+    },
+	  {
+      "id":16,
+      "name_skin":"Azuya Surya YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/mzYgZZlYn-ub8A8ueo-r_cuH_7uRdjyLIAvj0Yn18srMbStUGgysLgtwjImTQ7OAmTYL4vdoLGf5eJ42Dix0dQ",
+      "view_skin":"https://lh3.googleusercontent.com/WbwLMr6LjEy95Pj0N90Dvy5gQzjypfTr51Uw9DrCblokPMkqKwP1nXRH7bK4eyTuQfS3qeZJ--bHH0rmzrsC"
+    },
+	{
+      "id":17,
+      "name_skin":"skin cool boy red youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/H8Xhgr1e_7sYVrhO4iyirvsEDqCk0EI1OgjqNcXH1WbSiU__zpsq596z5mNUK4ynt2AnhMywtZHKlfaeIVuMXA",
+      "view_skin":"https://lh3.googleusercontent.com/SQOvVEjclXcKYHRAJevtweRdKY_FoKn6BAiSRzXFmGscpnl2PFfI92ofy15VhLgmpi4NY3qSgA2Dx2Ud9d_o9g"
+    },
+	{
+      "id":18,
+      "name_skin":"YouTuber",
+      "skin_url":"https://lh3.googleusercontent.com/V64CTS3Qa83DAZiR6yGlmQ2-E4oYNUlY8p7CmYO1KjJDI1QDEy5wzEoLfWEQxyqne32hp_Q2VsZhOJqnx1nAbA",
+      "view_skin":"https://lh3.googleusercontent.com/5GRUYYXkvT075qj89vpdhX_E44mVdauPqX8fq_pRwjiShiEGkEBr31JkyIjVTK-tP3wukus1B4Obqol9wVxirQ"
+    },
+	{
+      "id":19,
+      "name_skin":"youtuber Rov",
+      "skin_url":"https://lh3.googleusercontent.com/tI0otNzS9fSN40yFHoEuD2JN82CBJlFEWkzpTeLPrfgEgs8kvWcxqmovaCwq2ZzBEiu33nMSQsgkPt6X0xOh",
+      "view_skin":"https://lh3.googleusercontent.com/twBfHa8GxBhz17iXvlHkbycetToSe7FSu3Q835PJyOpjzTWYEQZ7_bJYK4iH6PA5WabZ4sayEF51Y5g-bLLZyw"
+    },
+	{
+      "id":20,
+      "name_skin":"red and blue youtuber gamer",
+      "skin_url":"https://lh3.googleusercontent.com/pAWyrTWcXwiFH8eP8wilIDDj2xLNYzbwcp_WY3em3OZsNQpH7HQ_7NaOsVNz3BLrZ-yLlcXJ6fb223RMuoKUUbvzJhSrIuhEtAw",
+      "view_skin":"https://lh3.googleusercontent.com/KmAggWTqHr8ytmz1MI15yJmtykeFHuZnxmqE1K5m-7XlQAF1mVTT5AxUDfP8y2tN561Ylk1AqpNHbFH5WNLcFNfkcy-JvPyTA5E"
+    },
+	    {
+      "id":21,
+      "name_skin":"Youtuber Skin",
+      "skin_url":"https://lh3.googleusercontent.com/t4_3mm14vLwRKOhHizRafTtBfnNKmWXhe7axUjuPG-xbK_zINOI3yUc7NIzc62hOUt5J_1oVZMQlcXGXSYA7SA",
+      "view_skin":"https://lh3.googleusercontent.com/OfqD-HstOybZ7Ll4EmXSiDTJgD-pNx1N5KHl3AyQxDrBk1QP99Gioyd1K2u8ush5ZrpQbhsQcq15K-qhQ_vQ"
+    },
+	{
+      "id":22,
+      "name_skin":"Lenzi Mew YouTuber Minecraft",
+      "skin_url":"https://lh3.googleusercontent.com/OiGE_dr4xtH6f4LaGYmus0Lb_Ikx6JIHXRaBHDOm3WoQtvmqUsvGSFndJAbRqbU1gzjvWBIHoAJM-ybjaRxzAg",
+      "view_skin":"https://lh3.googleusercontent.com/YNuj518wcjUrHlrT07ojQ3iMLnHlQyJEUe6TgrqeB7VUjWmbCITjXPbvaTh_CjpxlYGjbVfHKMGBsD17r_bnbA"
+    },
+	{
+      "id":23,
+      "name_skin":"minha youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/HPlwg9QNqUwdNq3pf3fC8ZvcDnpkZE3CuUPMoNpPOyMWl7PkwHk8nZcHva7IT1sLhOjIYXqU6kTPJp6Af0NB6Ms",
+      "view_skin":"https://lh3.googleusercontent.com/cIcao4sny8-SBWaiSyPiBeqBI3otXu9GT_fC7Pwv-FYzmdvzWhKyBMzEUudo9zjIjnBp15ik2Y30PtUWvkl7rA"
+    },
+	  {
+      "id":24,
+      "name_skin":"red hair youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/DY6aYrzRYj0IcZKKTy_mIzo7kHk1oepnjPxrBd_AF39ZeF-G-ZaFMk0BviEWqvKAxIdUDWzOJV2xp4w2YJRIZav2CP3DZpX05A",
+      "view_skin":"https://lh3.googleusercontent.com/84-xCr-WBghI6EFJ2Q3n28vhPyHLZmPqtSAHl581KFar18OpU7diO5W5Y12AVCucUrhQmb-Un5Zcjr1VtTw2Fip1iOOSqE1Hjv3K"
+    },
+	{
+      "id":25,
+      "name_skin":"COOL SKIN YOUTUBER",
+      "skin_url":"https://lh3.googleusercontent.com/OQEWfte4bXQFD5Ur9bYArDM0faRDcAQLSypzYjZM4zn4ZZKTdv9L_xwPrRdDRh05XC-TzWuBko2pjpmSkpSy",
+      "view_skin":"https://lh3.googleusercontent.com/s7dww0AQ9RTw0QlPVARr_roJTkhJZ4SAVbZLO0BcOwDxrG30oT2zXJAfEHDHVHg9mFPyBgUlg3R4ZcMPUjSdjxY"
+    },
+	  {
+      "id":26,
+      "name_skin":"Youtuber Skin",
+      "skin_url":"https://lh3.googleusercontent.com/bZE5vfQOXjUJ8bPbiW-d1I6mELn-fZCKg2TEVU_nRUS-cx8Ffxzw3FmrArBY143EN7AoBW4AelhfjtiKWu0_",
+      "view_skin":"https://lh3.googleusercontent.com/i6XV_yW6T8nqpOeNiBWNqdZws1OoWqVpDlcV4gxfZTeyvRMkTkByuAbpccy_a-6PkF3UMqBXbtCMW8cMQDpq8w"
+    },
+	{
+      "id":27,
+      "name_skin":"youtuber skin",
+      "skin_url":"https://lh3.googleusercontent.com/bm0GVdZ25TT0BuCQS7KHS0hvY5EkCNKdjU3xIGj-U0rFGzShIUCSH0vscvGqu32riT_aXfGz5SFyeh0h1PSMkg",
+      "view_skin":"https://lh3.googleusercontent.com/zSjJIpGuGc2Tlybb3Qq_SSw1OP30A6Jc1H0eZBHhwqEFriqT_WAFP6v43UFGnzCZotf_z3P59qo-YsVRB--D"
+    },
+	{
+      "id":28,
+      "name_skin":"minecraft cat girl youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/5tyFFKR7BV3jXBUGJG1llLz5tHZ4uOR7ss2XrczD-7gFkKmc_AIEOc6KHrdBBPopeK6wTeh6Fy1cSZXdY0-orQ",
+      "view_skin":"https://lh3.googleusercontent.com/2h91l8pWcKu3ZHJ0J56HBRhYIGYiev3j5BJXj0Hu8ij2yk0E0W7yeHbaX7k0GfyqiZ27XM7zjCMOjDtWePQBiFk"
+    },
+	{
+      "id":29,
+      "name_skin":"chico youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/pncE6tYWJeF2DCmUDg2vudCv2TVyfBqojUy0PmzmWF-RyjsSqhdmKYecrxriHBFlG8Usj3XG56hreGnTlKAZ4Q",
+      "view_skin":"https://lh3.googleusercontent.com/yWAm1DphLMYCHJ64onL5zLJiq-t8Mg2u-UholEBNNPvqmOS1WQIIhkPHjVVZBWhFTrGnznmtvKXM4qsW0lUQ"
+    },
+	{
+      "id":30,
+      "name_skin":"Youtuber Emirhan Reyiz",
+      "skin_url":"https://lh3.googleusercontent.com/LoR1Yjp5cymQrNi3wU63NjcMbWOoOnP3Kxj7DsBhbzRNVNCC7suHxjBV049_1CQBOTif_os3XIJ7C0adEVuI",
+      "view_skin":"https://lh3.googleusercontent.com/KUgb7jqBql_PR3TEcHFj0RzCFQ70SD0hnv3viDSohHRPjewv7z2PDK1CS95QRSTfEmHWd14c8lIxTgYBj-8c"
+    },
+	    {
+      "id":31,
+      "name_skin":"youtuber gamer blu copia igual",
+      "skin_url":"https://lh3.googleusercontent.com/BjqFf51iDdpccY9pw7V-uP85vIM0r8xZ39uIVZTiM8Xna48TD4tAvbUYAVkgfgr9OzXlSk_6HV1cboODlfxcLxA",
+      "view_skin":"https://lh3.googleusercontent.com/HzO5LgKXPTFJd5Sf1F-Lxch0z4xar-pICARx7Z1AAKqA9_e1hhm_BCB3VIFWOUdVI3RYokncK5aMWWvjdWlk9pY"
+    },
+	{
+      "id":32,
+      "name_skin":"youtuber gamer",
+      "skin_url":"https://lh3.googleusercontent.com/NAvkijE5DWeMyO4_4aaUyjP-U_ePc6RjwvL0wiiuF3X3rclJiUnlaFsin0XtY4wVzxJWV2sRe5teqaHRzWRc",
+      "view_skin":"https://lh3.googleusercontent.com/eQ-kGMeVUBakRlNEY7b520hyem8sK0cenV8NHwQ5h0sp1OAi7JUWiWqiVha8rbbzfamZytu0_q2oCQv7ZcvM"
+    },
+	{
+      "id":33,
+      "name_skin":"minha skin de youtuber",
+      "skin_url":"https://lh3.googleusercontent.com/_KkcxGwB7BBFeYpvwk-2_KH8Kn7kqi-V_N6QElZ1nNlXYk9kk8Cm8-Bw0IYefYweIU2amv_p9Kq9jtpDRAsu",
+      "view_skin":"https://lh3.googleusercontent.com/a0YQJSqc6zHaHydnEfgkvyKFZE0RNvB71feddBvW8u2aPnZOxtCkuV1MK6WlQKD0uC_M4-k_uZ5KkOrp4wQOKg"
+    },
+	  {
+      "id":34,
+      "name_skin":"My Youtuber skin",
+      "skin_url":"https://lh3.googleusercontent.com/lilNWN-4YzdPRjpP88JI2I7eVnQx0PgWCfIxVZOHPmnh9OEiTh1ohnm_U4gtYdbspUjSFR1tbmJVwyVWPTSk4A",
+      "view_skin":"https://lh3.googleusercontent.com/rK1Dc61v_HsoRtmgBOnWgoUpEjrhZAW14lciRw0M5DsgDoDC5fSSih8lynOkEBaCB_yub1Gib9WtOyTbr_Ns-g"
+    },
+	{
+      "id":35,
+      "name_skin":"Rafablackss",
+      "skin_url":"https://lh3.googleusercontent.com/yvbVILioFbaWZEZDyuFDWxs0ZGn-7gbH9AJxm3zVgvBybOH9KDWxo1r8Twr0SNVR15j89aKhwSMJ-mo-mtjh",
+      "view_skin":"https://lh3.googleusercontent.com/_eYpI4QXuTAC4-1s_yvuSLNTOR-K322MjFSzDz6MzZS3dtJt6ucIeKpz8YUEjyw0oBkWQz3Cpcn12l0Ae380"
+    },
+	  {
+      "id":36,
+      "name_skin":"youtuber o gamer",
+      "skin_url":"https://lh3.googleusercontent.com/pyTquXrnvdbuwc9797AGrLNGPCSklEOpSuJcawboIFFWm_D91acnroWdOFKmYuO7ui09QpTFLZ9kMyfPJ-VcujJflbd_zE-QEXc",
+      "view_skin":"https://lh3.googleusercontent.com/6FSwVU33_ZX0NqF5Eq8FN3cSswBr-LEpLGJ8ZPI9Ed_Zx9nd6Ju1VQZR8NuBSEOcZkAQ8ENAAE1iQJ_XaVjbOPeT-uPnlNzdM1s"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
