@@ -1,0 +1,313 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Kamen Rider Build",
+      "skin_url":"https://lh3.googleusercontent.com/JaS8VKPAI0CM7GvAf-qHwvYUKNGHC_c-i6MC3DGz1H5Ad6laPzH1zipiSMj4dB5m2ki180XKZLlcH9fva_L8BA",
+      "view_skin":"https://lh3.googleusercontent.com/hg0376BNsShpjntkuRkKVvv-Z66nFsETnXuPy_q-CNaGvKPUQ6mYJHl3dM4142E8_y3JudLw6JFHHRDeDai07A"
+    },
+	{
+      "id":2,
+      "name_skin":"kamen rider build RabbitTank Sparkling",
+      "skin_url":"https://lh3.googleusercontent.com/2IRbl2fpQWFumxSCgglW3uA8ZVtQKrMsj_1yeueb00W4LNuON6KNdjG71TsFssrOt9YG-qmFEmGX377CkjSxSg46Lc2_gRR3Poo",
+      "view_skin":"https://lh3.googleusercontent.com/sbyV3Rvf2_tduFgd-juHCZquFHH5M_ACK1sEnL3uO4ztMB3E3eIwpm0OsW5NpOOAJXUHI4x47regWucBPAoo6NR7nY33qQ7zWmY"
+    },
+	{
+      "id":3,
+      "name_skin":"Kamen Rider Oma Zi-O",
+      "skin_url":"https://lh3.googleusercontent.com/bKqcNK6CI87TGWU5-DeTP7NX5gu8foc4Woq8m9PADbYpd5tWbPZ5nE_opaFuTTUERgXzF7FmlkfXaDr4kQuugg",
+      "view_skin":"https://lh3.googleusercontent.com/VcoR6cl7gNqCbeq2YoXbq663-fGxvI9n-47A_frqBz4E-x6-E_Am1d_Zr4nTqDiqfkmkRbKPlaXLWazccVpjSBAZbzcCMuIkBA"
+    },
+	  {
+      "id":4,
+      "name_skin":"Kamen Rider CROSS-Z",
+      "skin_url":"https://lh3.googleusercontent.com/l_Ti52E4gWJTKbC4QzFac7j5BiO8LSuIOOtKiMqSX1FYB3dRiwoGV9Mtgg_jiaSpAZJXhqU_KsnDNTKLsPbdOgo",
+      "view_skin":"https://lh3.googleusercontent.com/Wde09AnFGZTTwEcq07imRIBLwjMq7rQ0o5KgvLzodyx1-68tGviT-79if_YkyjxbgqR0i5MzzsTVkYkLkuT5"
+    },
+	{
+      "id":5,
+      "name_skin":"Kamen Rider Ex Aid Hyper Muteki",
+      "skin_url":"https://lh3.googleusercontent.com/0MFQNXfvc1Y-WM5lhBQFe6WwG5YZiMEirsVCDofPf1aU5D9lXmTxD6aEQaq6othu_uJ7t57i4iUoKWbvK2wVAn4",
+      "view_skin":"https://lh3.googleusercontent.com/FGfl9Xb6777bBhSamjtQiA_mCnTNWH8pSH5k1Io4rVC1zrndDkvQ9JRO9P4D8FBCBP5QkS_uj2JqckgAWW03iA"
+    },
+	  {
+      "id":6,
+      "name_skin":"Kamen Rider EX-AID",
+      "skin_url":"https://lh3.googleusercontent.com/aPRts-aieV52YisqBekci5KybdzL0GnpmcdlZIfIQMSNmbNHK21OaYlKiO83de-6830Ejsmi6wzPxbN3ApRfbas",
+      "view_skin":"https://lh3.googleusercontent.com/s3P4s1sK9jDaEoa5FFdtc-Q_NpVptQEv4Ir1AamUU1myylzWddT3MUptA9-XnTuwLGe0KIoO2Ssio9YZuhou"
+    },
+	{
+      "id":7,
+      "name_skin":"kamen rider decade",
+      "skin_url":"https://lh3.googleusercontent.com/LezQSX4GZDZjgPSjdqLqVI7-51HIeCig-ugqT5p8mDS1QDPzIgqz1ToGdK4-wo-5RKMy1hYCe8Nph3t6nASBTrg",
+      "view_skin":"https://lh3.googleusercontent.com/OiRiKiYnS4NRklXXDnCOnzGNIZbyLb8LhvQ3e_J54TjfqIvg-8Jz1XtOrULI2zzgbtToLXYeeR1HjaHFw6CK6g"
+    },
+	{
+      "id":8,
+      "name_skin":"Kamen Rider ZI-O",
+      "skin_url":"https://lh3.googleusercontent.com/SDB4MVII7q-MVTKHNiHWl5Pw3p96ainJN-DcPluO76UaMgrcrRx-87F3OCspw4iTENjaVYbd0_blVcEV6XH4Rw",
+      "view_skin":"https://lh3.googleusercontent.com/3gmYPBzgqUkyYsJBsfozJrgfX-F0debCJ4is3p9oJyalvD5bNZwOJPo28U-Vo7_OieDcqYClQHtsetLN0czFtb0"
+    },
+	{
+      "id":9,
+      "name_skin":"Kamen Rider Zi-O Ohma",
+      "skin_url":"https://lh3.googleusercontent.com/r1y9GShrSmFcrnvFIMvOhHEE6jTecpxuIRWm1CVfw5K654PsRoblFc4mIptjTRGwA-CoD_rpaQPFvkUvvXViwg",
+      "view_skin":"https://lh3.googleusercontent.com/VaW1-xzeIGzenEn4H-w1OY2Gr8TpChVsgmAFODt0yKtN814aU1pRzFkn00qteFYZPPjEnDwxUuGtw6QX-Lrn"
+    },
+	{
+      "id":10,
+      "name_skin":"Kamen Rider Build Genius Form",
+      "skin_url":"https://lh3.googleusercontent.com/YmLUDscs8yFT9YBMcuURiNW6e_31jVBatQKder2OVcSzxrw_VJQgH6qXzUDm1b-RNgSg1hJ4GlK9ASIjgn0lsQ",
+      "view_skin":"https://lh3.googleusercontent.com/Hcgoa8c5aeZ3bXt6IRByhDY-IyPwHJFp5UZ8mYrwSS41dv2tevabHiaCrhbGI3C9uCFKW_087gCClpzeEs8s"
+    },
+	{
+      "id":11,
+      "name_skin":"Kamen Rider ZERO-ONE",
+      "skin_url":"https://lh3.googleusercontent.com/Zrs7wTeBhZ5VjNmH6LJFjvWIqGd9Cc_aCmFsgH9GIzn4-s-V1D9q4JPz1Bavk4pAAD3i1HtF5vJSZTsoaXuMBmk",
+      "view_skin":"https://lh3.googleusercontent.com/Js0F3c7AB8bD1ZObf4Um5ASP4jIRNhdytSIamu4qn-caN0_N1-LosVfKMFmR5KLHi3hVVHhyL8I5iHjviTWiLQ"
+    },
+	{
+      "id":12,
+      "name_skin":"kamen rider saber",
+      "skin_url":"https://lh3.googleusercontent.com/z3q9FXcZAjCd5gFSoo81Rh3SmV2zSOKyn8PRM9QyhfgSR20B_mBciSJ05sqp9x9KKrL4CBJ91uORdY6i2712",
+      "view_skin":"https://lh3.googleusercontent.com/z1_GTdBVPg0ffgoW8X1GIhzrnDt2TJnM5IyiN8FWMg_AYj_vFo209t6tozpX-_XmaiSgam1AJlHqRLCSmM2omQ"
+    },
+	{
+      "id":13,
+      "name_skin":"Kamen Rider Zi-O II",
+      "skin_url":"https://lh3.googleusercontent.com/w4-VpjT8gKrM12a8GsDEiDsjl2WPFuOAnD4P05aUttywph6cImHZ9j9coPwVqhxXuAC91Hf92C_Jd_WtLiky9Q",
+      "view_skin":"https://lh3.googleusercontent.com/jfZh4_8MGiqp8tq3bsqVwbWgLtTjz3VXZWqA1PFQ_fzAK_xthOOz4zVi7QVOxV0KF8xrjrZ67hlCc5C1pXNMCg"
+    },
+	  {
+      "id":14,
+      "name_skin":"kamen rider ooo tajador",
+      "skin_url":"https://lh3.googleusercontent.com/ZZMC8-kRbg5EmHgeDLezQ_Y_LN2efIHd_896iAom8y8ZIrc8I1Yn31GB7glKFCuGw0CH00uTmRMq-mpzdnqqtrd4iECabBsdWV4k",
+      "view_skin":"https://lh3.googleusercontent.com/2bBUYcTbuHlPwkX430j0AxzCj40Gg4rc90DhuHo_U1PGIYRr0M-tnlp7aWaar_P8Yk8GEiEoGBnQ6KP2slzRMhw5khUj4IKXzQ"
+    },
+	{
+      "id":15,
+      "name_skin":"kamen rider element water",
+      "skin_url":"https://lh3.googleusercontent.com/t5PvQVI_qiIlws4UwxkrDbxk281DaNI1PI6JY0bxYjmocl2KV-0eLHPvY7CmbHqsb8v0WbbnZ7iKPm0y52PpgQ",
+      "view_skin":"https://lh3.googleusercontent.com/r2ZbjaQ98VD6eWjl_pGdb3JUGPsY_Nu-6ZdaS3gMHle7AlCcKSLlbAuV2JiRp2U0NT2CDsMgMljLG-QB-yJk"
+    },
+	  {
+      "id":16,
+      "name_skin":"kamen rider flater final form",
+      "skin_url":"https://lh3.googleusercontent.com/WCSQbgrMxwPcSlvUuT-QUU_GnUG4xTKr9Hv_JG0-SUyW0S5TmBaHtdpiuAeLRB-1SnOnOCjLzTR65xSm102JVI4BRcYCkBadCoi4",
+      "view_skin":"https://lh3.googleusercontent.com/PvQGc6BjqVhKFx8jF7QXtakSi7QAzAaj02fpPt6AsC5j5BFzdbkzV91Mz1MGfrAWB859pKaUQRQwrsHVoa6OC1T21EhW2heoTg"
+    },
+	{
+      "id":17,
+      "name_skin":"Kamen Rider DRIVE Type Speed",
+      "skin_url":"https://lh3.googleusercontent.com/MxtxfVeumalGbSBPsGUbhkDDMNXf4NuV9Bk3KNntcamhYLLJ9GwUs-FAGOqrsKtJTpXqIntKtpTX-UFbqJXfsw",
+      "view_skin":"https://lh3.googleusercontent.com/8l79lDDJTk4h9-rgnGg9C77FH6Hlr8mcH4mI2AKbp4kdEXNdtr90zQYwqdbB5ZtVoFrhFGw4gdAeOCXIguHQ"
+    },
+	{
+      "id":18,
+      "name_skin":"Kamen Rider Glacier",
+      "skin_url":"https://lh3.googleusercontent.com/9AtR8svD8k7_6Y7HHEnr5vTEHKcrpM1ucKHt7A4KByqjQyM5uw6RK_xTl7GpAlSZyam0dn899ChkKhJY1Q3Skj16Kz_Pcaf627E",
+      "view_skin":"https://lh3.googleusercontent.com/9frWofGllkNx_opyER5WWrD_-3p85DI_6BLxciV9NlLw7K0ElGrB5YKtHMCaYQvsoxjCd8FkKxBcRfm5rGHfHTNastXUuduemlM"
+    },
+	{
+      "id":19,
+      "name_skin":"Kamen Rider Kabuto",
+      "skin_url":"https://lh3.googleusercontent.com/0ltULHA_pWrIjo7HebN81Jct-_RhKpkykqMOre_dt64MXYsdvK0cMuKdOwHjCxESazhZAhW9VhNjT8XKoMi4L2ZjeUQZNJQawkM",
+      "view_skin":"https://lh3.googleusercontent.com/25mmhjqK0xyPuswhjSsJMCjvXS4MANohaENPYtQRqEzehIifctj181LtSV5jODx5_G9SM1-p8mal7x5rYATMX7ls-VHmIDqbAw"
+    },
+	{
+      "id":20,
+      "name_skin":"Kamen Rider Build RabbitRabbit",
+      "skin_url":"https://lh3.googleusercontent.com/vfz09DpgHyX6w-LPq9kFNX-HIVVmrokwqYEvII3tu4jSBdz5mp2WVlTfQ-5yRyO0_K-eBmr1mME6uBn0ToxF7Sc",
+      "view_skin":"https://lh3.googleusercontent.com/hQL_fSrwRVWPQYNPdaU1MrWz7J126VEoPsED7LgQguyYNE44tufwXefLGEm_dsbznK_bC2x2CkHOX4YGCeYnkMg"
+    },
+	{
+      "id":21,
+      "name_skin":"Kamen Rider Ryuki",
+      "skin_url":"https://lh3.googleusercontent.com/sgmkHJ4AiZdqRGqoILQG9nBQNtkzp3aNtZwf7PJ8PdkrutGpgbm7lt76icQuPLD36MOKSsu_P1M0NqkKWofvbWE",
+      "view_skin":"https://lh3.googleusercontent.com/NI6wdoUnTjdSUR0pPbzzz8msvoGabrDs781P0JHxrdsiIN5OEpglHgevKcBLOX9QG4Y0ZsTHC9gHQ1Tt-719Ng"
+    },
+	{
+      "id":22,
+      "name_skin":"Kamen rider rogue",
+      "skin_url":"https://lh3.googleusercontent.com/7CCm_6QkG4i4IWrpQM_RDEirGL2-5C8HAAww7H3uiQkvYwGelp1vOmoWp1RW6yenxgd0dLkqIA7YO5MWjfD3dQ",
+      "view_skin":"https://lh3.googleusercontent.com/UuWMtnf7pCn2u_1HNGAeUUojwZ9yc2Bv2W0vbx_juTbvqu0oNA-qU9mXMzFwYFhZ-OwlOSunwaobd0Reo0mz"
+    },
+	{
+      "id":23,
+      "name_skin":"Kamen Rider Gaim",
+      "skin_url":"https://lh3.googleusercontent.com/re96eRtLLHBvR3Kxk9h0M8o4DOz4aAdnsklJvW5FPU4Kz25qNJs-6seMs_idKkf4fYNeN9ZJwmMKaXnG1kh8mA",
+      "view_skin":"https://lh3.googleusercontent.com/aIi3mIvpAAaGKnJ6NT63ayv7-JgjAhJIzM-QUFL1xKG9VjnWFdXI6YcITsHfGbiGDVEmOHFELZyc7iyUScszm3k"
+    },
+	  {
+      "id":24,
+      "name_skin":"kamen rider zero-oen",
+      "skin_url":"https://lh3.googleusercontent.com/5qjgt1IHVyaaJTLEqS1r_O0xsy7EkHLWrw3lJjMEDCV9dJt2fTqAFH3s_jpILDaFDwxr87zCifm5qjjQch1J",
+      "view_skin":"https://lh3.googleusercontent.com/Xdsc2lPmFS1nPmg2xfhJCCF8v2Ih3kCyE7VymnWfGMuVhRSjbvghSvPXinrne-wgmrja6Bau6o3yUhv-AAxdiA"
+    },
+	{
+      "id":25,
+      "name_skin":"Kamen Rider Ghost Mugen Damasii",
+      "skin_url":"https://lh3.googleusercontent.com/1hq0t6g08eT06-Io9F4a0q7b_58ELXztfO8-8DvQIBIEoUmwLjPfA1b7xZuKKVPeAT6PXPw7WdmuYjaa4IDtNg",
+      "view_skin":"https://lh3.googleusercontent.com/uZnXh5hamJlZVrFWKtXtermfi6vXmIeotkMAPPVSDkV96tcWrYHn8JKfOxe2D_jodfJEd2DOvK0UtXMjDTLuVg"
+    },
+	  {
+      "id":26,
+      "name_skin":"Kamen Rider Fourze",
+      "skin_url":"https://lh3.googleusercontent.com/ebSpMknYq7UFvmztOXHROoTBMG5bp3_nbNAsrNqDBsFJqU09UFeo3iJ-jvXj51FSJsXzNPekE7wPKkC_C-gwkQ",
+      "view_skin":"https://lh3.googleusercontent.com/KM7Z969CwIG_LOsqi1KuH3VRuzVv_ZYd9HiJATbxKcnbgFG1nTCE-eReG77nefW8w4c7O7Onp3p60UhakwSe6F0"
+    },
+	{
+      "id":27,
+      "name_skin":"kamen rider xross saber",
+      "skin_url":"https://lh3.googleusercontent.com/WSy6Zv9KCFWtJSr9JqoJ3NOSO7Ce7KsHwco2NsKXQbgBUHdZdUQgTnnEpefppzRl3YEPKkYgqNofQMT-wlKmpKhB2wfKAuWlY3Y",
+      "view_skin":"https://lh3.googleusercontent.com/iINPVBKk-ZO2g5G4eCTd5KQJcNnYxp2Rj7t7ny-Xgev3bNQoHh2DwK94qRI10PKzr_lFGZ2pYCfSdf0MVqbtDwE1OZ_YXRPijfM"
+    },
+	{
+      "id":28,
+      "name_skin":"kamen rider drive",
+      "skin_url":"https://lh3.googleusercontent.com/FVSYPNW974DvEx_sULq4acFhK3UyKYB-VqPMaaxYh_ocy7I8NUlYtrREaeed-3c5yXHRuA0KEnaVXKCtVbOK",
+      "view_skin":"https://lh3.googleusercontent.com/ydA6AUrBnbEbSWbsvOy79vArZn7hgcRxP7vAPJyvrIKS8VVKdjwRu6W8vIY-EFsAv_j9TZL38iXqvB2i-rgl6A"
+    },
+	{
+      "id":29,
+      "name_skin":"Kamen Rider Ryuki",
+      "skin_url":"https://lh3.googleusercontent.com/rnmZR1vebPa7AOqX3hJfmUT1JZKvJtWRNY9nwrYJxfulU6Qt23YiyjeZnMdLgw3S6RZinmCltiNIL_EYPH9OgQ",
+      "view_skin":"https://lh3.googleusercontent.com/33oldj_XWFV-McLv6Cpy5iF7ACwBAm5dUvaXZ4_ciKeDjZr__lw87w53OVwF5I8Pkk7yVRhLWQUBXU4olBBmU7Q"
+    },
+	{
+      "id":30,
+      "name_skin":"Kamen Rider GEIZ",
+      "skin_url":"https://lh3.googleusercontent.com/Z2SsX-EExthuNjWJ9B3VxRR6IgKIE6RqBjjTHzaEnr68gXnubE-X4Wiz9h_gqC6uay6kpMwo9fQiWp295Oka",
+      "view_skin":"https://lh3.googleusercontent.com/byO6I4dgmL1OYH0eLIP6RKoR_dv24kFhPv8ElhlkE-V8J-MHAFyIL9nXtztMsMQAGnr92piaejQeuM0e1eYXZA"
+    },
+	{
+      "id":31,
+      "name_skin":"kamen rider",
+      "skin_url":"https://lh3.googleusercontent.com/MEiYhFYSo_R-0azxzIZ4iYDsonnTdwH7ZhstlfQg5Oh-7YVyZU-L7ITP3U6R51491vweWBCMeU1D7BSdaJ2ZcasnCZx2NQ-0MNM7",
+      "view_skin":"https://lh3.googleusercontent.com/6JSPCiKirDJEsfqH3AVolddKnSqBqX3GmTcjaFpTibKY_rXYnMP0fDSnpOTtrKpAOTUdEvHiXC38HvQQBXGR_q-34s7tCgrAmATT"
+    },
+	{
+      "id":32,
+      "name_skin":"kamen rider",
+      "skin_url":"https://lh3.googleusercontent.com/YPlLQHsyTp0r6vHX1RhAI57zYRiEkMNU3wvsOx_4_7FLSOb-gH4SDXKt_wIejldhK0lWUTMqmdjIK5aZntXgheduZ_E5lfi0M3M",
+      "view_skin":"https://lh3.googleusercontent.com/uU2dL8VC5sDBl-uW1Ngg-JZYkLa70wgLRc3bKa7K-AVH7tXW-pEQM4baTk4szFl6NkxJ4ugqPFEj1zSZ73SOksZaRwfkBug0inQ"
+    },
+	{
+      "id":33,
+      "name_skin":"Kamen Rider Nidhogg",
+      "skin_url":"https://lh3.googleusercontent.com/yQhydTy81cj0VI8uOUPk9ZCXHNfJDOHI79KQ7zjxs9HZxCuxdOOobUigxJYCEEgX-oA4aC_8UIUjqSDH3Tl_YvgEcX5Gc5DJhg",
+      "view_skin":"https://lh3.googleusercontent.com/k4opXMoGEXM5pSUh7OhbU4IzesaKvmpnSWdpqf38NpKZmzTSlnE53gkK588vr7KHCPYZ5NvglJz_b-1VyZSzkmjiWIs0k4B5PQ"
+    },
+	  {
+      "id":34,
+      "name_skin":"kamen rider kuuga decade",
+      "skin_url":"https://lh3.googleusercontent.com/inZ0fG5gGcR5RGVBz8ceOy9KnfNdhK5GcOo-eJth95qGsqHSO0kmILD9NlMiRq53jpKZwlayFKpj6iD-2zKvWM272YXABJAZgg",
+      "view_skin":"https://lh3.googleusercontent.com/UYt5PkbVj4mK0RGsUoeCOLaqedRQa4nsjLT9q1sbvmz-hvZz750RqdMQEs3r6qBiDxI7qVEaVBUi_4gupDNSxk9Z-x7pdpdmxg"
+    },
+	{
+      "id":35,
+      "name_skin":"kamen rider black rx",
+      "skin_url":"https://lh3.googleusercontent.com/SnQCuF93F-uEQjpD3nHLv6Bnym3NsgHsTLuKjipXjEcV1Xc0GVi8YYeDT4AHYtdV-2DwlL43yI47cbajF3Xn7OUcekEdBvYWjKU",
+      "view_skin":"https://lh3.googleusercontent.com/wmz_SVkdOmO6lTgbyiSnhDr-IRfpD9UZ9QUPrubXE25TSkONUfzWa0sju-aRaQVQDDOwYkXgJvLBH_hpaYaGZRvfW-0GEszACLg"
+    },
+	  {
+      "id":36,
+      "name_skin":"kamen rider black",
+      "skin_url":"https://lh3.googleusercontent.com/EbHUl4V2w3n7pSBA7yJWLcl-V_kDvWh6tqUO0QVCOrjQ0K-L_qQpjBisj1_8xbePtT0Sqc9a67D2S5WDCIJh8C2mZZeGf4kfTOQY",
+      "view_skin":"https://lh3.googleusercontent.com/8LtcalOBp_GdFsjTsmTN5rQuxclEEn7iBYELd7Z8bv2uSeuWvoIo36sQBlnS2Hl4h3M6XfB25rDc-K8jBARoy78S4bjrWG1U"
+    },
+	{
+      "id":37,
+      "name_skin":"kamen rider DCD kbt ver",
+      "skin_url":"https://lh3.googleusercontent.com/_g8s3W3r2K5k9Phund2DbLcZqlOR2ENJEqvgixLjjHR68Dc8-13lBIkkSIaTqVUfGfq4lbJTJX22J94309JzAGp4GulHYuFv3Q",
+      "view_skin":"https://lh3.googleusercontent.com/ibQ0zQHMYXQqd5LT9hvrNZipclzS7DsfOyryvUmSS-dauK1atALK0HOlcKODn0dIaPsD3OZHz0D3Toc-ZuSZeyXlsMf3RicROo8"
+    },
+	{
+      "id":38,
+      "name_skin":"Kamen Rider Black RX",
+      "skin_url":"https://lh3.googleusercontent.com/U-GIovfG3tO668iTPokdATf88qA5COMJ1IiYE39PKM2TNUKhuPaYgugsnSw-YJpSk4uzqLNaKJopkjgpxXDi8w",
+      "view_skin":"https://lh3.googleusercontent.com/jOC8yEWyJHEYXYNNBCfB_exPENt-aIJ0SjU_9RzK4Pe4WJ0zViNoN65Kez9sIa6YbMwjL0wAOSrHOcgMLSxBcw"
+    },
+	{
+      "id":39,
+      "name_skin":"kamen rider ying yang oops rex",
+      "skin_url":"https://lh3.googleusercontent.com/ZUILpAhB9Ln1L6FdAGymr1tS0QdR1bjwc9XyrEZTvoLNS0NbZ2QCpW_TaWi-wgKcy_Ak8aFtkM0DZy9pmbdnBqGq3dnmi9qqvg",
+      "view_skin":"https://lh3.googleusercontent.com/tpwnXd-Jm6uq-d7TG70ei75T16dIFkNt8YohJu1JRhJFmNQ3ja0xVYjUPqmvu6UUeqolG-5QB5sFJRpKDjSxt8lV63uTPO40OFQ"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
