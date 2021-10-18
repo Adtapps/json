@@ -1,0 +1,277 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Kawaii Baby Pink Anime",
+      "skin_url":"https://lh3.googleusercontent.com/9mwiKWIix-5UdL5XPjcTGMhlQWO-KBfKTRaTuIt0e-J7Hybpulj5mZ-2P1qb6Je9Cgfs1lqKxLC9kFQ89JvPBSI",
+      "view_skin":"https://lh3.googleusercontent.com/1inu1DE2J1UxL6v9qmxRkZiRofr6Cp5TPEtt5bhTZfD21lYTsnwjqDWGsmlaOD3V7toEc18uP-_3t1LzK1KBMw"
+    },
+	{
+      "id":2,
+      "name_skin":"baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/sEg1BuBJRknPEBfAZHvr0ypfydCUH8GpXvQW9sq-_CxfcIk_RxtI3I8yyKgOV74kd1AlP25MvoQ1TK_GjP5T",
+      "view_skin":"https://lh3.googleusercontent.com/U-ZFIlDNnI34A_6UANIjgliBtYhTM0giKN-cxHrQb6Tjmg02-rJMExxRVuEAbj6EFNco58KTIQnS3TYaA9cczA"
+    },
+	{
+      "id":3,
+      "name_skin":"Baby boy hd",
+      "skin_url":"https://lh3.googleusercontent.com/PZRqobHGrVrVnZ8dZcWdOXP4BZAvlpbrujfGJ_lcE4wYjAi0mL1Y3VWCWxV-hUfxFRBFupe3t6gOwNdOBHQ3_Zc",
+      "view_skin":"https://lh3.googleusercontent.com/Zb5Ddi9XWW6DcW3wy9rQPykmMoA2uJHOnJc2bTOiAvxZspJ3ZK-FvQhTUltUtWMd-DXDnLtzBcf10O16eggtag"
+    },
+	  {
+      "id":4,
+      "name_skin":"BABY YODA",
+      "skin_url":"https://lh3.googleusercontent.com/QpVWuLKmU_Ly6DcKDTxWXfx8iXxanBI9bDe_JRwArWLvFPZMrpZhUgeOUAQprAeZJnkTMdic8tw2iPXPuLztzYc",
+      "view_skin":"https://lh3.googleusercontent.com/PgufeixrfnisTdjHF1vi_3WeV0pG5RWWdKGt5i6zuO1363ofIOqaaF9nYTlkq45f5nIoW908Ptp5eJEafIo1"
+    },
+	{
+      "id":5,
+      "name_skin":"Cute Baby Cat Girl",
+      "skin_url":"https://lh3.googleusercontent.com/C4utwvP_3nsgWEfF21b7KTpHIKphFyhFV7WJDNzHQ2xqm7xYogntGwltL2XhFajI3zJep8UDid9sBC-nQDcX",
+      "view_skin":"https://lh3.googleusercontent.com/CvtfobdHiu_SmBEimKejxqQzZgAc2lxIcWMDjzt5Fe4AuU7CVdJrVimZT8xzuB9S0NHhpiM17wYXaWiKOzkqeQ"
+    },
+	  {
+      "id":6,
+      "name_skin":"BABY CREEPER",
+      "skin_url":"https://lh3.googleusercontent.com/7NgEoJuiNhnGd0I7NIp3mpSefnlN-Lr62Ywg7U8C6OeMt0iZz-92dypsVuwoIcTp3zzzJFwkXJ0_tYSmhJMv0Q",
+      "view_skin":"https://lh3.googleusercontent.com/KvcKFxLz7BKtz92kmYQs3akZLKK5wr0pRfg5pWQFSAPkQvr3f-pX_Iv-59aXXFOPAP6jtM1Z2oeybh3EDQhV2g"
+    },
+	{
+      "id":7,
+      "name_skin":"baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/jX6njBTIjKFiLjoPXQGWKp60J0nQnYnsV1HbYGyJqO2RF3QBu716e2ws3ZTAJ9Pk17mPagAU6sn2wusuBZzT8KA",
+      "view_skin":"https://lh3.googleusercontent.com/vSmwCOefoKYjvy4aKNGKLX6CaersPVtYqrp6OkJ-Dpgum3I4rYV_ku9RqISPg6YQ6f2DQjpKUNyWRHWfgWwkVA"
+    },
+	{
+      "id":8,
+      "name_skin":"baby girl looks cute but watch out!",
+      "skin_url":"https://lh3.googleusercontent.com/dQh9vSEHrilz8S9NBtaRl3hoRPi0xl6o7PnR7vbu6wY_Om6E0zOklvpa8FlfxJby_-tLXZrhSwDpNoTWvu__",
+      "view_skin":"https://lh3.googleusercontent.com/6q_QFo16zEeVNJTFKDWRREQxjV7psrVTfaNCjeHzwNVRtfFN0gtFBkRKBm4gPMV5Mr45Qr9y6xKFgSYsU11HgQ"
+    },
+	{
+      "id":9,
+      "name_skin":"baby FNAF sister location",
+      "skin_url":"https://lh3.googleusercontent.com/KxHgM5rikxlCf2_NAswCo1_CaulJ7h_3FJrHoMQIOd0owXulS9NcgL2mBo8xiPMTEPyj5-YRqWkgNMME124",
+      "view_skin":"https://lh3.googleusercontent.com/2v4uDbRyYnvYQEBx_HzgHl3zoYA922avW15Y5p4rndc0g-uDiDotOXoritKyO4YghYlK-aFLPp9XrWpF2tta"
+    },
+	{
+      "id":10,
+      "name_skin":"baby gamer girl",
+      "skin_url":"https://lh3.googleusercontent.com/-6nZCpASyVopFgsc1XDnaTR6OZqff07_A31YzH_G9YWJTIjA0Hk5TjPBNqPaNybbLzLnxvwntHeRdU3zk6X3-5g",
+      "view_skin":"https://lh3.googleusercontent.com/lkVLYPLZlShjbJpU0pJ__UztFjd3_txCToSPd7C0bVMIe48YJAl1h14xlIG30vJEzne8sssxjwtsN6wUD0GP3g"
+    },
+	    {
+      "id":11,
+      "name_skin":"BABY GIRL BABY GIRL 123",
+      "skin_url":"https://lh3.googleusercontent.com/ASCBWbq-ogAi6ODaBuKwZ6_TxvQ5jRYHufN4A4WvyDkclFUyYnbUWzKoBUcnijq2-HKTVlo2DMq51cpp0IVipw",
+      "view_skin":"https://lh3.googleusercontent.com/I0ZQrisOS7jr7TdpVJmG5qRjt0wXhtcdbDKBXE8dAkFwVbVz4UEAOxsfqaHdW4g3Gom8aFdYOwLI1sFCJ3r5Bq4"
+    },
+	{
+      "id":12,
+      "name_skin":"Angel baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/xRoIBGf2wNqIR7eFVT2AJO4YPlMoZSd7kjZM_M8jfwcuBiCeekt39P3_qv6ire3EYqZqMDk0G4nCvLKFfSW5yZc",
+      "view_skin":"https://lh3.googleusercontent.com/ZH78WtmONj-2OwlJuY_DgOPm8WYjpHD90TbIYXufR7vKO52aiP20lZpWv-WDXjWJMuXAfut0FBlIHHPBY9KfrQ"
+    },
+	{
+      "id":13,
+      "name_skin":"moe liza baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/T0JhtxRkHD4MPM-fC396N7RLL16Si0YTXPvcrle977I-aOQs0f4FGagoZkb_tvn1-NGcqcuf-8T9Tn_8_K304KQ",
+      "view_skin":"https://lh3.googleusercontent.com/9IaAHvCdG-t_nZ_HTuiDbOy6y4ehzuX66vD1W00n6XxJElpJRgR7fsW_Fj2YZbSIktIsZ9jJxC_W-pb3tpyS_g"
+    },
+	  {
+      "id":14,
+      "name_skin":"baby cat girl",
+      "skin_url":"https://lh3.googleusercontent.com/VxyCPVSX_XtTPZQsYpaVxWCFTrL9yNekCytn4UJR1CGM3KcpSxaYEcnKkgZRnUZWmIJ3fAR7LMV0WUoIkQ6F",
+      "view_skin":"https://lh3.googleusercontent.com/8qRq486IE5lvDZm75MEsGyXVzxklYGI90sAPtpIulS8X01wwiXLG1g_ci7RZI8cKS01F2loCV3bRckk6r9Ah"
+    },
+	{
+      "id":15,
+      "name_skin":"Baby Tina The Tiger",
+      "skin_url":"https://lh3.googleusercontent.com/e2QV6QHZ4xbi-ADwy-fMgH6mIh32Z5_qssyCsPjQEKvxYuOpKTiYh-58j901iTRWLxhLd2asu_BsTZYFxIN30A",
+      "view_skin":"https://lh3.googleusercontent.com/CBLr0RcjTGaozZQA-zZzM05LrWHxzn7-NneCG2Or7ZMdVRO0Di5P3OuG_5NXPzDXAZw32D-c_pgtbpKZmFCxTQ"
+    },
+	  {
+      "id":16,
+      "name_skin":"girl baby",
+      "skin_url":"https://lh3.googleusercontent.com/J0176QDS5KyKnLlc_NiYrdGQl6QFltPZV87KZYiM1bQ6wZo2eE9cjQtrr9qG2z9bET3i3Sr_TuwQWMuq-f1p-w",
+      "view_skin":"https://lh3.googleusercontent.com/C68VCkINompTnBgpM2Bm-Rum5c4_W3EKbB-mhmVcRsxddgoZLnDKWi5H1JQkU5vGqqmWwgSSyTgWafKGv-o4WA"
+    },
+	{
+      "id":17,
+      "name_skin":"Cute baby fnaf sister location",
+      "skin_url":"https://lh3.googleusercontent.com/MqSKmon28kzSwMzq8xfIzjeVRw1VUe5U674b4oaGskxixuUEteuLklsUVSLUgEWMePb5ThoY27ATB-JMvpw4W7o",
+      "view_skin":"https://lh3.googleusercontent.com/_MHtZuHWcDTg9IcMvZxd9OunhLcaXxohCSBy4-P44axMAWXnqwC5C8vv8lUmx_ZLiqP-JmbR-d7KEXS0a_7sy_Y"
+    },
+	{
+      "id":18,
+      "name_skin":"Baby Bunny Girl",
+      "skin_url":"https://lh3.googleusercontent.com/c14QMvC0IkSjAcLkoxBW285oJeqyx2tXYU27vMWirlOLI3LwfPYHgOZw3LQYCkN0swg_RdqdU_tE36B3fY1_",
+      "view_skin":"https://lh3.googleusercontent.com/gOf_794UsGjD1Ty_ayfoC9RsuDr5jmUQGx3o6xJVyie_j4cTqYQA2O-1AjrlCc5csfs0aMeBxdezaDHJFzZo"
+    },
+	{
+      "id":19,
+      "name_skin":"Sweet baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/sH2k5NOS337ciKHUlW8qdV7rzIX5_SB7areh0jfmZVQXS0hSA_rN5ufjGQQcu7_a5d5EB8WNp2PvckGnJu7g",
+      "view_skin":"https://lh3.googleusercontent.com/tx1Rdes0EgFUjdakXAeX8N3BtKlfMBrQE5PCKbg_mkZVX2TnufX1DfTaeHw53OBWILflinRYd1JsOZx1I1Pr"
+    },
+	{
+      "id":20,
+      "name_skin":"fnaf mangle baby beer",
+      "skin_url":"https://lh3.googleusercontent.com/E30oFDUzVkje_4uCo5B1FaeONjYJJR0QlzIeLZIEEqJ-bDYlHtlzzHCvA0soBjlU0aNSS95Ye0fANPnIoexbKA",
+      "view_skin":"https://lh3.googleusercontent.com/rKZxg3GzI6YWwfg5TKvUbowbuaW9qJjvF7ZYEN0cQfRp2txApgHZYFTIfPAepeAW6LGa5Dm4EMGjwKLoKtgZHw"
+    },
+	    {
+      "id":21,
+      "name_skin":"baby kawaii girl!",
+      "skin_url":"https://lh3.googleusercontent.com/zpQY8biX1MaPVFQbacTvqLSY9rbN4XauRml0qNrfs_z2LQGQErxHbG3AvfjH0W-2PMBR9Tsj1AoslGyPpCdGLw",
+      "view_skin":"https://lh3.googleusercontent.com/JVoPrRPwz9y4gJuWbtbXMzX6lajeo2Btpq4VtglO1TEVQDpnuvwAZ_akvw1_O16vSNp1XMdUiFhqZNtRf4Jk7Q"
+    },
+	{
+      "id":22,
+      "name_skin":"Circus Baby V3",
+      "skin_url":"https://lh3.googleusercontent.com/y11hxhF5Z1hVIEyEfEfbBXwn6d85de05-NkJrGIoheOezHOBPCNGALPs4aDdWssHTCSeh9uymCTBc-STR2ryVw",
+      "view_skin":"https://lh3.googleusercontent.com/nOQEi5q_9ReS10UUEy14bDGpig9_9Rj846zGXh4I66NdIe_qnyhdhG0A6nz-qCdGgYDGa5rgbVAC7tUT2FxP1Q"
+    },
+	{
+      "id":23,
+      "name_skin":"Baby Duck Boy",
+      "skin_url":"https://lh3.googleusercontent.com/TsEm0LPtLToaKqREccoizZe31YmsSw2PMETvvbdxbQxVhWW5Uf_B8zgIM0aBxa1q7j3J3nFXOnBVT31mW5brSA",
+      "view_skin":"https://lh3.googleusercontent.com/edhZS7NV4LybVdSnS2Zpi7ySKRac6phgJcIyb5LQNNJ19e0rHfTXEvIQgMWPuji3DWtldutPMBn2OnisPFmE1ts"
+    },
+	  {
+      "id":24,
+      "name_skin":"Baby Bunny Mindy Blue",
+      "skin_url":"https://lh3.googleusercontent.com/wbaEqtYtDQOVULs5SiH320-4mlhW_Jyd7o4Mvy-wiodqWpuaj4eSUte0WX_8yUD0SX9wkWnPeLVDi0gOQBS1",
+      "view_skin":"https://lh3.googleusercontent.com/hKoVGt6DxTzYQ8Ic557R-_SjpIp7FNjBaS6WtjcpAwUoCaSupHTPvWk24kx49Y3vlPJaz4k75yjQ87SRg008EPY"
+    },
+	{
+      "id":25,
+      "name_skin":"Baby PikaChu Boy",
+      "skin_url":"https://lh3.googleusercontent.com/Sxq8ncJh55tRvo2mrXn83r6T612egZj7GE3_A2urc7y6FH18owkAhdJE-1pkvCV-Smfz5YE-s3xofJbj8_aMMQ",
+      "view_skin":"https://lh3.googleusercontent.com/yn4K_Noijou7Y0XpXE6ulkbi4DUzvS4fiCSUlV3JPmJhhu6VwvWCe5Ra_48_4YSo-pbxIdIx9SKowV3JaY1l"
+    },
+	  {
+      "id":26,
+      "name_skin":"baby shark boy",
+      "skin_url":"https://lh3.googleusercontent.com/wSMND0nCCjTRF2YRpPw7LMkXZ-U04rqmJ1w20yv78sPj0fQwxItue1IbcIonThExQuXhUIu8Oru1whPwf3yTnYWGzs9SXtEctWw",
+      "view_skin":"https://lh3.googleusercontent.com/aP8i94Q5bjd1F4gmJ3ouPgfBq5YOuZNiry2M1fSSQvP0Hd7zyWuHI6izwoL4sea361IBGwoLZJcfT745A8Yte8FXTJv2ob16eA"
+    },
+	{
+      "id":27,
+      "name_skin":"Cute Baby Dino Girl",
+      "skin_url":"https://lh3.googleusercontent.com/7X0isMwjOF6LcsfFOHbd9WRjUOa5q9GVCDjfDhSAxjsLvW3uuYdjFPY9V5VWEWSAJXcaGjpkhGx-kgdtRIWL5aw",
+      "view_skin":"https://lh3.googleusercontent.com/724VqlyK7TblaCPF3sOD6n7-3t1NzYcb_DmS8XUlsg-7L2qDSS1vy6mrISivtOpeJMyXn4GmycZpwsWrAW7s5w"
+    },
+	{
+      "id":28,
+      "name_skin":"baby duck the small one",
+      "skin_url":"https://lh3.googleusercontent.com/pmSQLE4V_SotKpW8ZmL9tlZM9qm0v6pv2qG7CvBxvqxKLGfhR5lSho4uYCRUvjOuxbPVDifWYZ2WgrTy6cP43w",
+      "view_skin":"https://lh3.googleusercontent.com/lQhG0TScTX7jxhaXlOLWH42vAX8O1163yNuAPDMaw2_63m_y2CCzxzOkgsYYh2H3mAvoCSur4Vczg8hbnUjThw"
+    },
+	{
+      "id":29,
+      "name_skin":"baby girl",
+      "skin_url":"https://lh3.googleusercontent.com/vcbmxQwHEoL2G9mydAr0qCd558vHuwqXlT1IzHLIYTVwpM9g0sQvFz6P_xzkQZwD1sIov5ngTNMZXewPjfGcCg",
+      "view_skin":"https://lh3.googleusercontent.com/_RVCUf7AUWfwVufAjr1j-fQ9bhJuhTFQI2LML96PAUgbeDUky0CMIuHrfJZJLkZSCEc1oA5oWOOg4HH1A6YIcA"
+    },
+	{
+      "id":30,
+      "name_skin":"Baby Ellie",
+      "skin_url":"https://lh3.googleusercontent.com/2t80lvARpQsDsOhDYIuG6xeI08MGsAOIMMVNSY2T0Z727TuTrbrlsWWMyt2O_PXRGC3kFx-BGMdPg4Xpjuv9",
+      "view_skin":"https://lh3.googleusercontent.com/j7Nnn5CTJ0UuH4v5liEvWlI4qgqbk0a13qGvl9ajKZtiFjWDz6uged0GGCg0sP_L0tWzAofqhmcqn4YEsNf7"
+    },
+	    {
+      "id":31,
+      "name_skin":"Cute baby",
+      "skin_url":"https://lh3.googleusercontent.com/NooOxKKerO3NyMuoohXyIQNNJBTiO99Unj6vcxrVWkegzMXil3YyNFnsZNsjIbFs1hdCO9V7CPv-_628Kw4nLw",
+      "view_skin":"https://lh3.googleusercontent.com/-5PEsgtjPX7TAsNrxejD7U14z_ZIIbfCNngadJMnn42bsF5Kiv_aj_ySTodmcGYU2LZEzTv56sVJvZEmhKjH"
+    },
+	{
+      "id":32,
+      "name_skin":"baby skin",
+      "skin_url":"https://lh3.googleusercontent.com/vfk8xlE0yoZf0esNKaDigeMkwPR-gQR2KmkoEbam_YMrXnaRM-5PSICxQbUXsh47xBwpCYcmR8HHvf0Kp2CRebk",
+      "view_skin":"https://lh3.googleusercontent.com/zayxTVFjG9GrwOuxl33q01xFT0eXOHY2JFnlArz5P3deebvN9hBkoY7HUySp6ksC7ocb903N6pVLmghTExarXL-7mynl4L5At38"
+    },
+	{
+      "id":33,
+      "name_skin":"baby noob",
+      "skin_url":"https://lh5.ggpht.com/xslvvFEw1YJ-I-QcQfnoz97wkxv_4QNi9BgDMj4s7ZhQ-betwOJZGkVNwljxccTIIS0mNFK_hs9Z46DMuhWkrQ",
+      "view_skin":"https://lh3.googleusercontent.com/RSlt_Y24yRybw6rwYxglLg2dEYS9qGJqeGAbDjkPhIGuWOuUJBd7LA8xBNeSOlqe2tGt207sImLW516dbXxITJg"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
