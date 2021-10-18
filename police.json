@@ -1,0 +1,289 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Police Swat",
+      "skin_url":"https://lh3.googleusercontent.com/bughTa-l6-T_rbSKWYAH3tjjrguvOYo-UE_B1SwfJ77c7coKn0djJbJwH_0hx4uJVxQ0qps3IOSWTqC-lphiBA",
+      "view_skin":"https://lh3.googleusercontent.com/EJmUu2UKwl6U_--b0Wve1_8C9dtZ_rcjs4awmZZHhc83j9tW7Ijdt0VV9TErr6j_Q5J0Cs1b6UcG5Uz6iSyx_xo"
+    },
+	{
+      "id":2,
+      "name_skin":"police girl",
+      "skin_url":"https://lh3.googleusercontent.com/fpwHoI0qQ3_9_bXeb4oRieYxAXguVYE7o95JXXJnY3XIJQP_22ldTTWhSlFXyFVjgXO0ANncIhHlgqF4BdSNhw",
+      "view_skin":"https://lh3.googleusercontent.com/wfgyRbUxGNDNT5egHr5GhTSVRzpdgMu0WlCjwoF_vP7WIzE-Brlo0sb2LiYIVuFZrA6JiaQdVk2CTkxfEAGjVg"
+    },
+	{
+      "id":3,
+      "name_skin":"swat police znobre",
+      "skin_url":"https://lh3.googleusercontent.com/SxERx-F6NHlVXoAWr9DODKqy4UKid3rUUp6pbokVlxUmdgwifVkzVwUCfh8xwpmzHQ-VSgkvh-yOma3rAI5sBg",
+      "view_skin":"https://lh3.googleusercontent.com/eBK6U3s3IiCjCMiVDXaRVULovkKzCp3BQl4g_IjPjchsnlddt9pBDmgI34wcMUFDLfu_cJLNe0DSpVHFRPontg"
+    },
+	  {
+      "id":4,
+      "name_skin":"Villager police officer",
+      "skin_url":"https://lh3.googleusercontent.com/O-Ig8e7zY-DUo9jyhZfG9Ag5oe4iOWKzVsO-x1bQaGSX4pPQ1lzS6KYYTPxHy9A3qsOSVb-R7bO54rXno_Eulw",
+      "view_skin":"https://lh3.googleusercontent.com/j3S1AjX1Yk4WBy_nTNmh4q2G-jzM94K0-TTYRyiP5TEXC6LKOCqkEhlrgwesxKDwcXjCs9vzUpALRhuSuQo4Eg"
+    },
+	{
+      "id":5,
+      "name_skin":"Police Steve",
+      "skin_url":"https://lh3.googleusercontent.com/dS86on1VrcM5cN9BLrzTzvufSou193w6H5l8xvs0B18VhuYEZpWPUmZ-0otKCS7HC5QrA4bxnp_1ZP9BBN6bKg",
+      "view_skin":"https://lh3.googleusercontent.com/kzGmWPiYtWNuBdn4wbtuhIiTiaBWP2HHzN2dUlI2UmMVXqp7l5RlgR53weA5b-346P5A18jEY1uK2KtBuFp_YA"
+    },
+	  {
+      "id":6,
+      "name_skin":"Police Officer",
+      "skin_url":"https://lh3.googleusercontent.com/XUAIW6trDgBeX7J7ktvAJMzYuXLgykri_ZO6De4mpXZzJcQ1st0P4fkaABZC7bQniDk3eNi_UPkbacY57LTVXbY",
+      "view_skin":"https://lh3.googleusercontent.com/zgChvmWB21t09Qlb9tzlLFwpZ4FNfok3ECgagp-GZ4kpASERFDULnN9_AvlVOpI9abmiGOvTfr78KdGFf5xnFUg"
+    },
+	{
+      "id":7,
+      "name_skin":"Police Man",
+      "skin_url":"https://lh3.googleusercontent.com/67aQBVBONi9MNmoyrgo5If86RWZg3djdM0jUdObVJxr3X5o0KHtAU-PHC1uEvrFHjYB_QBI_b9TmG1uDFWglcA",
+      "view_skin":"https://lh3.googleusercontent.com/G7gHt7Ypbfb3YvD1rjQAwGiVWyUyJCp361XwnbIkDO63hoKojXTjA22kW5rpGcSldNQUqX6Dm8qQENKo5o5zhw"
+    },
+	{
+      "id":8,
+      "name_skin":"Police Officer",
+      "skin_url":"https://lh3.googleusercontent.com/f7E3jItJPMnGRXeho8u-6KQXPsZk-vMZm1p4K9RnxIxVJezQZlzloo_q61RMlV3K8cnI1whmDD9MrutO4lGcfQ",
+      "view_skin":"https://lh3.googleusercontent.com/lFKuNfpE6hsXb4l07h3ORPF5Mh3OM1xOkkir3d-y7XJOKjsBQUHibgYIaZL8fmBihf4v0qYDvdRvDtVpv--UOQ"
+    },
+	{
+      "id":9,
+      "name_skin":"Police Steve",
+      "skin_url":"https://lh3.googleusercontent.com/Lth5X6Jx8po1hKQdBm5Obr07b5E8zWxPzXwXHCNTkewtnWFKQ_2wZgxHXaemveqhEWknBih30d_0CjpGmPRKeQ",
+      "view_skin":"https://lh3.googleusercontent.com/nNCbwi0tJYYRTOiNUZM-qlGGJHj-Q-O87oOWHzSKpGUVeBdHLlULYsNmwDEmbLGlNyNrCe3YAb0jvTOTIMBAAQ"
+    },
+	{
+      "id":10,
+      "name_skin":"RP police girl",
+      "skin_url":"https://lh3.googleusercontent.com/-ktPRquOnxxaFH-TucpwUcaqdmsqxIqmANcJar13S6UNf-jGvmItVOBNxKx9pPIrdCvJhucxWAVUm5h4zCWqCw",
+      "view_skin":"https://lh3.googleusercontent.com/TXh7W08AMzIXmQ24cakHZRyRFBroJoEwuR037Wd-Gugqh3Bx1XBuO3rFgCrzw2YAfy8Be9d3iTMnv5icLup3Ng"
+    },
+	{
+      "id":11,
+      "name_skin":"mikecrack police",
+      "skin_url":"https://lh3.googleusercontent.com/4_p66jrJwMZHGHvzvIt4Nb_9GZ5y5MusePHAuZeZIpw4nRkN2sEsuI80VQry48KNNHg7A7BjtYydfi0f6rsqcyw",
+      "view_skin":"https://lh3.googleusercontent.com/GmNFV7IwgaeM_DK4CjFwoXdfcRvy5n9FHVOCc2Chgw2aosj0yTmQlJMMg0r_kOSP4GUz8tBtSG-lO78t9cOBFQ"
+    },
+	{
+      "id":12,
+      "name_skin":"Police",
+      "skin_url":"https://lh3.googleusercontent.com/l2ZhUB4w-8BHdaYBKtySVlfKjY1pu0HBPEqabPuiurKIjtkjPoubnhd_Keq649LYMODQWoprm798PWirieT-5Q",
+      "view_skin":"https://lh3.googleusercontent.com/-6peLA3z8UDqdtxdI2AUxGg74fTyEBo5ctuGqsHg98Qq-NOhJkLPfdSWIO2TClAQydWcC5ZvtPX7q8nosqus"
+    },
+	{
+      "id":13,
+      "name_skin":"POLICE",
+      "skin_url":"https://lh3.googleusercontent.com/rlO_I_35B7MlrOc7cHSWrqnQf_uDA__0COvW8z8qLIkizhXaSuXbYUnNVK-R8Vh9lVpjnVj98JLjYNvwfI30yiE",
+      "view_skin":"https://lh3.googleusercontent.com/jQcflFtB1LHrZ1-t2BlOY7GdcKRO5YYaPBey-vnlDiPHV_YroqqMBLQGx0O3623MjWRpCJ-kiFf45mVtk30W5-I"
+    },
+	  {
+      "id":14,
+      "name_skin":"skin police",
+      "skin_url":"https://lh3.googleusercontent.com/Ym5M3Jz9OyLCgSxuGcm5LAHteR6n00ZOGZ2LEg2tT5ERWQZLsPE4sQATOYqdv1OzKiuRyq7-bJsaR-sUm_CW_A",
+      "view_skin":"https://lh3.googleusercontent.com/RyoVxUx_sqhParwEJ1hj1ubEw7oYSbaRAlCLZXwh_B-L79qxPXNstz_nuQfyFf3uRqDf6CG_TeJeFfZglqWDxA"
+    },
+	{
+      "id":15,
+      "name_skin":"POLİCE GİRL",
+      "skin_url":"https://lh3.googleusercontent.com/PihvuXZcLX1GJNQl8ZPjHZMIiraIXGp5k4l6G5t4U7Khx-Yap1Ylzy0bD5rTUfkY2ijAdZDY0rSAbc3vXHCbhA",
+      "view_skin":"https://lh3.googleusercontent.com/e__0_cHBq34HkJSz2xcBm_KZDQfZFx3Vsiuzh5kbhqO77QePFMm-VCKXcWFWSHeshNPU8Rc8A0TYwzaOae4p"
+    },
+	  {
+      "id":16,
+      "name_skin":"Police",
+      "skin_url":"https://lh3.googleusercontent.com/sEVlbeyPAZSPNu46YsCKnL_Xe0FRLQ8jd3jciKzCvGjUfqHL7ZafLRFyVEY6CGyO6XwYI8OI2dc-xtqkq2_MC8Q",
+      "view_skin":"https://lh3.googleusercontent.com/LGCMl7_0SWA-y830CYGo3ZL7amcblwMyndEUi1G4HgP3K3jqEvEm9FYctrD8eor0AakamAIBXjUczGqCfEs6gNc"
+    },
+	{
+      "id":17,
+      "name_skin":"Police Girl",
+      "skin_url":"https://lh3.googleusercontent.com/mjZjkbNgnQKH3BEAFhKelUq2qaG63YEJPnf2sBeScpI-3QzYum0UyPQzw5DpLcMh-kcdMkde1tBGtveKqqFabA",
+      "view_skin":"https://lh3.googleusercontent.com/k4T9w7Yby9kZc27Q3VVUF6Mhh6ORQVy_FpXcEnnYvk2GD5qlp042kjedTJRE9oIVysoLUdFRjWTl4QEBhlryjg"
+    },
+	{
+      "id":18,
+      "name_skin":"Russian police officer",
+      "skin_url":"https://lh3.googleusercontent.com/rJs22PBrpCugN8TV6QMRJyasifp4XXxoY5fiSGUPWW7zUIHUs3Yi-0ceOe7C3GY6-KnQputZDn72nE-yOTKTqXY",
+      "view_skin":"https://lh3.googleusercontent.com/Srds5sudrIT3RnFnL0O0QV7migLCmfe6KgsMI23PlnD09jL1xeoapFNqnFLrl7QTLA_Ur_O7MMKZhGYrI5p0xg"
+    },
+	{
+      "id":19,
+      "name_skin":"sexy soldier/police",
+      "skin_url":"https://lh3.googleusercontent.com/O2lHw-kajgRiKB-MEmh4qLUni9S7biwJmZnaB02mo93MfRGYXwNy83QCvDiWZpKF860VUt248XLnkfBEm6n4Q4j3B3K4oo1jPuk",
+      "view_skin":"https://lh3.googleusercontent.com/2LimKg-uok4q2ZndnO2u7936IkRQTGiwTTG4ImF9AW2-MfIgiKoUb8GtM6mdrRhS1HVt5H6ziNcvcJTiwy7wye-EZZUKe77v2G5E"
+    },
+	{
+      "id":20,
+      "name_skin":"Girl Police",
+      "skin_url":"https://lh3.googleusercontent.com/2WTQbUBY8PQuCe0_CmgXkYbnJkFCiXhP9qQudoGKHEzrRLAhOxKRhNma9EINu8-5ycU0tLJ3I7xsavt7BdTtuQ",
+      "view_skin":"https://lh3.googleusercontent.com/IyhU8HnRbgLz082to8u8a95fLBbwZTwU8Tchm3m19Wbi9n6l5t-5p0Za3x8Rc-Ho685iP-NWxWCdjK_LXa1rJA"
+    },
+	{
+      "id":21,
+      "name_skin":"police",
+      "skin_url":"https://lh3.googleusercontent.com/whIIyrBCfgGZus1CVz2q-w1Emgh7ovjGy2NiKCFn73Hm9lpa84cmSgcpwgDDQ4OqT5n3PlVqlU-U--bLcT5ORw",
+      "view_skin":"https://lh3.googleusercontent.com/enNltuYLIXzG8LFitjtcCWsRpkKKOCr2F3o7nEJIunG184OXJeBeNZEENIwAce20FvQwPFAf-B_yu9ah-CgmnyQ"
+    },
+	{
+      "id":22,
+      "name_skin":"DPS Russian Police",
+      "skin_url":"https://lh3.googleusercontent.com/leYGSdgg6u9j0c-2SWGpxWFVu0dxJc_SwPBV56MZAZRAYUF1pvg-Qk6hHWj-CdFUweigzwDQHm8OyyF1SYs5",
+      "view_skin":"https://lh3.googleusercontent.com/Cbv-dYyDF1G3-SnnStZGUAyp9oJnkfbFdLKjo7ggglrx9LfcJ1IifX-xTBLGHXeen0laAjRxkgAJth1B9BBFn7U"
+    },
+	{
+      "id":23,
+      "name_skin":"Anniet police",
+      "skin_url":"https://lh3.googleusercontent.com/aBU2tJXMevuRFK6TBpH4nnH4vrmZkjR_5j6MpaG6nSc5OSWnamKWEIlc0RZkYMJib3kf2tk8tiroxub_NXNgjQ",
+      "view_skin":"https://lh3.googleusercontent.com/cX-BaHnAqF_b3r3V1NgE4lehAry8rLAzfLhhUbRqFKKl8DI3G4qTAChLYFrTuqvBZDIZmJt4p5kYsSoo_aD0"
+    },
+	  {
+      "id":24,
+      "name_skin":"Hot police girl",
+      "skin_url":"https://lh3.googleusercontent.com/2S_hssldV0fxMw7BNuAFT6gPX3QE0EOcGkBWpZFmILXoUUEYMC1cvBwk7ML1493GAgHm63-ZJcHcYkGi_QMo4IY",
+      "view_skin":"https://lh3.googleusercontent.com/OiY4g7pNOyJbnVrVF61SQG2yGsXFiEmN7tLHV2WjjGYmd2rJL4bJBChSbHbSEwyzusVbwHrUbhv48gmeGZKoTA"
+    },
+	{
+      "id":25,
+      "name_skin":"police officer",
+      "skin_url":"https://lh3.googleusercontent.com/t1MmHUdWt3zAa8kPydR3GGucXN9gEkcrYakASDPqFXadr3O5hSacMVQeOIpreI4rXtSl_-i2aVmLfd_8FzAN",
+      "view_skin":"https://lh3.googleusercontent.com/N22_cmFKs6POoFVrIXHMMU6IYAGbLayFuPR9mReIJ2J4elnfJmoLtWXkiryR_LZRrbU6vG_w69d9Be5HIJz2fA"
+    },
+	  {
+      "id":26,
+      "name_skin":"police",
+      "skin_url":"https://lh3.googleusercontent.com/ndt-rXQV8QV4nXf8BdTvoaYo1xuhWJUfaU5SvdFFecvCjE7CJrWGIzNgayYdVxvY_peGwMkgq8qaIAQUHctxJsk",
+      "view_skin":"https://lh3.googleusercontent.com/ZdswKINGkVm2m_VLBakhWT3xJmML8KiHbBTNR8ooOYBpYMpinn_4Ng0Ua6lh-GKNQGEuxrfXzAsvllErzOVrTzE"
+    },
+	{
+      "id":27,
+      "name_skin":"Fox Police",
+      "skin_url":"https://lh3.googleusercontent.com/zjoz_9j03tihYC1JdCuQbYpkHrv1ZDYE0NFtKkjsowuWOV-9f5hIB-E1T981u7HLnxr8KysxEmVDRGluYepu",
+      "view_skin":"https://lh3.googleusercontent.com/GB5gOAVzgjzZTgrNmO0VVC7FKTet1FkAWLv1IHGm4hvpdUBxwlbQ6VoqdN5K_y00YF_noip7XNpb8lz04rov"
+    },
+	{
+      "id":28,
+      "name_skin":"russian police",
+      "skin_url":"https://lh3.googleusercontent.com/msENImFwZQfPNrKNfvD_gvs_-j1b_yJZ7ufENJ-WYuZtI5_jeJwQcOthzw9VtE6A9vJ2TlVkOMxTRRv8w4Pf",
+      "view_skin":"https://lh3.googleusercontent.com/lNFVk--e1U4uDlnikMijEIDd4eUjB_5NFg9auRC8hFd6QR0DCWFVuenJpGh8bbgK0pdDWnxkDyGaxjsKEz8NFwc"
+    },
+	{
+      "id":29,
+      "name_skin":"Russian police",
+      "skin_url":"https://lh3.googleusercontent.com/FJn-1rO4OXDt2xKCRc_asBDqr1Erdoz_RGE2Pwq8bANwGXwpOdhLA884fCcC1fG2sRjPyb6NPz4uRlHnQ_f92ms",
+      "view_skin":"https://lh3.googleusercontent.com/wDrIyt7egTEB9XPYbf7JxaI1GxK-8FHF5QpAzr11_ABJIQ5TnrYL8kxSQQZfcun6gR950b9VbO1ODuInOISH"
+    },
+	{
+      "id":30,
+      "name_skin":"police dog",
+      "skin_url":"https://lh3.googleusercontent.com/FHLHs4tAObiwe-fvAIF7kgeh1h-hpjvZfPFLUez5L53NumdtrSiErBlIq-qTB1Szj_JZh9CmfZ7kBh-UqBWJ",
+      "view_skin":"https://lh3.googleusercontent.com/v3U2_3nE-WYXk4CL_KhJE_tsDKuMmKg3ODRY2e-YjmmyXG6w9QRuIkrYPrGfggLFxHpfwQ0ZYzKsFKaMER3LeA"
+    },
+	{
+      "id":31,
+      "name_skin":"Police girl",
+      "skin_url":"https://lh3.googleusercontent.com/ESZpa48d5GxwbreLC6w6rjlEuWMIfx6oLRkQgDjA3X__h6HjbKdqVwWJKLGoOY7qOit1tN7WltNaLk6q7iZijA",
+      "view_skin":"https://lh3.googleusercontent.com/6hd6W8wwa39vMIJpdqdbn9WovyhWb31eOFz_bxrMxT4BPBVa1bRT1xNTUrzsYAlp4gDbJvqX_W3UJuSDGbOybIc"
+    },
+	{
+      "id":32,
+      "name_skin":"Police girl",
+      "skin_url":"https://lh3.googleusercontent.com/omPfqRYi8_yfxtARYgDFUDgEQHObaEoD4HJKZc86EchoTaiuc8OqJdyV98rQoMOf1vhdBE4XGia5DAWA6I5g",
+      "view_skin":"https://lh3.googleusercontent.com/WssTwkws-IxrLxGHEsDzf1-YwN3f302bIuFe4R4xhV2R6qvs8XOoLioad2wmI-VssW8frhUG9ttDjyg1p06ICA"
+    },
+	{
+      "id":33,
+      "name_skin":"Kawaii Gyökér - Police Girl",
+      "skin_url":"https://lh3.googleusercontent.com/Xj0Ta8JCxC8WCvNKV6nlBGZQtM71xF2snJTUGXUnk25jQOkzji8EXxWFV4MpNpTD61IGQuYLoW5Zti-B-vGsetI",
+      "view_skin":"https://lh3.googleusercontent.com/lNFMKxuxZrH2v0JTYtQBR2gfdgaqo8x_Hs3OHDRB6xmNMpDncBsHPd4pFRfOeE6PQhX_mv_IgOYrgJFOlcrnaw"
+    },
+	  {
+      "id":34,
+      "name_skin":"police girl",
+      "skin_url":"https://lh3.googleusercontent.com/pc6YWhhcfSX-yy7jvnVVze28Dggop0ix9STKBtQlWWgMf91tuRqKKpM30N7kg-ssXc9Z6sOUB9SnQItsZsuh",
+      "view_skin":"https://lh3.googleusercontent.com/FPRgkc47EkXTuvw4opgPBxiHBV0KZzllwf1KtwwmLQNkE79E1PqWWh4ccailI0mDOcfiCdkNSp43TM38Ik4dUA"
+    },
+	{
+      "id":35,
+      "name_skin":"police",
+      "skin_url":"https://lh3.googleusercontent.com/9SAOVLjiSZ7f2T59B5iDsiP0HeU00rUEuhYzhvSnqt2VZV5kDWTWGfro4Vprx1kQsJRKXZTMw3nzueZbp5LPshEp6uJ3SY708w",
+      "view_skin":"https://lh3.googleusercontent.com/4mGf5OAY2Ks9h1lH1FkY4HTjNk4GAvjYLQsFywSNd1npT6PzYMPt4qZGypBAzAd_ei2jDmLr4LuBFexEwm6VhbHG_jTK2lb_ioA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
