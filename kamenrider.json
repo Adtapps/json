@@ -6,7 +6,7 @@
       "link_redirect":"http://",
       "select_ads":"ADMOB",
       "select_backup_ads":"APPLOVIN",
-      "backup_mode":"0",
+      "backup_mode":"1",
       "admob_openid":"ca-app-pub-2676107324107970/7979153759",
       "admob_nativeid":"ca-app-pub-2676107324107970/3081232054",
       "admob_interid":"ca-app-pub-2676107324107970/5544562109",
