@@ -6,7 +6,7 @@
       "link_redirect":"http://",
       "select_ads":"ADMOB",
       "select_backup_ads":"APPLOVIN",
-      "backup_mode":"0",
+      "backup_mode":"1",
       "admob_openid":"ca-app-pub-2676107324107970/1593740625",
       "admob_nativeid":"ca-app-pub-2676107324107970/4219903960",
       "admob_interid":"ca-app-pub-2676107324107970/5532985635",
@@ -19,8 +19,8 @@
       "mopub_banner":"",
       "mopub_inter":"",
       "mopub_mrec":"",
-      "applovin_banner":"",
-      "applovin_inter":""
+      "applovin_banner":"af16c92b64e7a86a",
+      "applovin_inter":"c693be2cf544acb3"
     }
   ],
 
