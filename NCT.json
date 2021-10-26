@@ -1,0 +1,259 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"NCT ZEN",
+      "skin_url":"https://lh3.googleusercontent.com/qU1Jw7-lx2qpS69ouTRJ0NNzyC3MytxOAvUWjbYfqRLCffUY1TS3VUIXFhg-4njh2dgXMKoDtJLsEJDCKY8959JyxJq4OMzIrE0",
+      "view_skin":"https://lh3.googleusercontent.com/Ysb19TyrDQmo8mbbEA7O_4vszpBVZrGeGORRzmGI5qD_ZCE0zDZFc2r-sGVZO7S1q6QwXuCmltD1pF7ZbBqZiolBN7JHA7asww"
+    },
+	{
+      "id":2,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/qZBEU-qOn6DKFdbZ5Km7zaVVrBYOZySnNv49G1Dve9g-HtLdQV6CJ-u72ydBrPYQKYC_d7K7s7PGfl4X8XfwOw6jAkoR6zpSrYY",
+      "view_skin":"https://lh3.googleusercontent.com/4x4j9FmB-byVP7UHFqK2uLgHuSI20WAC_5YAwPM3I0M2FuSZmrDebHplxHqr5yZ90rgH2RrsqqOPdQigMvAbYNGECX5N1qo3iQ4"
+    },
+	{
+      "id":3,
+      "name_skin":"NCT Cherry bomb",
+      "skin_url":"https://lh3.googleusercontent.com/SDygqI2iPBDsuo3fl9T097SLGd72mg0f9K09OuxLWq_7XqHBCaP2YeT2pIGbpD-3TNm2KqNQsoNbPjKcnoaJBnoPQYx0hPgsYn4",
+      "view_skin":"https://lh3.googleusercontent.com/Rr6GkDQKfk6IgqHFLHLhCzHuURI6Ggav2kNrW5km8BF0C3_oUPxSeFC7UUJNQDAnJYjPzkWhmAnsa8N1zp8GoyVegNdqffxJYrY"
+    },
+	  {
+      "id":4,
+      "name_skin":"Ten nct tenlee",
+      "skin_url":"https://lh3.googleusercontent.com/YatR8atAFFCFn4VU_jsjTluGUIJvhJJOrQhfmbNDW5pCEE_CYTmYT-s-VamEa91QjpixdF9XISVwyr8fwhaopzGm_VspruvWIA",
+      "view_skin":"https://lh3.googleusercontent.com/cZlFWnkX1zm5sPz_Yky3V2iTD3HU73RYh6NA7vklEwvPdxC24JQJaZUHTqaq74bIaod1SR27485XfxRAndaWZZhGj54dE4SywnM"
+    },
+	{
+      "id":5,
+      "name_skin":"skin MeraGM Offical NCT",
+      "skin_url":"https://lh3.googleusercontent.com/RPS5wj-W_gvptCW1Ua0x8QbWGjLg4Nuu0OQiz59Lis76HOMGyMOWgYms1zDEj7YJ1Ehegk1_5DhPOc1UmtqT",
+      "view_skin":"https://lh3.googleusercontent.com/_PdtQkYFrFYoLRmqwccfDZyNeHXSlPF0c8Y19KQp3SRQr7TH-p-Ek5O4igTl1bEoTsy7Ejfp8AOiFqbYOvDwA1EySGLBkule_no"
+    },
+	  {
+      "id":6,
+      "name_skin":"Sungchan nct",
+      "skin_url":"https://lh3.googleusercontent.com/qiM0MNThdbYUoj7UfAP2rw24fjLqiH4qfcHFAKHtlwRODuCRaz9YaxOL5vZ5UozrQn76S_aC7tnutVHCZUcfZQFDR3rLqcSd0k_Q",
+      "view_skin":"https://lh3.googleusercontent.com/HZNATcPL-L2bPeslBRit_WrJdMtEFURzMRpxgSF8TJ5E7D0b9wnzyFlor1ZlREJY6I4P9zoNvWMRJ01screau6Zr1NYsuJcgLQ"
+    },
+	{
+      "id":7,
+      "name_skin":"Rejun NCT",
+      "skin_url":"https://lh3.googleusercontent.com/gA0qCmWdEmamQNTtuqbkSFNmTSQaQnOErmo--oLOBH7VH1hMuvQnY2Ed-wvkKuM-JBaEcXrHTlf-ppilCfORiayt3HLqnth0iTlS",
+      "view_skin":"https://lh3.googleusercontent.com/u4SJdvQEM_qn2L1uzYHhcFuGfJF9t9juvdgGuaHcG8Y4Kswk78liee_LIOIvZ1IpNOl3gcG1s6MwBKqXTexlbBoTMAhNrHbAT84s"
+    },
+	{
+      "id":8,
+      "name_skin":"NCT Sungchan",
+      "skin_url":"https://lh3.googleusercontent.com/2zY0YHUOYv7bCETXT_vBiD79ngneZhUSdTTEQxP4lA6_Cm5XBYMUlQcbiPsnoW0RzmNNf-eita7h-yD_CR4bu03ZmwML-IjFapg",
+      "view_skin":"https://lh3.googleusercontent.com/ejQZdt1nGyc3KMSie1hi-3-sc56y6w977NdFWJf8OQOhJHGto5e5-0SmY967TJc3gokJ6ooi81DEhZTb_qPU-8beHpU723pd2Mx2"
+    },
+	{
+      "id":9,
+      "name_skin":"NCT Renjun",
+      "skin_url":"https://lh3.googleusercontent.com/WEe8KgCPgZwFiGQy8bom3vtXBVlUEPhDd95GjNwOAusENbG6ZWjZHl4U6hD1fJRUQCzg0HEmVU5QLIi5NU5Hj_Q",
+      "view_skin":"https://lh3.googleusercontent.com/o_TvWqq91ECB7nkR71WXGw5CvoC2NV-MIvSSYyCASmXErQ0V4wdDeah4C49otDre1wc0ETDmcHLMOSaohvZj"
+    },
+	{
+      "id":10,
+      "name_skin":"Stan NCT",
+      "skin_url":"https://lh3.googleusercontent.com/ERIJ_h1xmPmpua27B1s9SL_ITMUTBedK2BagPlAxClhQDU0RKjawd2bikksX6_priZWFVnhnQlOKmr2gT4VaWrQ",
+      "view_skin":"https://lh3.googleusercontent.com/GVXEfV4Zujt_5gRag9VwWGLGBPfAXGZLsPA2JiKIA4thmIsrJU-yWaX38pSSTNbMspACURV3C2d3rGvMjYfb"
+    },
+	{
+      "id":11,
+      "name_skin":"nct dream jaemin",
+      "skin_url":"https://lh3.googleusercontent.com/5rXT5h6UtD3Wm5ZI9umiG2C3i04Tv7Yjg3337Hy5oy8H0NvinQ3pWiFnhenMFvLVjPKLq8-l4u69GOyFrJfP",
+      "view_skin":"https://lh3.googleusercontent.com/k5Qc_tvoyDahyWEU4Mr6IQKvOT4kG9tbdRNcf382ZmLtlw9Z3GA0802Eg6NZ3jenj6VI51Fc2zdO6K7GSmX4cQ"
+    },
+	{
+      "id":12,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/LvS2Mk5GRVJ6RwZPXT2lWTA5c-bJmPLzF5O46B1DhpWknjTC6bfiHceYtZsT6gyAdzoiLDZQ4owp2bkuUXWB",
+      "view_skin":"https://lh3.googleusercontent.com/ebo2PeR5QoLtW31Zr_1ZAdh-auZuNsC-DAk4pkDI11heBTubG5w4EkfDqahAoLnL4F-9NWItngQwFtxcDlIbcQ"
+    },
+	{
+      "id":13,
+      "name_skin":"NCT",
+      "skin_url":"https://lh3.googleusercontent.com/ztxn5ZfVU-C-WCZFvRN5ScDQ7vCp5N9yFkauSlKIlWNsZzoab8v3itFkfh4-vEnLQCQPU8dw_-9M_z8NrJ0wAg",
+      "view_skin":"https://lh3.googleusercontent.com/ewSRHPZQYwmYFRu_XzjHtlJ91UxxlTMPRm_dIYhP9vGlHszE_TqSTqDoI4MnY6xtX6oYqGI4MDoEfR35q0Zpvhc"
+    },
+	  {
+      "id":14,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/uxr6F55j01Z4iz4ulDJRO_pBqjENvvLLSEKFISmIZ_zr0bJK2_uIMRTXvnXFgdOwklq5WxGEm0XLFeFxvghM",
+      "view_skin":"https://lh3.googleusercontent.com/uxr6F55j01Z4iz4ulDJRO_pBqjENvvLLSEKFISmIZ_zr0bJK2_uIMRTXvnXFgdOwklq5WxGEm0XLFeFxvghM"
+    },
+	{
+      "id":15,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/NQ4Alkq-Hpz825q_VxOrRaJCFy050ssZ1BYG5HV6rLCBsq_Y_RteACNnvVlFks5pPWa7ZNijz7Z8M7JVFpw813Y",
+      "view_skin":"https://lh3.googleusercontent.com/tKOAgTWbpjQ4obUhzQ7QulYEJwceCisRE1LbtcMWrbUw1sw6Mr98404VaDGgKpFPATz-10aYi5fPflFkEtjTOw"
+    },
+	  {
+      "id":16,
+      "name_skin":"Mark NCT",
+      "skin_url":"https://lh3.googleusercontent.com/R6z8kgs6PEQrcmbXLTRDpHDriAvNJPLntkOADk3Eig-n-AOwsvOXGXn825bDCw0qZ2NV1rKgdvMEExxtM5NNdOk",
+      "view_skin":"https://lh3.googleusercontent.com/sI4zlCuIsoSrzOb6EjVQcRrn-aroqDLauZqJ-apWLAL7kyXzkiNgLWMrHvywPYzq9uaQKddff7uZBn02XGlXbQ"
+    },
+	{
+      "id":17,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/VIZE73p8KC2PsuCrfnD0f6V9sjAeMeRIIWmk1tyLfmpT-9bEzjOSBUB1XfzvIAdaJY3__7qoSJntz-tFh3NDp4k",
+      "view_skin":"https://lh3.googleusercontent.com/ew1u-TZW7zHoGBmB-wLDcnSITX0v2gOFam5_y5-oSQpZ5aQyp0wz1sp4sUsypAlLAwc8AGUacU0s6HqxRDR1Pg"
+    },
+	{
+      "id":18,
+      "name_skin":"nct",
+      "skin_url":"https://lh3.googleusercontent.com/G1njk8OMWXSh6ICQhO8SRaZbVQdIP71VDmhFaXZMZCp6FEW-KYM9u36TemKY8ywxOwSZ1xl8jopcydrhPzGHi34",
+      "view_skin":"https://lh3.googleusercontent.com/RZICjOtx_gud9kNdS67KAHizxK6ij8YCG_4FeA8rNCBsRYrxfaHzQzcb8Nd9Db9XHjD6sKfe-pbkmbJc3kXmNA"
+    },
+	{
+      "id":19,
+      "name_skin":"NCT Dino",
+      "skin_url":"https://lh3.googleusercontent.com/Oca0qBRaGIm6Rb4VCIbYkqcO-95qWVDAgLBvkh4o1SK_eQV8ruNToZGD6P_przKNGqQRZ55fRflqDKpfvvqw2A",
+      "view_skin":"https://lh3.googleusercontent.com/penmDvTkY533rMY9VeGe7jM5PD9Kr9vtRSIERZbnHH6yq8IEh0fOxiQtHnHy0zLnC6WNmvIdfKwCKe_wK8BJng"
+    },
+	{
+      "id":20,
+      "name_skin":"NCT",
+      "skin_url":"https://lh3.googleusercontent.com/g3PP-BaSRwnlkofVdx4tVyY3hGa2E-xCw9puEZe6CzhBtCzuvzu7oMmmWXPG_Kinr9OOEn0oRuRSzaEhKvTYcw",
+      "view_skin":"https://lh3.googleusercontent.com/wDWgpelwzt0mCNhTfPMJvMz6H53jahKFZNeUFuUdqVkmuvXGsX1qmjTz9isz5f2wefiLaoOCoVrZn2kcOLtCqQ"
+    },
+	{
+      "id":21,
+      "name_skin":"Renjun NCT MX",
+      "skin_url":"https://lh3.googleusercontent.com/2wZDQ8hLReBZDlLc2qYVOwa2VUurtIICCiHo2pj7N3IrobpYhYWvAq1XVT9MS6ii5rW2nc7grDfmRicM395VO2Y",
+      "view_skin":"https://lh3.googleusercontent.com/ev46mHT3vo7lRVvR2yI9hcwWnaPMMaMxv8_92fhY6De3t7DgwLxcblTjYnlhcRjE4pciVjBB4j41yjQw7ss-Kg"
+    },
+	{
+      "id":22,
+      "name_skin":"Mark NCT MX",
+      "skin_url":"https://lh3.googleusercontent.com/hjxzwcD2FVddc7HvNLoIpOE2xXeuP7EnnRHDI7MIcbzDthxTAmrdPToVuusGscAOc3ssJmFO11hQ-uBnk00D",
+      "view_skin":"https://lh3.googleusercontent.com/PIR18sl9Q0O3FfsRki4WpdMtRX73G9H8RfarzZJ_pCwJ5h3xceuBh3nlg-fhCBoIB8GTKcPolRiNk8MhI-aA3Q"
+    },
+	{
+      "id":23,
+      "name_skin":"Jaemin NCT Dream MX CG",
+      "skin_url":"https://lh3.googleusercontent.com/mynpnDzlQo1S7Fgk6JP0pmGEMOd9Pj25eLtKLeq03mMZM12NguRfVua8JJvI6pnJFihlJt1G34bdikn93oZi",
+      "view_skin":"https://lh3.googleusercontent.com/O3XMTd5ShGJ8zgTmBAHT2guE-PWNotg6MslTPNAwz3ljIwzRwqSxiFhjKXiDzfrN7eg2fngJ7SOnKOlSw4dAIA"
+    },
+	  {
+      "id":24,
+      "name_skin":"Mark NCT Dream MX CH",
+      "skin_url":"https://lh3.googleusercontent.com/pxoN9sYpawPWU9WsO2VCJMzxOfnu8bCD4M50Nf1IS1B_U9sxCTIyA6zg_IOy7LAwWpquJ7_3V8rCXhyWtOhh9Q",
+      "view_skin":"https://lh3.googleusercontent.com/57sCRIxiJke5PkjvFkJ3vNo8Z_OaLsSl57xxC2FCRiaYgLiGC7yctSZ5h9IesDl6UAL6J8teSjvuJLvyxPok6g"
+    },
+	{
+      "id":25,
+      "name_skin":"Renjun NCT Dream MX",
+      "skin_url":"https://lh3.googleusercontent.com/Z2uTDDn_8HZsTnRNF4LAsIjdou3P1THYARBb7TBInRd_PJ6eSRDzngdPC1BvPHZKlo13PGY4165ei-DTgEh2pQ",
+      "view_skin":"https://lh3.googleusercontent.com/Yl0-hz0xtyoAaidsKCsgnPbbN8WfGFnvxPZ2XEhC35ysSu6bXivRhGBZe9iM_ktSIhyfZ6eu6e-XQcJOfVnDJA"
+    },
+	  {
+      "id":26,
+      "name_skin":"Jeno NCT dream MX",
+      "skin_url":"https://lh3.googleusercontent.com/31nVUs1LT_2dx1NxYrJizlVoADC0u-Pw-9V3c9M9PmEG8RQ1E9oRoZBwBNUg5IfPGGBBs7FJKCMX9CwEwgsjHC8",
+      "view_skin":"https://lh3.googleusercontent.com/sqNp9vzTHuIy7o1X7J6M1PYWtK4MEQ2VbLnzIKHPdqJJYX9RXNDb6o4zp_wexn66YDFq_8SRndLeI4Rek7oQLg"
+    },
+	{
+      "id":27,
+      "name_skin":"Jisung NCT Dream MX",
+      "skin_url":"https://lh3.googleusercontent.com/MgK6Cmt9dHKtIxW1L2rh0nBh6UJcU7nb1nPwCgIzWOzWo5U2n3tOIk-f4hlOOUeBaTGsMSx5E8sCn0CK0MLNCA",
+      "view_skin":"https://lh3.googleusercontent.com/fty9ijql8jjFelozF7mnF6GReg7ng_9yEYv1sUsJtBHKPXqpxjOH32gA8fx4okzZZSzBpRF9CU4QuM0bCx_7jA"
+    },
+	{
+      "id":28,
+      "name_skin":"NCT",
+      "skin_url":"https://lh3.googleusercontent.com/jyX7zDqj7gQGo6637ykRH8aMrAN9ue8dElZIFs6Hssv2ASLgQaNTb56qg-4eYFoQETLvFi8x3-qJZuHiJ-wxIw",
+      "view_skin":"https://lh3.googleusercontent.com/rAJ3Bsphi3Fz3NgMmpOXivH6ruCC_fbU702QMqebsaX4SHyXV3rrfG12baBIwv2MemVrWqkC9lROhqq2XV9Lhg"
+    },
+	{
+      "id":29,
+      "name_skin":"Chenle NCT Dream MX",
+      "skin_url":"https://lh3.googleusercontent.com/2WC5muv7Ts2x1RVqgFs6lYBKlZWK02qhNNtNzpH_sHyEh0ns9XbdJ7J9JW86YD_pkiDFnN9Z2gTcybpWSaeAoA",
+      "view_skin":"https://lh3.googleusercontent.com/WbCB3aPXL-0K60pBX9GrIAmfvGaHyHBMEED_R4-2pmHRMLXLp5vR12CJq9QRvIZofpowHwGagliI68fGrzDUu7A"
+    },
+	{
+      "id":30,
+      "name_skin":"KCs Skin! With NCT",
+      "skin_url":"https://lh6.ggpht.com/L3Aq2ZtKeZtPbZdH-rY_ArKPldrd1Og1AK5pyhuZZEJarDBvFOapt-JcqKwz-2d9F81LXNURnZqY-URzdHSBt2g",
+      "view_skin":"https://lh3.googleusercontent.com/XPt84RkcPL897fg_umpRNnSNXLSgnTu96JEWRv_4E-OuxJvkjDLydSmDRgWV7o2fJjR9NvDXO9GNswYhUX31"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
