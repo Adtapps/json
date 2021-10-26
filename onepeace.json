@@ -1,0 +1,355 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"Monkey D. Luffy",
+      "skin_url":"https://lh3.googleusercontent.com/oaVM_clZDiKzOSmTvYebgrBxXU9zdkJ9BKRW5Jizdk6_gypDgEVEFuSePqBtLy8G3C_lh12OZVaqXv1si1r6kmrsaO7O88Zsg8fq",
+      "view_skin":"https://lh3.googleusercontent.com/365t15lFFpM2FpWhDK0ndIeI5OSHb5aTKVvPRN1DucnLhhWX6sd78Eyl3JwZuokb8738ByQeNkgPajj435HBrPg1XCEeQgE5fA"
+    },
+	{
+      "id":2,
+      "name_skin":"Zoro",
+      "skin_url":"https://lh3.googleusercontent.com/kOkVYr5y8nHl5e7NimYn85ht7BcYKoFBX4GJEsbQ1wC0iyogdHwfjNv2id13KNq5RTXiVooC0QUPSCsnJiS4",
+      "view_skin":"https://lh3.googleusercontent.com/NrzwtLGrxxhZQ1t6CV80HKbvl7UUpOA4nD5-Ry4zfEanJo10q-krXWk9jLl3wxbq4HNNujCkpov47B_9ARsWmw"
+    },
+	{
+      "id":3,
+      "name_skin":"one piece",
+      "skin_url":"https://lh3.googleusercontent.com/CYTHY4RZYbP40wau8Lc0eh5N0f7_cSrXgU6tPdwBskp0Wu2mh140QfRVUISMVGsG1Xd2WI-iCUFWJOuDJ1pD1w",
+      "view_skin":"https://lh3.googleusercontent.com/p6Wf4dF2FGOVJgv_MntIQFOfZyJFE76JwT_1WaBv-3cCrxhlSdF8e50A_ceoYyhBVVmEHX88z5r_kzrWXh1DX7k"
+    },
+	  {
+      "id":4,
+      "name_skin":"ACE",
+      "skin_url":"https://lh3.googleusercontent.com/tHzcJvTasDQ4Hsd6mB6YtIXedcsgDN_TOmd0TD6-x-fyG_qUbDJojfV9zLkQ471xFQAq3FvN5wom4nQq_FdgWsM",
+      "view_skin":"https://lh3.googleusercontent.com/B0Qw24DJmVyAg1A7LIQtEsjbTQX4BQ3r14l1MJM3LOUhG6gw8Og-ZOBlEGAZQ-LkyPBQr6qSObfHOaMe_mqkxg0"
+    },
+	{
+      "id":5,
+      "name_skin":"Sabo",
+      "skin_url":"https://lh3.googleusercontent.com/2BvSMfomiJDEog4X8IheHDiSYkQ9-x33PVYNgthiKr4MZJRQcxqLCRRiU3k2PY6861UriMJ7s0xfMAui5gTR",
+      "view_skin":"https://lh3.googleusercontent.com/NE9XEtCQSYhv1Y3k_JrLYGFX4uVGv4ArB9nutkGW6bOFGEvFL5v4jOv4NEVEaui5EhPyHYk5q_VmGJ_AKuC8sv4"
+    },
+	  {
+      "id":6,
+      "name_skin":"one piece zoro",
+      "skin_url":"https://lh3.googleusercontent.com/Uia4EBtw6u1dEpiBlBHAtXkKO-VhBaisISGpM8A5njO7-Bvmp2z7_b2udmSeFHdj5GSr5RBI1XVe_5s_PV6XcbyY4kvs_jjVfY90",
+      "view_skin":"https://lh3.googleusercontent.com/jIeg6UBNb-QYW6utBjSlRJs_4FUQE6py6HH2vQCclTP9-I4uWr8ejkwd7hrY699c7BeAfJegMfc1MlNkCTqzxKrjyFn5__4dHTI"
+    },
+	{
+      "id":7,
+      "name_skin":"Shanks",
+      "skin_url":"https://lh3.googleusercontent.com/FOSEBESR_0dOe0ILfRRXV2_8v5iO_HEFzrU1GIUK4deHmH6LZduc8wCORq_pAaxLX7p_qLzVKUMeI99t408b",
+      "view_skin":"https://lh3.googleusercontent.com/D8pt3LRtvUI-xTkev960o_83te_W1YwTWLCIB7lwpbPdiNwIsqKkPjuC_Yed7L2bBJK69SZcedoBWR87eU9G"
+    },
+	{
+      "id":8,
+      "name_skin":"Sabo One Piece",
+      "skin_url":"https://lh3.googleusercontent.com/uMKUJzOg75V50njmBmgVr8xrohu8FCCjO_25XT2b_qYzJr-X_I-c7ijfSSpbh3Vv0pnPTD0ixWR-0uDl4aum",
+      "view_skin":"https://lh3.googleusercontent.com/zUaxzTK1nx8b9qKFZV7i6bKrAskRqx_IKpDsP8DQtnSTYZPUF26BkGWxczhskusM5UpzT_OTxtoXWazoEXOMLQ"
+    },
+	{
+      "id":9,
+      "name_skin":"one piece",
+      "skin_url":"https://lh3.googleusercontent.com/xaX_-5wXrN1CjpoPeGHa4K5mmmXb8c0WXIXMmNUyOfIOB7UCvMv_WIVo6KxoffemrFS9rEnaP2KqQPvfdS01Lg",
+      "view_skin":"https://lh3.googleusercontent.com/arD8gji2S_jvPg6ORmmGakO94Y5LoAbQzRxk2LtPsdLGraRUeyAbfVtP6AAW6bcwGUC5j3Vp0rYKRup8SXxV8US5SdfCFGMm0g"
+    },
+	{
+      "id":10,
+      "name_skin":"Katakuri",
+      "skin_url":"https://lh3.googleusercontent.com/SKuCDtrPLBtbf-33lb-7Uk8VcqOtEMzcfhwFGoESiEyapLaQY2XtrBCIPIQQj3xGPkE2ZRk9b2Z5fQH_j7aURvM",
+      "view_skin":"https://lh3.googleusercontent.com/Tkth42SdgqahzgZaqbZmluo3QAZUVfljeihNi34rSiPfSYixhnHDVaH9Hbl8LK9IgDaOAIu5QU7mruNXed5zHA"
+    },
+	{
+      "id":11,
+      "name_skin":"one piece",
+      "skin_url":"https://lh3.googleusercontent.com/R6ZNZObwSyiBEsYNRlg6XdDu4eSnap36jad6Zf_etzAsYfsV498WSzHcaIvAq7xnS0vrQwZZ_xWVREeZfcpz",
+      "view_skin":"https://lh3.googleusercontent.com/HgxDqLCrIjjJznxREygkEneKZLEukiHnhtjlPoTlvSZYVVdM53HVLSBM3HbCyQQwHMUFa77wH2cMKHZt4pvZQw"
+    },
+	{
+      "id":12,
+      "name_skin":"ussop",
+      "skin_url":"https://lh3.googleusercontent.com/66OjgB9WPM0Y5QzQMXOz82SYknDnOhvTfibna6U6hy089GlDeDctZPpQW4wMStzsgQHjXR9LHRNNVvAFxIQT",
+      "view_skin":"https://lh3.googleusercontent.com/WV5lKzoJpPk4T4IEpU-n1RZtPAzYZ1fc8jRgnLqC_7z9OfWVcx_DC7r5EKBs28Ph2KKLKXkbGpBBZ96TwBot"
+    },
+	{
+      "id":13,
+      "name_skin":"sanji",
+      "skin_url":"https://lh3.googleusercontent.com/DUu_RVPctJTPWcJ4e7ubjbYRRY24pQ1hpTTcRxCBTvH2k7_kQMVZkF-3dwR2GTmSR3IJHaT_uJS-Ougvq8YBGg",
+      "view_skin":"https://lh3.googleusercontent.com/g8isI1CiOhu2vRvrLg0QLFof3Af4M8OS0qC4vO9v5EjBydenqOvaeQp2jHooBnrWqcYGTKeqSG6OkQPnR0GK7Q"
+    },
+	  {
+      "id":14,
+      "name_skin":"one piece luffyyy",
+      "skin_url":"https://lh3.googleusercontent.com/8oqQ0SdOcx904XDLZWrNCZEhLAmSCMUXHqdAJZro6fOuHUctpkGST-xLfsIwwHxFRCGDZ7p1Umy-J2fEVvIGLA",
+      "view_skin":"https://lh3.googleusercontent.com/AeV2wOVNN6AS_yLOPBHDbPFI-mP66Gfxrye9EmIr5rkMYzXwGy-7W0HzGwnt6i9ggSJ2J6mUocR5tPpet7lulSVrJwJu2kKUSlQ"
+    },
+	{
+      "id":15,
+      "name_skin":"Katakuri",
+      "skin_url":"https://lh3.googleusercontent.com/UWf5sQmzSzijIQO9Lp3l-Ic6Cj8NaQjtjNUHA8uvTUQpO8RFnS6D3bUa7tvt7VogQaqnsAGEDo_BxbQA2ziGi3S3-DCFjGnIHw",
+      "view_skin":"https://lh3.googleusercontent.com/GFlkxZOln5uZRpebN1RF4mOH12s7hceVDYlbzMa8dahW44kioTw4C3n85Y-IW_AWq37o9uK8OoNvYCQclgF1IX0zaFFVcDIz6IU"
+    },
+	  {
+      "id":16,
+      "name_skin":"Inosuke",
+      "skin_url":"https://lh3.googleusercontent.com/2Qy0d_JgdCRWJ0N2N7ZixMqfEfegPKjQDKryaJzH_y5ypKWLK9dI0Gt7DtLj67IOTOWIGe-QCq2h4Cm0b5JYTTA",
+      "view_skin":"https://lh3.googleusercontent.com/Kb7jdZzCFueWqrOeysQ60DkZqvU2s5v5TiRcn00gL9bg8Mc0nZDjzbJRjp8go-7ML_u5I8MZuPi31bpmJkt6"
+    },
+	{
+      "id":17,
+      "name_skin":"Queen One Piece Wano Ark",
+      "skin_url":"https://lh3.googleusercontent.com/VibGQocBe4LVqCy5C4dY2HJBideB5iSbzEOjIaeIhUcvKHO7LtgCjJM2S1lAD98USK6-KyjADu41J3IDYoctKw",
+      "view_skin":"https://lh3.googleusercontent.com/o0WeS2_tZ6uB_gjLqVIf2yX6ppqtY31_N-JaapQS9XLZbS_JoSKr5GKDsSV1XKaP3PLxwCgk1Ea3uVYJoABYQ84"
+    },
+	{
+      "id":18,
+      "name_skin":"Barba negra",
+      "skin_url":"https://lh3.googleusercontent.com/Qb_DWyL2rqkDtmzLKPsOEUftUpJodLg0OyESvWmkmO8LFLUCAoAeGhUPV7Z8fx2nEJ2x7sPloI-__bWe1PrQwYo",
+      "view_skin":"https://lh3.googleusercontent.com/_QfAtF3j_0uTtXFz0KAxENR5jajUIMmfPc-9AtuAGZq8GJ1yTE6zG0VCwS8Rgy0MHKxlDGjLHhBL80Q9JomXMQ"
+    },
+	{
+      "id":19,
+      "name_skin":"Choper",
+      "skin_url":"https://lh3.googleusercontent.com/4zinljTOKDOAVnxTNokB6H2G7NxnVGn9G8sXxBWkA6XMIwxilDIL1kKcW2xl05O1auqR0Qs96GmzF37_6jI9P-Y",
+      "view_skin":"https://lh3.googleusercontent.com/AHY71Tsj9S2lLB9K-7LF14GBDvzF870H0rz5vBpmY1AEbVuqXLduDTsr3GEuOMGpWeONo3ryZZbY7EhKqzCTHJsghiAzaa0XVQY"
+    },
+	{
+      "id":20,
+      "name_skin":"Marco One piece",
+      "skin_url":"https://lh3.googleusercontent.com/EbgMpgRkxk3RDoIhIsdL9UdLq7b_UrUMPVBw2U7g-AowQ_mocV6hRl6fNH2OEJ2u8E2up2oXlTxQE5YhIsXpdBUzmMqM7rjO-VMI",
+      "view_skin":"https://lh3.googleusercontent.com/OPlNrz0pDivCm6uZ8-WY76iKF39RQY6FjDstuKu1ZP8WQO4POJx8NQdu3VLYmeiEKswKE5Wfo1ZwZvBP4oMa98NnqXZJaWya6jrE"
+    },
+	{
+      "id":21,
+      "name_skin":"one piece",
+      "skin_url":"https://lh3.googleusercontent.com/3yF2YNW5Q6P7oM7XcPi2k0KjbcrGnybVrimsQQmevp4L9OIcmoAS5-LHXHRqnwh9K7wOO2yvS_dSXQe8RFADx0oOa968LsiJxg",
+      "view_skin":"https://lh3.googleusercontent.com/lw8JRLsJe99-3cQ0LQBC6RgF_4C8F8icgdba-RaWU6qfu0oCoSXe2IY4qdLykk0xEBn2a8wnO6-a8zWM_VkgNZQYZC96ctjEUcY"
+    },
+	{
+      "id":22,
+      "name_skin":"yamato one piece",
+      "skin_url":"https://lh3.googleusercontent.com/kSpk9GQULB0H5xZbTk3ntKS0E5vs13zOFjG1eYJ6jgMZ8UWgJYFkkSKrnaZRWu0oBsffXXJUJMyVMt-xOWFszXMVDC5WsaxoO7M",
+      "view_skin":"https://lh3.googleusercontent.com/mo_jI3YCV5zeXVvMGr-9-g1ngPxRJ6Si8CGlZc4NqKtmUcRZbI0F-cRFpZl8mWxVrTqDL-Aatu9s1RBY5VDBm3vtvBz2pE1T_Q"
+    },
+	{
+      "id":23,
+      "name_skin":"Nao one piece",
+      "skin_url":"https://lh3.googleusercontent.com/nXxBRi7Z0SgXAKXDV5l9smb53wQrtjTCpXA4kE2-Bqef8gDhrtOEnIogdCrt1VGmw12KAv3gXsVXKGbdF358Abq2dpfS182tIg",
+      "view_skin":"https://lh3.googleusercontent.com/ixX-5V6imzwR5SlI0ncptb5AmRsNqG_mv8uRoZhGF6BMytn8reZFsE5WRNBTz9yiF7vxKwvTN1YOm0Cl3VmiJ2YRzzK5So6XmyBW"
+    },
+	  {
+      "id":24,
+      "name_skin":"Princess Vivi",
+      "skin_url":"https://lh3.googleusercontent.com/7nLJicrQ5rRFmKCu12SjwGXJZj7MBJ8RkAqrvT-CzA-Msl5pwAZpDpNd6fDrlJVFyyJApRYVPRWZGrcuaQhUS8yX0D1kUuF_og",
+      "view_skin":"https://lh3.googleusercontent.com/ppjfygeuQTmGhZsCVdiMxwVgwcAtK2FY1_ov7KU9qpnB3ctrKtWmi7nVg3QjetHfPK7Ajr1mU-HDBNN_JWDSF7O_cTavksUKdA"
+    },
+	{
+      "id":25,
+      "name_skin":"eu one piece",
+      "skin_url":"https://lh3.googleusercontent.com/cLJbP1SAgI7PY_YpvXWIqp7nlAHyRmAY9ipZmvZLP9TKalS9GHfWFQBDe34BTn0mMSXQMzUle-ucX3IBLjRuh3nYXtATC2A008I",
+      "view_skin":"https://lh3.googleusercontent.com/JMfxwjgUJh_QvIXXIP6fl54R-tV4UKm7hyKwq5VWbQaWAa6bTRVD0VUvnInUlMvj_mItHIVz_bkaSBLLgM296rNKLMLJyUCogQs"
+    },
+	  {
+      "id":26,
+      "name_skin":"one piece",
+      "skin_url":"https://lh3.googleusercontent.com/BTcGw5IWea-6gVqVZpthNecjs0UbeElPb-QSN2QzDHwlFg2m5JsIPeWo6EbVJ8A0ALH_m-zbFj4LClyBQjyn4hXlZdtB0YOUiN2G",
+      "view_skin":"https://lh3.googleusercontent.com/5QJ9EI0WzbZlz8onMUm_ihxA4lMj-tR2JKb8QyiIltc7Db7vTfNhPgfyqk_-zrwbEign8_cgd62Ak_xn4oskZPrqAJI6JRKRuhs"
+    },
+	{
+      "id":27,
+      "name_skin":"Deno One Piece",
+      "skin_url":"https://lh3.googleusercontent.com/B3wXiRnaNEs6Ar7TJIesudlLUggX6WoUMCYLv6yfnpSoqJaQQ5AUdsm71SxI2FTB5fnU_pvZU4lAQdDyZzZfi-TDC8XYZ8WcfHY",
+      "view_skin":"https://lh3.googleusercontent.com/FKEHb7O7RXGiJAM6zbW-syjuuck5jy_rquST8-NnW0NOGGcyWiSHHZWKEKRQVbHjo5n8U0_wW4xH_iPX8ZhCh9-k93gM2vhfqg"
+    },
+	{
+      "id":28,
+      "name_skin":"sabo one piece",
+      "skin_url":"https://lh3.googleusercontent.com/xT83Ive7wla7w0v-GUd8r6dF74bT3zzep8l5zpVdj_G6DJXr-65-wAQjLgEUwfbRhFkG1J9_T4NygFxEtfB02A",
+      "view_skin":"https://lh3.googleusercontent.com/uv60YDdOM70wcDUi82CGqNZ3Mx_c9H7cOetBr3_NOyacmlNYzhmx3HrjKnf9BEqmwccNR3g5qxoTgHT_WFv5b6g"
+    },
+	{
+      "id":29,
+      "name_skin":"marine one piece",
+      "skin_url":"https://lh3.googleusercontent.com/RFYbbbaW1Pmvk1D0ZmUXeoMD74RpxxRMbiGnfJm07NcP2TjiThLIzPPPKDe9Yu40n16RPf7v3uF4jLFqHj6LVY4exBzKV59YNg",
+      "view_skin":"https://lh3.googleusercontent.com/V67n-wbGi9gc6uwR441J9xOfvfA1w3fBQyGFmkDwqTxAt6bjiomNvNcshLgnf0OzSYUE-ZM7nvr9I7dAL_waPTLVD33iL17jxqM"
+    },
+	{
+      "id":30,
+      "name_skin":"kizaru",
+      "skin_url":"https://lh3.googleusercontent.com/A2fhTkm3UwJJagQOYwGAqeotmWHLYqnmxmlOjlejG12Iv9hwKS_CFUAxMaN74prqBOf_gdz0OmyCCZdzzmG-E2aafm_2eX1KJQ",
+      "view_skin":"https://lh3.googleusercontent.com/k04fMmzNWoLeaf8Btq5eQQdune0ldVQY61O_wc0rIhzvr8Yz-eP0EIVumkH86B7b_i8g_Ed0oFWv0dM5TmorLE2H1ij_JOPJgQ"
+    },
+	{
+      "id":31,
+      "name_skin":"Skin Machinima One Piece",
+      "skin_url":"https://lh3.googleusercontent.com/DzwIhQeApgdb5t9wYKQH_tkpdXKfA_KbW_Z3MiO3TncVxkJJt_JMNPvh-d_yGTZ1inGxDNfUoc4cv-wMnSRAaOhCv7CxPz5-fo0t",
+      "view_skin":"https://lh3.googleusercontent.com/SNFR1MeE1zN4uxT8uyrhjn7wWOHPX0DqDLLX8-jh3gdxFNxSNBhJy-gK_WlRB_PKdib8wm2aNewgv4ZRZn4XKER_vXH_tMGsMMj5"
+    },
+	{
+      "id":32,
+      "name_skin":"Smoker one piece",
+      "skin_url":"https://lh3.googleusercontent.com/xlHN7XhESvab07BJm2k1YKFJHOHpyuH_qk9xFqpmzSwdaxItxJrTjf9HykgeXX1cqaBhPTrttB2BrICJaxJBnp-XGdFFQw59aFDw",
+      "view_skin":"https://lh3.googleusercontent.com/0M9XODVZHRNQVNBEWWOShBDm8nysmbaNTkptGBj9Kf5BGx24C5kOG0XHVtztEoSGGIif8AQ04SF_8BqzyBCnUR52Lpw4tM3fdJY"
+    },
+	{
+      "id":33,
+      "name_skin":"Kiku One Piece",
+      "skin_url":"https://lh3.googleusercontent.com/NyvgBNO8MFgB6pmdUzO9TdN0tpuEk6F6ObWA2fWFh8pPPWZeGPo1x7e4s39S33ADj5eL1Qen9NogA13q5rh-p5LfHTcnDDp4lzY",
+      "view_skin":"https://lh3.googleusercontent.com/gAFcVPI-yNdYocU15U_pcOPp6vcrFxuSpD82NUcP-g463zCrq0ZrQ8KGsKHdupNZwdhoq7ucq9M-tN12Sc9ul8rwyX6OVRjX_aU"
+    },
+	  {
+      "id":34,
+      "name_skin":"Hyogoro",
+      "skin_url":"https://lh3.googleusercontent.com/oqTO_OYDwQCQNR_EWsxBbPbK1OLONtXvLbO7hUUBRePhmAuKMt54EmXn7WVOQicE4eSIXGolxu8UAK5WCO44PrudERw3qKmpd1u3",
+      "view_skin":"https://lh3.googleusercontent.com/p74ibEycLkC7FL9II-kYghlBfIglndGopzZEgD_i4aTMj8wElGU5U4qgsKArgILop13nyBX2uC-xu4ER_8ILhzIkZ7sZurIKoGjD"
+    },
+	{
+      "id":35,
+      "name_skin":"ACE",
+      "skin_url":"https://lh3.googleusercontent.com/pqUpBImsKT6aEKXT4s82xp9o4NfvMkTAtRUvgh4nps61TsBD_tp9mrFDwa7UK7ensj2Bo2YUGnK738ExudLR",
+      "view_skin":"https://lh3.googleusercontent.com/R7zLz4S-sOwL3NLM001JMUErTeHOKKqJXtZDyJoH2p2MKIbPgYfMct_NVyz-ctizuVVTUc41j6BRToUyHeL369ebo-M9rBmloNAb"
+    },
+	  {
+      "id":36,
+      "name_skin":"Arlong do one piece",
+      "skin_url":"https://lh3.googleusercontent.com/nsqeP0G5s17tp96GC-QQIFAvdaXJFxDxn1rHwMZiSN-XO3JSlGoGeoR6ntUwgzyOJ4ciMv-e58Rm5va1yxX22PLp8oep6rmRWn8",
+      "view_skin":"https://lh3.googleusercontent.com/m1tJBVdUBrh15LqpsUBWFj6YMjO6zDxuqM-NQUIgYuMDikwpdQi2vSItWhY_Lg-rWGxkIt6_UQuEjtxRzZhb4cgBbSIiRCBOwGM"
+    },
+	{
+      "id":37,
+      "name_skin":"Blamenco",
+      "skin_url":"https://lh3.googleusercontent.com/-C1qQi7Oqi9CpUEBAngXvAyKmsXrwEU8qbrXbjlQTxc4oemHrQfV0ghADvATDN0XL8_pejr9wNalarccZbcs-LUHGz7OdKqq6HM",
+      "view_skin":"https://lh3.googleusercontent.com/Iq6lL-NcVkjqL0ex97HbjanBDvn0dJv6vmxY0o_2G-tq05jHotn5_mYs7cQWEzEkx7AUYDpwRo3EnTVeF9gMmsDf87wG5guREA"
+    },
+	{
+      "id":38,
+      "name_skin":"Nico Robin",
+      "skin_url":"https://lh3.googleusercontent.com/Q7fvgnEGBLUUiGMz8raMVcSW1CbS8m1RUfeSGAOUMWo9qMkhEc4ds2U8oC_TlVOIZwd1aMDIcsx3Eq_UFCkXiA",
+      "view_skin":"https://lh3.googleusercontent.com/k_imo0VczX7yRB-nflSncdfYGdv_omcRtR6tWgD8PHmfJvmHF6NjE1205VxjEkPWUQ_aZBYxzkSx6OjjwmTU-DM"
+    },
+	{
+      "id":39,
+      "name_skin":"nami",
+      "skin_url":"https://lh3.googleusercontent.com/y9QUdYU1YlyU-mIl17n9lBQskKamxxFth_tZ0r7bldhbwQ3-St1DLFPcl_BgtgNkm05IC4Qix11f8ioGUDa8WFqk5XIrGZ_kKvU",
+      "view_skin":"https://lh3.googleusercontent.com/-UpI1cnoPx29jYO4FDBUkp0RELf0IN0S7sdb-3fCsb1GnVBrnVHJrcpN2jecm0jTVBDNZnLaa2YtzxKow0rNimrIQogjNu7b6sg"
+    },
+	{
+      "id":40,
+      "name_skin":"Nami bikini super sexy",
+      "skin_url":"https://lh3.googleusercontent.com/yY8vVgfVNy51dURU03c-81h_NAGv3qsvWM2d88MBIzD-WaVlt1XF7nMWwO0mauyM4zA3rKoTDYnVUGLbXyfQrDrFOANXMExT7w",
+      "view_skin":"https://lh3.googleusercontent.com/yY8vVgfVNy51dURU03c-81h_NAGv3qsvWM2d88MBIzD-WaVlt1XF7nMWwO0mauyM4zA3rKoTDYnVUGLbXyfQrDrFOANXMExT7w"
+    },
+	{
+      "id":41,
+      "name_skin":"NAMI",
+      "skin_url":"https://lh3.googleusercontent.com/LJBzaxrCAeuHJRPz0IoAHGpm3HXa4KbDQTiDYj4MasdiNayap9Ieq8FXJ_8PS72zd4T3eF9gsYnmVB47fR2F53Gsp_baPY6CyaU",
+      "view_skin":"https://lh3.googleusercontent.com/zsnz2aTq_A279CjOsoz7__OtwxtCMWjfpve3POnv9hOq43lUxnf0-YYPbCm1wCvNBDOVItO5sfZe3JckL6_Oz0mNHLJkJwnHRVA"
+    },
+	{
+      "id":42,
+      "name_skin":"skin nami",
+      "skin_url":"https://lh3.googleusercontent.com/auPN7BHXp5CQq1KXZgl0oJRWIBUJEnwi6Nh-26tEdvgZyVwoPObP2X-uh_QDT7xFuwBh1MQafobv_3KZy5KrxSs_l3VxOXXGt-id",
+      "view_skin":"https://lh3.googleusercontent.com/zrdvgdgOR-pGjgSq8H7IAYYUtsUZNbuaXQZw3xsFbCl10-QwJK9bKiMMwW_KQiYSRSE8rfy32_bDWqu5hkTPmzsTcLYm3y-ax0vg"
+    },
+	{
+      "id":43,
+      "name_skin":"Nico Robin",
+      "skin_url":"https://lh3.googleusercontent.com/GNam2s_Rh-xXxua6Kaks0MvQRbGCIdj_X4VrtxBp9_jg7_RHr_zIWY0G9xoBDGC-4x6gBEZLmSryCr2NiDzMTb9-fanT_t8bkyQ",
+      "view_skin":"https://lh3.googleusercontent.com/6o79XAbNmx4nJnrWY7Im-OwcyWdfV9Bj64pdKIWo9GssRv6WDfM3jgVzmnFRFRdWAd18UkbdM2Kn92meT_oGlZhLBKcpRC8yTmc"
+    },
+	  {
+      "id":44,
+      "name_skin":"Nico Robin",
+      "skin_url":"https://lh3.googleusercontent.com/guQ-nPE-byggcVR-Xo02xjc0R3QV8tYRqNjlnhPngK4AVtfBF3m88SdkOHFloKR_JNiFli473trwhc2NW0qJa3nPj9rIgZmCJjQ",
+      "view_skin":"https://lh3.googleusercontent.com/DmEqFeif7BUutFJuXfcOR-mws2e2jgQTO0h5lBx3awsW3_WxVYQ8-T4FWcEvXgSqEs2Xfe95aYwSPZAsNmZfyY4Qo4Y1WL-RlZQ"
+    },
+	{
+      "id":45,
+      "name_skin":"Nico Robin",
+      "skin_url":"https://lh3.googleusercontent.com/18X_mTkHtUTLWIkVI24-PIj-x0UtyxqITEBbEKP-6vt1uMdjSj5CkHe6H_KAqMCa6xHnO4McDwpyfsSGBILVVVylVo1apTqJVw",
+      "view_skin":"https://lh3.googleusercontent.com/EQNa5iOCGu0a1HYZHEn2yU8utEUzYT8-d5OWyFZwRjtMcPd26eKVsKYrWiHbMPFlQOioUUgIKGPPvPT74iaNzxh1NWFIKEaP8-Y"
+    },
+	  {
+      "id":46,
+      "name_skin":"HOT NICO ROBIN",
+      "skin_url":"https://lh3.googleusercontent.com/HtkQi19NQuTekiytpVoT01QpcvriyLaM3UWPs8uphXUeP0TJHy3WIViOOP4rui-LkC1B9B9YdfygnwCRbhItbw",
+      "view_skin":"https://lh3.googleusercontent.com/HtkQi19NQuTekiytpVoT01QpcvriyLaM3UWPs8uphXUeP0TJHy3WIViOOP4rui-LkC1B9B9YdfygnwCRbhItbw"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
