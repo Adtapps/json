@@ -1,0 +1,265 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"cj gta sa",
+      "skin_url":"https://lh3.googleusercontent.com/GmJUBFxhIQwYrXYZlZj-XYMZqMSzIEN8Qw6yRI89hcnUx82Tn27E0h3KeLWT6RP6o77jdiMw0EZ5couX3Bmqlg",
+      "view_skin":"https://lh3.googleusercontent.com/Fw7ejvQFKPaeqEFPMEWIRMbm4TpAjS_JAvu1Gq426DtNubCi4NGIGotw0inbN6iUfwc9q4vm5TyFgTazYAiyzw"
+    },
+	{
+      "id":2,
+      "name_skin":"Alien GTA",
+      "skin_url":"https://lh3.googleusercontent.com/kPEq88c1ynmNyqzoyrshBx9PAG72z_Ss9ko6T850JBFJgB80mdsnAvgzZ9aDLuhMuVXbqmxukHoYPw1dkBh7JQ",
+      "view_skin":"https://lh3.googleusercontent.com/CnMqFudz1lp8sWSQhvSf6EL8FiEdZqJgKS2Cg4zayZOpGz9lmKTtCO2RcuDnk44VsuA1FvthnQF2SlfLM7t0AMM"
+    },
+	{
+      "id":3,
+      "name_skin":"GTA Vice City Tommy Vercetti HD",
+      "skin_url":"https://lh3.googleusercontent.com/gd_6vEmN2RM2hxlx9-aaEDIaL-LNlqyVKdIDQQ83YCWWG_njd8mo9sHsLL9aHSRqnesC596674q6CSrLYRvPdSQ",
+      "view_skin":"https://lh3.googleusercontent.com/JUnCzfq_gFH-SGMlvmXBc2GdPkX8ae2jQpo58p0xMHS1a30R6cXCX_cOSen3hLP8CAB1o2D7V8atOKjT8jCGEQ"
+    },
+	  {
+      "id":4,
+      "name_skin":"SWAT GTA V",
+      "skin_url":"https://lh3.googleusercontent.com/p6oUWBr71UU8sfM3RcplUljNGdeZqpamW7-DIYKTtE9HolooPYzLKNcuePetXthYQyG-9E2R1RExVS9GE18G9Q",
+      "view_skin":"https://lh3.googleusercontent.com/eOZRTizyaQn1nhS5JO_7OxhqyEEEw6Crp1riZKPHHnPCmg9wLc4KDOBnLXt5IwLnjtd281RkTfRY45Kyw8ncoBQ"
+    },
+	{
+      "id":5,
+      "name_skin":"turquia gta rp",
+      "skin_url":"https://lh3.googleusercontent.com/52I9oilzQjpsqlc0STup0HK2G27ISPi6L3f4_bCrBVsUPLPM7cBRM6EFBXZao8C7PwSrjoCB0axRN9st_JOkVBc6UTEUa30PrCc",
+      "view_skin":"https://lh3.googleusercontent.com/iXHAYl7fHe4UQtX7YGYyubxGGmfXl51OtvhMmPAhBAxGb5jPqHNiE_nmlCdDnB71Ge1DRPp8iwCE67wgcbTSdWrFFsjb1ymwhqo"
+    },
+	  {
+      "id":6,
+      "name_skin":"Trevor GTA V",
+      "skin_url":"https://lh3.googleusercontent.com/OQWofPFgS_rhSzO93LnEwrBzhznAuYM70k0Ao4LrvDvz31XvYX1AnfE-rKmKLnO3MDt-z84Zh0jIw_xZ0iwAsg0",
+      "view_skin":"https://lh3.googleusercontent.com/WMavdwTYhgGOp3NmTtsm_EqI_rbhKRslgESmdowkAL0ndWfMYySD289O2wcMnI6J0LhdNIL60TVbM9dMVDROn0o"
+    },
+	{
+      "id":7,
+      "name_skin":"gta 5",
+      "skin_url":"https://lh3.googleusercontent.com/rP7rY9FcjrkPWJFI8iCTFCvxRWXPPonVqd87qSmhnriRjH-VkWsjekmN2GuILjEL6wFENz75YmwsiT-9CM9VFg",
+      "view_skin":"https://lh3.googleusercontent.com/M0ipKoMDXpk6k9oERPF7r2e4lh5GLClsqp29O3mbgfwmhnO63ABcsaj9lAdwnYUoSJdmdQOyxurM6jvKuPIe"
+    },
+	{
+      "id":8,
+      "name_skin":"GTA IV Name Niko",
+      "skin_url":"https://lh3.googleusercontent.com/H9spAmalRuBGH9tCyZBSfsTmHcRVM85PfiM3GqY__mi8pZ3r-jHkfvT1oUNDOtGgN-_bpPBM0N5ux_q0AvqqGg",
+      "view_skin":"https://lh3.googleusercontent.com/3iWQ1U-X289R8ectUxKEBtXNcczm7F8MK3OQATJFDMi1lRJoWnzKGyHxM28q7NekUwDSVhBXrIylDnTdkOzjwLo"
+    },
+	{
+      "id":9,
+      "name_skin":"michael gta v",
+      "skin_url":"https://lh3.googleusercontent.com/hcFV9ZRje99KxTe8GbDSbebBgrtGbCX7CsyILmWLffG8akP8rNz3K3AF8KnMpGtbP7-LSiYRwrIITu6fptHb_w	",
+      "view_skin":"https://lh3.googleusercontent.com/fqUplp1YJrmbKPgDUEc-GDTyKnRrCIRVjffOD3sgqL5vMeMcCkeBDhF2n80nwxmnrjTnTSaDsp8QgaGccGIiBw"
+    },
+	{
+      "id":10,
+      "name_skin":"toomy gta vice city",
+      "skin_url":"https://lh3.googleusercontent.com/YHW5tpPoR12ZmG0XM7fYCQaS6QeXBVdvE_pajFktiHkwweEt7odp4n3Q8peg4rS7kcDa-LwO6uvC39SSmd-M",
+      "view_skin":"https://lh3.googleusercontent.com/_t-vLSNSFEUia6mgcOuFC6iyRagTbU0tKhnkRGENS2d-gmTk9V9JoiOKTdWoIUdsDvIYmiToDKQZrsUGTDTpuQ"
+    },
+	{
+      "id":11,
+      "name_skin":"skin GTA LCS Name Toni",
+      "skin_url":"https://lh3.googleusercontent.com/POznih0zb24fJltyt8qoj5zms-MM_bJEovhI0rvR7L2L-pHUm6U_fmlninvYu7tEue2xmwcEHHlujjPELsq5Fg",
+      "view_skin":"https://lh3.googleusercontent.com/GLcXwcL5oKxP24lkga51ow3W_W4lI1zPffX98b4DqJcCdYxGZCbMktKJ5v9oHFojeu1sFHZH7k6vN2R_QgbNfw"
+    },
+	{
+      "id":12,
+      "name_skin":"Claude-gta 3",
+      "skin_url":"https://lh3.googleusercontent.com/S_pO5pHaOJtoyfRxpC4Z13f-24_SqyVyFvt58NHvTAmF-xOEln_SZwvmFHVYkd4maviaH1qsUiYRAjc-M5fO-Q",
+      "view_skin":"https://lh3.googleusercontent.com/cwDRflykWW3_BguThkU_sLCCEJKreUgcaieJ0CgiNQliw4tneWIBeh5DO_wckV5OZu21MKUTUvO-CpcYXNC7U6M"
+    },
+	{
+      "id":13,
+      "name_skin":"GTA",
+      "skin_url":"https://lh3.googleusercontent.com/9P4gylwRMtT9Amatlh2wSnH3K6UwSyyIZvcG4D2Rb9KcquGLvplcKp0EXMgm7H9f_f1mrNX4HAQ4RdKK7IfAYg",
+      "view_skin":"https://lh3.googleusercontent.com/RbqgBNf7ah1JqzSwdisx9zv8RgRQHCDP-53kgidt-t4tfBtFvFK9ToaiK-efrLQUrUcKSRNJFyAIcgK-GecnOsfctqDdeg9IAA8"
+    },
+	  {
+      "id":14,
+      "name_skin":"Claude GTA III Skin",
+      "skin_url":"https://lh3.googleusercontent.com/BHJJ1HfJiZuMUNi3I98hTStZdWqF6GwMaOLTli80cMYzK85C3A93Fq_ZsA1JtwpctaLZlcTy5L_SUAstfvRi",
+      "view_skin":"https://lh3.googleusercontent.com/ableHQaVWaaI5VRHwEZrDYtBe_Td8PDVvt2VK-ioZmFqAFLKrO_IcBsov9MXa3ispV4EhrLMktUrj8b8MpLd0g"
+    },
+	{
+      "id":15,
+      "name_skin":"GTA IV niko HD",
+      "skin_url":"https://lh3.googleusercontent.com/huZXbLiYkN26aZuGy05ik8-qJtMbiLJEgw1ZYw_MMVkRMMqtv8ItkQMnKX6gmsQqvZjmDVexYFg0YgZoYyOPtg",
+      "view_skin":"https://lh3.googleusercontent.com/50TTIaJ-8Xnf0NWprjfFjZJ-udeWO5goSNH7vklSw0heKk3bv2CsmXU7giKqp-lwkrjGHADCPc0ToqxpARQM"
+    },
+	  {
+      "id":16,
+      "name_skin":"Motor Officer GTA SA",
+      "skin_url":"https://lh3.googleusercontent.com/pXZu5FbGxzqUvWsSSXjWiwD1onFzaGIhkh0vflTFgSjSKIw4UIVkCiojOVlUQGMVfPC3EDs3DfTEk1MwVt2LTV4",
+      "view_skin":"https://lh3.googleusercontent.com/1d9LElCQILDc2B2WnE6nJMN7HGS4DYHm8Gsd0RLAeT1W-T8sKoXtJXvPKyl9NxzPdJRFYXL_B13mhiOSz9eMyg"
+    },
+	{
+      "id":17,
+      "name_skin":"tomy vercety gta vice city skin",
+      "skin_url":"https://lh3.googleusercontent.com/DLTTw9RAhESZae1Fbk8K5BY3jamTb8qzRMat6_oEgIPbS0566L_FSg7DdZjZc2vcTeOCq_zXxoaELbJR4Mhsyqg",
+      "view_skin":"https://lh3.googleusercontent.com/zhiKGEQdfJO3SaQsbLgjvM9Bma7pdtCw1HvLvIQFelTREKwSvWA1VNlaG6hrObF1sexYSua_P7PCQzqAMn_vlw"
+    },
+	{
+      "id":18,
+      "name_skin":"michael de gta",
+      "skin_url":"https://lh3.googleusercontent.com/gDnXplg9c-Ra3SoEbhhxLQZG8FAwrTsrLCzOrKKhGmS2pIpI2xTD9RyXaREhSdfRutfV2GAMdykIWmKWpiyfDfnqxmZshy-3lC0",
+      "view_skin":"https://lh3.googleusercontent.com/9fIgF4rvd1XkZQT7lIGdlt5_o3Z-gMGJvwdxNcXzdjGg2rt36pDWjS5dli7u107gj9pCbUBotjDAAt1oqjIERB7yC7uwB8Eb0Q"
+    },
+	{
+      "id":19,
+      "name_skin":"gta san andreas",
+      "skin_url":"https://lh3.googleusercontent.com/MPDvpApupFOVZrQjltPb2R6VHLFVJRnZTvI5T6aVNS_tUD7_MFGRYsT9G4yr23Ldio5fuvzJoxTD6c5O42Lgcg5coWJGZ1L4wQ",
+      "view_skin":"https://lh3.googleusercontent.com/WfzAy3K5_UpwsWRtyAcs2MTaEJ5fcgAvGVG9DxDYNnOKrMDf8u-cSboNFGtPAbepO8hsCz7wMgPcfAZklIrYmuMzss7QrBODmQ"
+    },
+	{
+      "id":20,
+      "name_skin":"Officer Tenpenny",
+      "skin_url":"https://lh3.googleusercontent.com/hK8j36hSL1zzIJaJ2R8EArNpyOD4TebS4ltMtJf4wt4oVsBrVTddtxNqh6fHyt_fXT-qt3tPz9mbSleHxruFSw",
+      "view_skin":"https://lh3.googleusercontent.com/Tlin0hQTS6GvqHa9m5-0NNLAIcX_fMHmPkzrsXQIdW0xHs2Wa1x5dHDYQtg8M88XYSkqvIaeUaWDpN4k2Veg79A"
+    },
+	{
+      "id":21,
+      "name_skin":"gta lifestyle",
+      "skin_url":"https://lh3.googleusercontent.com/PwtnMr5ZlmPwAFuvrMgZk791dkxqa_kyQaMnBhCQIFiSP4bx7FPRMzVk1hHW2nE0g3YaaMYD-mViQU8MI_a1xy-77WNkbifHf-o",
+      "view_skin":"https://lh3.googleusercontent.com/7FJXJajI0EB5Tq6tvvKivd96CKQidI_nSolCtJvY2zS4n0z8KdtQCH2h6xhZ9o0UllUOUVo22unOrRymvpxetSrnHtwE_gQ14bE"
+    },
+	{
+      "id":22,
+      "name_skin":"gta",
+      "skin_url":"https://lh3.googleusercontent.com/4mu3hFqgbnsiQjoF0SRjqmlqr6HihZt-pVxxmYFHDO-aHpzfbthy26YYmCBeyWmWHyoStVlQOEEJe_-KImOn2g",
+      "view_skin":"https://lh3.googleusercontent.com/mtdK2k5DQR6WAajKNmVFhgc-x-AaldBT0mIYdg276W0nX0grgH74VzyN7GTnYOVvHXinF32JGuEqG9c3tm-zAsU"
+    },
+	{
+      "id":23,
+      "name_skin":"PatropYT gta beach",
+      "skin_url":"https://lh3.googleusercontent.com/5nKtnLFwdUFfXxWuMzqZcZBTDCr5PxY2vrnxBI-ng1uYOXU-g4ufPHhG0MuE9fUrhgRlxlpvWP8RDKVTsXaOyiXX7Fg7yzmcfdY",
+      "view_skin":"https://lh3.googleusercontent.com/VcALOtW6bSoMF21tdoPR8WHT6i2DD7nOIW31YyB0pGq19PRxLgHnTcHtaxiDJBEuZiEKwP8sHChlBruIpfIwX0RNO-u_SY-b4vQ"
+    },
+	  {
+      "id":24,
+      "name_skin":"PatropYT GTA",
+      "skin_url":"https://lh3.googleusercontent.com/yQuStKmO-ziDfg-SPfFL1-OS6zcHMBkGjY3AaRd202lKe1PNrllGbXq99raRQb4uOcYzGt9Pb5raZVmcjEH5SB_YwVgoMrAr8Uog",
+      "view_skin":"https://lh3.googleusercontent.com/biNAa7J7QnFnjUvdWdb5mT34MXlAKd1SEAE5p4E_6qY7mhcF7pu26E2lT_YcrI-hEpJVTcEzfzcbrAwn78dzQZ4q4sxK8oyH-T8"
+    },
+	{
+      "id":25,
+      "name_skin":"DaviSantosOlino GTA V",
+      "skin_url":"https://lh3.googleusercontent.com/zVk3PKMTIug7nay1D4gUAsuybmZSDN8Jn4v4kv-Kns0kejh1Eh3sNm9i5_8C6am8ycUheuco4CFqcDa1fLI8oPLX39opmoEpGkpZ",
+      "view_skin":"https://lh3.googleusercontent.com/rgabe78VCrixdm5I1_ZYr8xcq68h6Ma7WLbkuVioGbNWnMqDSXA52QxTv_M7W4DWweONo_s8ob3CYnmWUOqqhjERBfvrlrCuweg"
+    },
+	  {
+      "id":26,
+      "name_skin":"gta v thano habana",
+      "skin_url":"https://lh3.googleusercontent.com/4zWSmTaQwjrHbdew1knq8NtQMbhqDt9qsUFkruEqIKr_-XCwpRttTiBAI673jXKjx1p0HfIsIl6Z3MVOLpdO4ID3sBnh4Ajd8V9o",
+      "view_skin":"https://lh3.googleusercontent.com/YII_sNFK6eXYtv028QxIGPjD0qE6YSvkjm_medQH7pO7NJKlgWjQIMOnBEZ4Bi5XHBxb5yUbdAo_DfGwbDU2nt6DMJyijTa9sZM"
+    },
+	{
+      "id":27,
+      "name_skin":"Kentaro Cj gta",
+      "skin_url":"https://lh3.googleusercontent.com/6XPLA13IDK9CeFzlas6FhJs9xUvV-AaUpb37RmAFsvOaUT_ppkk7O-Um1R-w2YGAfmzczbnNB-EF7uu9T4UH7BVgDBct4fd-dw",
+      "view_skin":"https://lh3.googleusercontent.com/yqDrwA432WiqPr0gKVurn67lrUqYfR51tmLZCTY311AXjNcOc1pbSpQY8IbY6USZM5qPDWHG0zeSE0uJOY63lJCJ9zNjE5kVR-gD"
+    },
+	{
+      "id":28,
+      "name_skin":"gta",
+      "skin_url":"https://lh3.googleusercontent.com/7Y4xpOSlUOHi6JtxOFvKsZbgyroBEhNazah0Y7cFsrrNcVWErDNsDF8wAlVLtYjdiYXIYOtW7gxQKZPKT2-HSMM1kKlco0jw6WU",
+      "view_skin":"https://lh3.googleusercontent.com/svYai40w_BntViaITrvrq0fDE9Y2XAO_e1-9NdGzZb2XsHp1WgEKybMD3eJUaP96o5rfu6j53EduqRem-ifAHmQomNSnYOiRKg7S"
+    },
+	{
+      "id":29,
+      "name_skin":"GTA Mejzr společnost",
+      "skin_url":"https://lh3.googleusercontent.com/0_x6X6p1O_J04E7J2qh8w7p0rVq0NAawASAp9mux-nVsfkhCksb9SyYvQe70MeMXfPolKRrofScnturqrwxbWOLlDKu4CRyO-cg",
+      "view_skin":"https://lh3.googleusercontent.com/02fq1ic16UR5Dwaaz1PTh_koNhyU3HvBgFRC8BkBK96b9Gf5ajXusY45YMi2eUPOR3ppc0njpGpz1pocJGGII3DyESWUYnhahpM"
+    },
+	{
+      "id":30,
+      "name_skin":"strong trevor gta",
+      "skin_url":"https://lh3.googleusercontent.com/hBjGEQkpHYEyBJZCHPtTHl3tITIiKq-FLLCScZoj6q24RCtuY5b46Uu2LUl3CwoO1LkZ41gtqx369caRjpTeDx0UmZclZQ4WvQ",
+      "view_skin":"https://lh3.googleusercontent.com/KyWykiTe7Vjo28mFjLjO_hB4y2jHOz-6JFfwc6UOPJoZWZHsZNPoy3FgZgLBDw9QejaYY68vwggPW5HPOZVoKgkkVbyjz6aFCv9F"
+    },
+	{
+      "id":31,
+      "name_skin":"Lester GTA",
+      "skin_url":"https://lh3.googleusercontent.com/zMOOSLzDA_LGvzsBRBlxjkCi8q-QQAIUGws9O4izt68Hbsqd18-Y1sUsj3XDcTDdTZD75JPNW-I74lwIo-XMTCpcNOzvVKwBr5Y",
+      "view_skin":"https://lh3.googleusercontent.com/a1SIXDw_MC-AeqwpGmUmdhSSIvcYPY21HP3tbikn7fy9-J_65pT1l3n0mxBb4RgKor3KmhVCuISd4mZPi_M7W6lTw9wIanHxmx4"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
