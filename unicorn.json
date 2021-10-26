@@ -1,0 +1,271 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/XzNuevD__Of4pQ-0ITBluV-UB3W0AVfKna_LINjtgFX0l5_Y6nz9i5EhPqZcO503L7NzsJ_RW1YhGYNOzIXvtg",
+      "view_skin":"https://lh3.googleusercontent.com/gViPp5gLGF0CkLfD-vZVEuJXh8zkIA2Ndypx15oxKEy2f83A0Zu4J86h6j7_8jVQTO0-578OhR-K_NoBJsCW"
+    },
+	{
+      "id":2,
+      "name_skin":"Cute Unicorn Girl",
+      "skin_url":"https://lh3.googleusercontent.com/Yy2L6RLocaF-8DRGWOJnQ1W1OxQzdoNTtODiP8rsKNfAWLXVnJCLPzsS3LT5I3-qLw8S-KP3rA-icvVftieeRw",
+      "view_skin":"https://lh3.googleusercontent.com/0Mpga6dvlmxcelRWsBfQqsez7f1l_5eAVCgTC63AOJoOS4AiGUrdu3Jt9SHaY6IoZhRYXU0MZbgApdRl9_qOxA"
+    },
+	{
+      "id":3,
+      "name_skin":"Unicorn Girl Kawaii",
+      "skin_url":"https://lh3.googleusercontent.com/WTJpnzbXQNz6PqsvJpOJk1oi_01iY6rOw9_pKlbrG6Pw8MbNkR8UwV75TvW0Ur1eTQu-S07BaCDJoYvQp2N07Bw",
+      "view_skin":"https://lh3.googleusercontent.com/idEMhKsgokS6W4AIJcJZkF3JVczHxsUgJDd6sYj9JyokkACsKvtj_cOJMkwQ3eRZ8xb2ZlOZAW3KBiKpZMYFaw"
+    },
+	  {
+      "id":4,
+      "name_skin":"kawaii unicorn girl gamer",
+      "skin_url":"https://lh3.googleusercontent.com/KFtkEJZUZGFNKS3nLAen1XNP6lvDgcWBt9eGLYgVuvM1sR8tqAG12up5_DW1rfRU8nh_Mntw-P2yeZ1hht4-8A",
+      "view_skin":"https://lh3.googleusercontent.com/9dDKprnnkVDshXHZnNXPL5Hfu8WsC7AGuLCu-liVmSeSODyyV5eto3aS9dMzwyZHt58Yc5TuirgR-G3rsPtZF5w"
+    },
+	{
+      "id":5,
+      "name_skin":"Skin menina bonita unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/TpBbmHb5mcgUysnV8xhONJyltT3TlxwdNfDWV7YAaXTlER3fQZdxbXuLyagYr0qgM25GOtPxqNoq-5yY7GpUkAxCdXrj-sv0CRts",
+      "view_skin":"https://lh3.googleusercontent.com/06DN3mteqirhp6vvmC0BVn-vvG9FsigwNAp0VdoH6gQwLZfeezzsqqLss0bVTgL6zT9qVSHfLm8BErWF_jV2c-Fm78PXa8vj4Fc"
+    },
+	  {
+      "id":6,
+      "name_skin":"Unicorn Baby Girl Full Version",
+      "skin_url":"https://lh3.googleusercontent.com/xM7eOrRcuFG4b3j0HRoKzZpjznNKPBRNGnvmUzk9fcwHlx-fOeMTg8rt8PpGzG9pLMcqWC998AWRheuXwHHHbAlDWgkFHMcciw",
+      "view_skin":"https://lh3.googleusercontent.com/rbaSjLcw5LeZTvfHBnYlTI0VQQTrO1AqD2-MPuQiPEUypWY5wRtfXpuLg85iVGGJJY71vpu-I8ZQa99xTSdF5wJ86ArFK7qs9g"
+    },
+	{
+      "id":7,
+      "name_skin":"girl unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/3VCRb_wpF5kPP2rsIbqEJERnA4PAO7nov_mi5h04G1--vM4kkOIJK56HjSZpuOlgF7SxGug9W7Ogxi4ldNL_",
+      "view_skin":"https://lh3.googleusercontent.com/G3amHCZJ7gnJAw-_E33ONr8lOo3Q3E1k7OV0nmX5gkdJPFHCqlXJqEG8ftoVdBG7rhBDRtUFiEHud_KbPYDFIA"
+    },
+	{
+      "id":8,
+      "name_skin":"Unicorn Girl Fix",
+      "skin_url":"https://lh3.googleusercontent.com/1e4ewEsxhwtZJRYE0lIg4rD5THM05H7aK95V6HMpcyN3JS9LQt_8cSKTh3wrtZYFWVB-FOVRyqzrLEAghsE_",
+      "view_skin":"https://lh3.googleusercontent.com/vsAs-IpJJBHUkQFiRWmcuurkeiMRnLyksaS1Nz2Yh2qVaEcSaUhKmhBwJxjAA9SZCjLop1VZ0m0_0_NZC9WPUOY"
+    },
+	{
+      "id":9,
+      "name_skin":"Unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/goZEyhCPaqkoypkHHzTZtW0FUJGMimjmfx6si27FNZBwBtND8DCy51jQx27iKCZ2U7LsIF9eGpu3j504C2ZO8g",
+      "view_skin":"https://lh3.googleusercontent.com/mKBhyVq7umLFjogVDXmQuac2VTPMXCxZI-VDfOIE9EiX-6-C0L3mj8xyH5PdQ7FLMzGQiMcy8fGL8ZMdiM9xw5s"
+    },
+	{
+      "id":10,
+      "name_skin":"rainbow unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/S3bWcT4-vtiw3VmRMRV046yjuUMqCfAxJwkmH3dD-53QCEpWcBtkfZvtJh4u_eGkRrX9hnFzDfFKILruSwQM9Q",
+      "view_skin":"https://lh3.googleusercontent.com/GTlZDmMPf3ji6f1Ho5gx5YlxLLrWbjup0L-IY4ypn06STdqwJTHey1JRVMUeFP172ER9B8e_iwdzlOo_pNuI4-g"
+    },
+	{
+      "id":11,
+      "name_skin":"cute unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/710HrnbUN0orfcQ8_GVDZAD7OK8FsFYc4f3aJ5j2lCcwumiXQno6U4vyYYhJNFwwS3P2tSoDWFXIH_ATg5Zf",
+      "view_skin":"https://lh3.googleusercontent.com/bjtt8H5wYdaQWblSNg7nmzF3SVgHi0-uyDKUpt5eW3vjT0nCkTbfDKjTpo6NrekZuqbq6kg4CnDCxqAcWmvksA"
+    },
+	{
+      "id":12,
+      "name_skin":"unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/m5GLW-JVlzX8fNkpBUbnmLWx3xaN579a8o8aJiz4QuoGNytO5WOL-EaVV5PEndQxussCmbqsJ40x9O1gARsN",
+      "view_skin":"https://lh3.googleusercontent.com/HgpfSlIOUKwWTzlYFHKq6WxElVkK6D0cCZ-rnruY7uabbtw-qYSP4f16-rXPWiMl1tUKnqMPA4PLDFvo2ZdU7eY"
+    },
+	{
+      "id":13,
+      "name_skin":"Unicorn Girl Tumblr Cute Brown Hair",
+      "skin_url":"https://lh3.googleusercontent.com/rHCs96OoMOqe2lw0lJ6XTgbXfMKEYovzbHBwfvW49YD4vIYLhhj9pbLT5P-adGdtPZnRKim5znPATTjd1ffQoA",
+      "view_skin":"https://lh3.googleusercontent.com/NXnkBYIntgcWzu8fgvyXMt6foLCgcpIaxNXQtsSj9ddYFGpUkYOlwgDVFPCBH9MOjjO8L87DBi5zGN-CyleMqyw"
+    },
+	  {
+      "id":14,
+      "name_skin":"Unicorn Girl HD",
+      "skin_url":"https://lh3.googleusercontent.com/lUhpTxr7iaHqsVnDhZfP3oTFfjxQADfHMO4hV_Itmr-jbSgwSV847spSHu6JMwV_-tXqt1FBsDjGLgLRT4Zn",
+      "view_skin":"https://lh3.googleusercontent.com/Ru6goDS4GxrQ9cQxICncnZMQsqU4G45ya3y3ywtEvMMNnsSZio9cHIW8pQPYjm0FxXcPw09onz85dsYKQ8RxAYs"
+    },
+	{
+      "id":15,
+      "name_skin":"Karina OMG unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/FZ3Jt-UiVHJuKNWNdkWql3RbSYtXJqimQ8A8BsJreZitCytWt_oVZEfPjxbIZ2aOo3zZ-YFsihwXzRfiVbVV3YY",
+      "view_skin":"https://lh3.googleusercontent.com/mRnLMO72AxgIiY9TAc2k7KZ9flQ7t6lGu4QEfzMFoM9EO334cqHKct_t0JIk1zhjfl_s-P2Scpv301QpmJRcsg"
+    },
+	  {
+      "id":16,
+      "name_skin":"Unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/u9QC2OZByF36cDkynZ1c3BG2TBWHQu4SOqdDrt-ijq4XsfmyERrbL81XAq4ymgg420j3TdEjd7tKktqv3yOpVw",
+      "view_skin":"https://lh3.googleusercontent.com/Z0f5anQ2vg-lwQa9TS8Mt1t_78yoSCEEJx_FGgSt3EjoU74FwHdjTKjuugPkU5F3wUwuSV-siFcpXNthQuOZ"
+    },
+	{
+      "id":17,
+      "name_skin":"unicorn cute girl",
+      "skin_url":"https://lh3.googleusercontent.com/z1rBK2ssgJDQNga_xYSP329fB0tlME7SdI5e4vXslfuy_4wg1UaEcdMrIziG5-M54tgkX6F_bFyt7U9F2EdKp30GNX8axAt_UA",
+      "view_skin":"https://lh3.googleusercontent.com/X6Cs_-vDsj0Y-0nEZi_f_bKrWKWNHLPQ91pbjkPt9iblabpMO63drgDRTTpLpXvKD-FFUObpYLqrrG7L3hxb-GCkHOWEImNwbR0"
+    },
+	{
+      "id":18,
+      "name_skin":"sunflower unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/jbOWWhBmxM12Lc4rNcP0wr7po-vv2lx3LWtEv9VdpE4CVoglGNX5qMxTSOtZS7UDh4-PSBHsqNOy6vBn4oo7o1E",
+      "view_skin":"https://lh3.googleusercontent.com/H1eVD4d-WgDJie3dEzjAfY5tLYDGT7TrcpywgNTMbBZMjfAGXTespN0pvHqF-aGftRjbaECkzpCzsnRvnrIFEA"
+    },
+	{
+      "id":19,
+      "name_skin":"Yellow Unicorn Girl",
+      "skin_url":"https://lh3.googleusercontent.com/leHpVfI9xv97LtqUdOQSC00sGCEX9WCC_lQNqRGeCyIekdrxsabtqlfqpH6LrGNwbvo6vtrExi9K0unmRel-7g",
+      "view_skin":"https://lh3.googleusercontent.com/_8y3T5dG3lV2uD06Os2kj875JadkL-aK8rStlIzZKJTK_ZeYc-qFjPl03Hf1Epzr7rvT8wQKTV9umwqKJaAfMQ"
+    },
+	{
+      "id":20,
+      "name_skin":"unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/5aCXVXDu4WOBBBcRLNX3FW8Rw25zcKv_Jbcj95dlzGJKt98uX5nyMUVMb_UX4sl1HJr2VpPTlahE5YvjYod1_Eu2l1x5iaxoGlhY",
+      "view_skin":"https://lh3.googleusercontent.com/sHerOMFtwGk4SXnmaQuyq0GefALeHtCf3N29Ti4kMoq8tV7u4_s8wOHF2ZwK3VcXOhEDVKHRv7V3u_oV2xHPfl97RoUVnDEtAg"
+    },
+	{
+      "id":21,
+      "name_skin":"unicorn HD",
+      "skin_url":"https://lh3.googleusercontent.com/L8HtAeg4RYwtYQoUDZeAhVPmZmEkvjXCoiGF9sdnl1rx7_UpRBhOyxezKKTwvx5jk4YLcjvzLf9dzi5Gx14At0A",
+      "view_skin":"https://lh3.googleusercontent.com/L8HtAeg4RYwtYQoUDZeAhVPmZmEkvjXCoiGF9sdnl1rx7_UpRBhOyxezKKTwvx5jk4YLcjvzLf9dzi5Gx14At0A"
+    },
+	{
+      "id":22,
+      "name_skin":"Unicorn Sims Minecraft skin",
+      "skin_url":"https://lh3.googleusercontent.com/D4g2t3LVQvIpoG6dJDq_U5wauw9uH48M_oeRYVzPJDuWxTByE3AuPr5RL-3gFmIR6tkuwzL1P0nkZ7FM7bqB2uo",
+      "view_skin":"https://lh3.googleusercontent.com/0SXyFs5BTHT6QHeVeNJP_VxydVZaDoIJv8id7Xt16ghjHgLCJYnihCER4pDE0znMc0WqgUYmGrC2hFmMcW_R"
+    },
+	{
+      "id":23,
+      "name_skin":"unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/m9Gc97M8ISdL1-qqCUGUMYToMNKiQyIDV2bBi74GgArvE3dVulvlw1JCWHc1mMm41PFP91SJNZjX4_bIX4hJuA",
+      "view_skin":"https://lh3.googleusercontent.com/faSAB_5GBQFhov9T5X2khOzuTNgSJ_AXnIzCVWiuCP8OpQvaXVgEpWiRq7gGhZRLnxZ6Io3RWLTqz5y0Qc3DUQ"
+    },
+	  {
+      "id":24,
+      "name_skin":"Unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/rw8NSH6CpdEp2-g8nFLQlgDU4DZMqI9hGBd3RoDCBaVbV1BuaOdUjklUqSJvEsC_SgMss5zp2XR0sLuv9Trvug",
+      "view_skin":"https://lh3.googleusercontent.com/nKz0Be2bOIHNfKD6RdrawDuEcWJ75SP3pgLGSTqY_CByBsqLSbYHU-nVQ18HWIfuZV2sEyIjJo5--f7EBytt_3ROdG8fHqB9BMGd"
+    },
+	{
+      "id":25,
+      "name_skin":"unicorn girl",
+      "skin_url":"https://lh3.googleusercontent.com/cU6ti6CAvp5VcbfIe-_4WloqUgXXFNCbc6hkqpvBn6vyilx1iRMtrWlzgpRDFyQdmcwCuQBfQIhM_uDjDDYasdY",
+      "view_skin":"https://lh3.googleusercontent.com/0LIXveib0nl-SZBqI5r30-q_w17bvM_T5d8TISyXSOacteHLRLNGwJOrv7kpT243HnYGs9rkk7ruiNPfqfE8"
+    },
+	  {
+      "id":26,
+      "name_skin":"Princess Unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/2y5J6Lik0MGGvYJxKhlTEpnZgNjLHpHvq00nx5_XXGfVlRj0IBozdZdkEjgCxX7_F8LFIQfbL68OI3_seOZC",
+      "view_skin":"https://lh3.googleusercontent.com/PTXpyiHDp7KT4O-G3PeGSE4_Yar4_sGBlhwHsqegeI7KDiZvbtgYRi8UepkewQr_AaKxyRnInlemEOIXGBvk"
+    },
+	{
+      "id":27,
+      "name_skin":"Normal unicorn girl little copy sry",
+      "skin_url":"https://lh3.googleusercontent.com/RKr2_MiWi4u0N6A7_PQucdl4d2OuSS8DNEvLH3iU_5-J457ggws3fdaeNl01kBk72Zlk4KYm5laSYR-dnbCy",
+      "view_skin":"https://lh3.googleusercontent.com/RQbPRm8fqCQA4cwbGZuVezquGk6zNyP-xqRxXDb5uykkULOBLemnA34fby51o5rMt9f241WI_830Fo1Tt7O3"
+    },
+	{
+      "id":28,
+      "name_skin":"Pink Rainbow Unicorn Chibi Girl",
+      "skin_url":"https://lh3.googleusercontent.com/zVfzjkklyLBxbnAB80EEyaTKJni8r5yNFvrT1l4SqYpALy01tuZDdLaXR5mhpkkaoW03_rL459Vllj8pSZxMDA",
+      "view_skin":"https://lh3.googleusercontent.com/ovfLNXLOUSgOUa_SE7fsKpSIUsq-HT2l4-3DhqE1oloNSgRVDDTUEThEPfq9-nv6ZJRkwJRAtSsLl2bN5usy"
+    },
+	{
+      "id":29,
+      "name_skin":"unicorn scott",
+      "skin_url":"https://lh3.googleusercontent.com/GwaZ5k_7dOQkjckqXGv9magvrAfCxLNF0EzI6MxKfW8zm4QPcgIVNovjN5Xqnmqdjd7qMbEkHMFpkpEWg4ySRqf1lJv8RCk3iL8",
+      "view_skin":"https://lh3.googleusercontent.com/P-ZJTAZ4exverPH6jSnokP7rx4CWSaavPPTTeqsitbztQ1lkRckV2SlB3yhT4zazWQeaVeVGJLcempb8FinW59f_smLGAAJHFZY"
+    },
+	{
+      "id":30,
+      "name_skin":"unicorn unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/CSvAw4An--J5aoKsFXNLjEYDsvoQ2ofjboHwkCgNqHMJuTa95LydSlULbvOg9RvU2pIhs0eBL3gSuNYdlh-2s7KdjzAFBTfekw",
+      "view_skin":"https://lh3.googleusercontent.com/tgMs5-TMOJJ3fDEa7t05Q2J5OwQ0loq3G0p9K1VQMSwjMTmct8-lcIWPQzjIXieoVCuImFCFENmxGy4WH4_l2FuwI__pFn_pCQ"
+    },
+	{
+      "id":31,
+      "name_skin":"unicorn jardim",
+      "skin_url":"https://lh3.googleusercontent.com/iYOeYg31lFcIWd86U5Kk6_F3A-0LOanzbbPUhC4W0lU9Sn3io2QRdfXaoGK2SbGxwFTRTG6F-NOnweH76xx7g7UTm-9RjhEqEzU",
+      "view_skin":"https://lh3.googleusercontent.com/9GURisQjL3szKICBHm1bFwG0fy2AejbP3IkKBtkNY08HViS7uGj3pj4cwm2gT-q4YSeOsT8WbBS6EJIj_TaAwWsdzmJlUsBAnVc"
+    },
+	{
+      "id":32,
+      "name_skin":"Unicorn",
+      "skin_url":"https://lh3.googleusercontent.com/JAU5UIaSbup6Wpu09eIjXcQ53OaK9SKu7CnSQ_6sxazPAnGX2LV0RFkjDFl-4x74oBgPoEy20JjvWbLneVj5_oeWrrYEDsDDVXI",
+      "view_skin":"https://lh3.googleusercontent.com/JAU5UIaSbup6Wpu09eIjXcQ53OaK9SKu7CnSQ_6sxazPAnGX2LV0RFkjDFl-4x74oBgPoEy20JjvWbLneVj5_oeWrrYEDsDDVXI"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
