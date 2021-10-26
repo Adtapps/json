@@ -1,0 +1,259 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"APPLOVIN",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/ww5Yr8B7chTPJswapvR_in5TGB-gFqAth4OCWVtoD1j2zUUuAJtf3Y6QahlNx-7WtdARFX018bGgfq6EvVuWhw",
+      "view_skin":"https://lh3.googleusercontent.com/SR2AiICyD3HmMqgdbG5r-9M-R3iaim8jhHCWaDHe4u-xSTLO8CHHEBXqADK_eXSa6BTMEeAS1UzFRyDD9pT1A9xr5eNetNBavBSj"
+    },
+	{
+      "id":2,
+      "name_skin":"Virus horor smile",
+      "skin_url":"https://lh3.googleusercontent.com/ucK85I1IMEdqiei0XXhkfuK3qpf_9n1hFntZTRRUQ7fXPda33ECwOM7KEMJEIMV5CkxaVdzPvoOg0yrTQRmC2OEEj7ltpHRMLmc",
+      "view_skin":"https://lh3.googleusercontent.com/FYUi7Ph2niNlRc1cGtXuilbggp6WYyHMKZidxvecfoJGPIZHHH1X6nMOD0RWtQrPr2tK-0gLuF8S9PBOQPGEh6L0s4sCiBhikxM"
+    },
+	{
+      "id":3,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/w6qyB0sw2JCXLW1x3ZM28VNCQl93ba-H4kcVbpWZNVHZFy_SDq8l1qXD78PP_W3r6TK2DoM9FdlGWBltKZ5piw",
+      "view_skin":"https://lh3.googleusercontent.com/etW6X6SlPNENgZVEhrIqudTSzOQfvwII5JeEPrnuwJw0BKvL5mA1jR7RZDaAFxFLFEOW7OG1xsWPJ4cn6U0sabR2Iav2uHC2-Q"
+    },
+	  {
+      "id":4,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/uBkeDTPaKiST6c__ARGfFR2dOQJNPvxPbYhxi49nBnZbYqovfjXkpXWH25WUXwnaC3youus3Fa1oz__rBwqAEcvad3ju9YlOrfs8",
+      "view_skin":"https://lh3.googleusercontent.com/LyAXN48UCMa3XAemnbJnCLWXUc2-haDD6t66Q35x9yBi6IynnduJrHy6a8g4gYjz7y0bj_s4pJc_riDqPE8KI791tvbbZV-ae60"
+    },
+	{
+      "id":5,
+      "name_skin":"horor mi",
+      "skin_url":"https://lh3.googleusercontent.com/ZvJdUTw49jB9-zk0Oj3CcH9CrTUoOxoriAzFY07B7C20oV8s1KlaTGb-IYPRmqf9RA2Pmlu9IWdw6qZwUR3Uvna37iomoaIFPJ8r",
+      "view_skin":"https://lh3.googleusercontent.com/CuywdF48A-agEuE06a5dTmMle2Zd9YehHp7bIR8pRTeMsSO636TXSwRhHAV5FpUX-VWDdb0D5M_sLyodBsJXVvpd1OSs-fs5jTYy"
+    },
+	  {
+      "id":6,
+      "name_skin":"Horor",
+      "skin_url":"https://lh3.googleusercontent.com/d7_VtDRB0CE7EbXvh32piMCncg5zClFMPB8c31SqUYz3wufmBSKFoCl-ircQInsx0lnyE7l3deVaxuICf4vD8uCtCoPPRPWwYFU",
+      "view_skin":"https://lh3.googleusercontent.com/3TuwJJNrGY4u3EDO2DpK2zsbfUb3018QTMKMmt6ZDwKIk_ELFiFx9mm9Og7Fy1pPeO48Pk2yaIcNFXUpMpSZcs_6ZbwkFIqFQWQ"
+    },
+	{
+      "id":7,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/birsibnj_B-Ocd-ZX8yq6r-aJQx6p2JPF5GV3LJoPcb4sxdaScX1POtWiJaYFrKMUM8ivn25DfNVEESK84JPvwgvF6iFp1FIZNE",
+      "view_skin":"https://lh3.googleusercontent.com/B7biDZ8pAVrTvTmWiUYIRoOKaM_OvS8WPw6GBGXf4M8pJSMShgh4Tfv89PTjO1HBKclOFGgbRKtmPBn9PVr-hmWE5yUZhHLHZuI"
+    },
+	{
+      "id":8,
+      "name_skin":"skin horor 23",
+      "skin_url":"https://lh3.googleusercontent.com/5bWXh82MDrSkBlOo4Nh8OS2pm7g0swxLIVh95RXAqULf9x96CGSh-VDw05bso6N7yRRlOcET0qLvHGgs1_-aMgozzKS5PPD72ZQ",
+      "view_skin":"https://lh3.googleusercontent.com/rK7huENE5hCjByz-00L1V6uZ_JYEO4qTeettwi4vRSqdOUfm5o2A2G1e8jOluNlnsFpYtxv9ELooBQsm2_jHepKCoZI_Y4GAXURi"
+    },
+	{
+      "id":9,
+      "name_skin":"horor tofi",
+      "skin_url":"https://lh3.googleusercontent.com/-kfxOuJslTeEwgIwffwrYMSeqVpUDSmbRMksV3Jp9T9z6GYGslW2tQldXgNxNV8lUriZYlD4AahtU4cRwPJvbVaH0Cg-9IZqzMqF",
+      "view_skin":"https://lh3.googleusercontent.com/W1WXg3DaRsPp4W7OIKIafT_gc6pd_21DB4HJiKvNjgXGnp87lgHqTeLujuZARrebSswEAMgOPK5KhciOGMeuH08ndC0cjfwErNM"
+    },
+	{
+      "id":10,
+      "name_skin":"horor boy",
+      "skin_url":"https://lh3.googleusercontent.com/LMiNLScC1anQruhdn3EaPJFRI0WHxg4RmgeVUDeahNBaN4xq819GzJpwrCgDsLjEYe62OQei_g66-pA3Sf5xS6unfDG4RslRscc",
+      "view_skin":"https://lh3.googleusercontent.com/erHFEbIdJnglvd9GhycfYx5tBkhmz4K-K8PXt7N1_O6VZbFJJr2v-_FWVLZ0FHXcLCkkjl1QlGU764o2PMvdsG-8_YtvKPYt3FA"
+    },
+	{
+      "id":11,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/mIOWDeHa42kkuWTHSoZRFdfpYEg24BeZlA3E8bOXNe9Y1SHfAf7OxfgQeOwFBBmIvpWC4lUuA7LRn3A1ls3q4FKlNo6jvWMCU2Y",
+      "view_skin":"https://lh3.googleusercontent.com/1eT3_WTCkJRB1hlzumJASOdxmMeMSe1mAGh-0AT3Ag7tWdg1N95PPZMCp3DQx7poQI7TpLMgLDrvLZKI-QEYTL3LyZrM9PZIn4o"
+    },
+	{
+      "id":12,
+      "name_skin":"HOROR STEVE 666",
+      "skin_url":"https://lh3.googleusercontent.com/iLiYVt8_i_mmX9ZTZldIRjXwtQZLEpdlP4EFb8sUqGgzpf8-T0XrdLmigBolZ6FEkfqxMHUjJ8Ag0HbeQDiwFzOl8k0CVZHOLf5K",
+      "view_skin":"https://lh3.googleusercontent.com/wQwKuYqXQOds7RNhWeY1j-Rv5vfx2rvhD-JpNl6cBs72OpvZ9D-KsRf-_uaXYQ15NBtnKbucKLj0Wk89FCnjBW_ouFusS1YG4g"
+    },
+	{
+      "id":13,
+      "name_skin":"Peniwise Horor",
+      "skin_url":"https://lh3.googleusercontent.com/U35hFtxBVZzkRMqTljM4YEi-KpbQMBvBa91WDfVmnWrXPqgdoeqXHy3hx8cuTZZ80O5m1qIVlK1MneMRPE4cP2Ilz46SksXEUw",
+      "view_skin":"https://lh3.googleusercontent.com/lL5C6Fjb0UP7bS4rn_Ye25A5bbJoSyNJmcvaH8PZDl6YjjWy5X4Co-q1VNy_YviKe1v7WXNV_uMnAE86izlYvRuY-VPTHmM16QE"
+    },
+	  {
+      "id":14,
+      "name_skin":"super horor",
+      "skin_url":"https://lh3.googleusercontent.com/DdNPt0jYlWYOxmgKA0PENDEZuADm3q_Mt9AQ9ESjvMC8WJq_HMhbFpN9MvNCMec6a_g4EZwIeFq8eHZfCZDcdikaQdXsd6auDg",
+      "view_skin":"https://lh3.googleusercontent.com/wQ5c9W5wo07RgKp0JN5k9wt9qE5fK82VoAp-vswaE8fXlcPf3zJZ30wAoMBgqfFVaXPCndL44rzCCBDTMMUz9XDLrlMWuxq-8bQ"
+    },
+	{
+      "id":15,
+      "name_skin":"horor cat lori",
+      "skin_url":"https://lh3.googleusercontent.com/Ut3nwQUGW8tJVx_ts0D0110ysIH851GgiQM7fMXwWMM1VTl_GZBcqvLzShZxWoW2NkFkLm0HcbyH8DhjnmMd",
+      "view_skin":"https://lh3.googleusercontent.com/2isGJ2pulCl9g0mIS8ytEBZOZJM2u32TL77_EpkUF6b0ziSviiEpArgKOc9OHu86PGp-xhb92tPIYTKIkDL8v_AOzHmRthjQ06k"
+    },
+	  {
+      "id":16,
+      "name_skin":"HOROR GRANNY",
+      "skin_url":"https://lh3.googleusercontent.com/uacH7ecNQE1ibQglO6VloQoPqQIsMK6ZWEy3XUXXgQ8LH3KSvGN1O1GkYeWyvOie0Xh9p8SBvFOkNzPc2GJNvA",
+      "view_skin":"https://lh3.googleusercontent.com/UBCY4W9vnvBt8zNCXYSPL28oKnIErjz-rsbcTaJiR-RpbGSJjUlOPRIYrQAICIr8FPxHxcBA9HWvm1RiI307mrjJBO6_91VNm_0"
+    },
+	{
+      "id":17,
+      "name_skin":"HOROR GRANPA",
+      "skin_url":"https://lh3.googleusercontent.com/6-vSYcGfY_Y7h57vxlnwMo7vqbgM8clr2gHLkbDWdggF9napEmsR0Ty7OqXmhBQ8KXXxH3EQ-3mJClkvXHuJFQ",
+      "view_skin":"https://lh3.googleusercontent.com/8FC5uBnhVpCeewstlXBAGNwWepRxHGoStCeufj-t108Vt5FhaR2Hkd8hccWOz39ATO7zx7QMnMtmHbt_qBRt78l8Dd80xesmSQE"
+    },
+	{
+      "id":18,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/zCiLoas0qA853W-jRrz5PBX_5TL0Y8h4Ucb9jtYMlYWqXQy2rHW-VxqPdfGuV4LJn4Nxy-wfvSKqLSfocqliM9c",
+      "view_skin":"https://lh3.googleusercontent.com/aEBPivwHeyEKA_jiWAj02t_E3hm8Q_mc4WJ6wBHIAfPHafJY5OwC9TNoZBVm1qdinL5kDdl8Bh761XMMk8fG4CKvDhFP95Fniw"
+    },
+	{
+      "id":19,
+      "name_skin":"horor 3",
+      "skin_url":"https://lh3.googleusercontent.com/Uuki7Dm7F-kxUpC-PpFvGqmBxE1TLppNzNClBKGEDCpGSAObamKdoREPveDGcEwuIFcGPGM6oayIgHxhT7Ew-g",
+      "view_skin":"https://lh3.googleusercontent.com/dRI5n9xla4mgmi439sIW8SewLGASP1a8wd5g92KFLMMV3-J622QA-IE-xNRoh1p0pexb3ypV3sQAGxGAl_qsGvRoTpARTBrJwGs"
+    },
+	{
+      "id":20,
+      "name_skin":"horor 2",
+      "skin_url":"https://lh3.googleusercontent.com/4drzlxkbDE4VSEy5h3YnSAtMIHGbZxRrOU_piYc-me7Ru5r8ocbb6bVXaofWiZLiSncZf5JOddvg_bTgfu5U2Q",
+      "view_skin":"https://lh3.googleusercontent.com/b0CRV3AnQKIgnNLuNGB3uCEoSOCNPklLmaJdKRYx63EPOmIGXfPDXYy3_AfhRPngi4_5KPOymbE0AubdHY1gNaYSwU6S728CS2Y"
+    },
+	{
+      "id":21,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/taUDGqDhnshot21CDxpBIbi5RgoabSZ5QGbq40NtuWVbRJ7KQJZOzc3t2JHSyFdy2FDMkdCl4kniN39CPFGm",
+      "view_skin":"https://lh3.googleusercontent.com/BMIRFU3L91N0SjwHQxaRV9nLsVzaqQH3aoBI6w-NwRh8aejppFCexDi2KUysmSrGJsFvd9L2TR8AredcvvhXQKOiu8zdKvZ7P9w"
+    },
+	{
+      "id":22,
+      "name_skin":"horor girl",
+      "skin_url":"https://lh3.googleusercontent.com/t6tO8Jz44V73HNYsuFuTjmLbVK-hLSCGw_UzDfCP8aea66YdRC-Q4wWjI6d8OKpQ6XuGkrVqZLnvUQK9e4DWVIvFD6GDbHp8lw",
+      "view_skin":"https://lh3.googleusercontent.com/YGs5kvE5FgHSeuSFND8_AVj8vSPsxWe2FsAHKAyeZhyJmG4aGRI1ji3gWDBYRCChnFUPKvVlmLZ-tQrMmC70pmyNF1PIpIarNA"
+    },
+	{
+      "id":23,
+      "name_skin":"SADAKO XD ALEX YOU TUBE HOROR TV SAD",
+      "skin_url":"https://lh3.googleusercontent.com/NntAvTEQRqs1omLtHSvIfI7y3y85SfyKfU0vSGYIT0dsl-dKJFKuJFPx-FqHZCX7yJz0jtWRoq8WrfV2XGcBImUyHXpew-WwqA",
+      "view_skin":"https://lh3.googleusercontent.com/Rp5_tCVYV-TKEKsMtyOU74Dx666VCmT4ohLe81H_rxsrsVvxxguF-ip32E-j_rU1BerQbX5quCQN7zdfeeC7GZD783N2TAE0Tvc"
+    },
+	  {
+      "id":24,
+      "name_skin":"sadako horor",
+      "skin_url":"https://lh3.googleusercontent.com/MZFPLLPQhUJffz04uYo8l4mw4Zl8BQkPyAOTYEjvPfic7jOef5xN6OFT6bZjcmd5fUa7lupo861_JPXjLeqVnWktkvzhcSTlhAU",
+      "view_skin":"https://lh3.googleusercontent.com/dCBZp59RqQ0dSwCe9qkEFJdtPkHt5rJNnWzuSGbFvvQuZB_mxORAGX37Nolr5qz0PIhNO3Ue8KIODgQZOqBfGsjlad_CxxsvYQ"
+    },
+	{
+      "id":25,
+      "name_skin":"horor killer",
+      "skin_url":"https://lh3.googleusercontent.com/It4HLHGfRox32c-cGBNRMASNYhxK2v3RpW-8pjKVYhu7acoZfd9vmdgRRt18WIQ9oOsLDO0pf_uyx-aSjGwaJT62YflIRyytnQ",
+      "view_skin":"https://lh3.googleusercontent.com/iUuMHP0I5kpc7QgOpBZ5iFoniNVGwrQG-yJ4ZCwU5I3xw5VRnjqPg_CTzmL7n7kzPKDX_lzLd9TR_gHz_FRZVTyDtNlvP6U3hA"
+    },
+	  {
+      "id":26,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/qm5wrJa6-r5z4aubKbIHpolZHmjA3w8C3pQW93Iu_muDUwMS45ZSBF9GmBTEzsBJjQi24fzN4mJ6hXpbXxOmBv4AdCKRvjoNBVtq",
+      "view_skin":"https://lh3.googleusercontent.com/I38buZr-pYJ0PoDD6mHSrWxDbVIdeA2c2XbbhqeJIk8tIFO8fNRFqVmm9YkTodkgqy1fd9drf7Iq7FwHtNoqIO-a6SHjrDnvoLjs"
+    },
+	{
+      "id":27,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/ww5Yr8B7chTPJswapvR_in5TGB-gFqAth4OCWVtoD1j2zUUuAJtf3Y6QahlNx-7WtdARFX018bGgfq6EvVuWhw",
+      "view_skin":"https://lh3.googleusercontent.com/bTh9uSYYP2vC70xRG_lEaCtGE0YZkqsUFgHhcRvuTwZsZn8S06SBw2X2xY9V0r_dgGTRod5qGbxmJ9BQluhALbkHvjMdPDAVxA"
+    },
+	{
+      "id":28,
+      "name_skin":"horor 2",
+      "skin_url":"https://lh3.googleusercontent.com/ZtJc5z7EEmG-9Mr2cPA-HXJGjE9_VBp-eiWWkMq6-1BxGySiMCL3LZjScCoKFsbfIDv8vCf5EkPjqCC3QLpc4tE6UFWeDJnTwpU",
+      "view_skin":"https://lh3.googleusercontent.com/bsgtf46woVQHl9tEuHMqFYGGU06PiB4yPTzpq34XldhoY6QxMla4hsJTyidaPYCs1h1mPupaWkX3I-9fr7ivPAeFwlclMYIClcnr"
+    },
+	{
+      "id":29,
+      "name_skin":"horor",
+      "skin_url":"https://lh3.googleusercontent.com/TnQFbN49E2qczCsns3SQvhc_S5oSmCqxo0dPQ_BhAe1SJfbWFCX1DyoffWBFmWgyU9EbGKwnPgyXveCq14ylHms",
+      "view_skin":"https://lh3.googleusercontent.com/MsZAbhgNW81yTbdxIqHJWM0mprc1aUDFfbe3qlf2wJzTe-MExwPIHE6dP5pKS2TzlwCP40WRish6aJ9BkHGZdw_AN4RkzxNimxLW"
+    },
+	{
+      "id":30,
+      "name_skin":"rihaaz horor",
+      "skin_url":"https://lh3.googleusercontent.com/7Vjx1a69CZtvFDjb5ngNca1ENsVRcC6bDiwEs0P1E-GTmf_lk1J0WQk88wJq-xngZqTybqBaqAfbdgTFWW3KD-oxuZLbI-mXzw",
+      "view_skin":"https://lh3.googleusercontent.com/EQ8iOifRMkFYKi1PS01HOu-vm-o_qA8xk2HuQrRXix7O7BvKlYEqxWuz9Gx66L0tQLMRuc1x3Mz8pbTMQohUBqo7IoOCM7GByJJq"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
