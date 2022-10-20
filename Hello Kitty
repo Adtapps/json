@@ -1,0 +1,277 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+	{
+      "id":1,
+      "title":"BTS Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BTS.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.btsskin"
+    },
+	{
+      "id":2,
+      "title":"BEN10 Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/BEN.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.ben10skinsMCPE"
+    },
+	{
+      "id":3,
+      "title":"SCP Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/SCp.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.scpskins"
+    },
+	{
+      "id":4,
+      "title":"FreeFire Skins for MCPE",
+      "image":"https://raw.githubusercontent.com/Adtapps/imgskin/main/FF.png",
+      "link":"https://play.google.com/store/apps/details?id=com.adtcraft.freefire"
+    },
+  ],
+  "Skin":
+  [
+       {
+      "id":1,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/6ll_iQHI7o8JbQ7D7TN-lWbaxA4HCBLZIR6qk76ZJIYRXaeGFXptY5h0YnTVnxk8x3tm_mdZS9UudVryCw-4",
+      "view_skin":"https://lh3.googleusercontent.com/Z5CSWl8ogsy9Fudc2GUgXALt10eduveoUzf4AgZb9XthVcHSHu-LPqP2bEPLiER2CaZZHmIOlZS-tDwbtWIO"
+    },
+	{
+      "id":2,
+      "name_skin":"hello kitty 2",
+      "skin_url":"https://lh3.googleusercontent.com/DYIF-kcb8ktRgC7kUISBUQ38bfAl7vDrnhbSmQ8aDQVGsrJB6DtJT6wo8OPps05VCjuz_UHFM6RY35_Z2BFfAy3TDyxtQDsyakRQ",
+      "view_skin":"https://lh3.googleusercontent.com/Y1gkXKwtAwA1rS1aiZVeWB_TYUzUa_Zqp8mflI20N4DGFq8mThj1KniAfepacmh9-3aVM3wn0oThjVCB2laNoYfmAzDuWmP4-Q"
+    },
+	{
+      "id":3,
+      "name_skin":"hello kitty stacy",
+      "skin_url":"https://lh3.googleusercontent.com/uL0htmxHT9dxlkMF2efEaZXuJ9oaEQheIXVAanXIx2JOjFtBN5ofBy-pPo9wEmfJPLWDPuBr7S_mAp7PfaQ62GWNZHTOLquHAin4",
+      "view_skin":"https://lh3.googleusercontent.com/CoQ1v2z78uK0thL10A7j4BT7COVpc2E14t4xwecGE6GuQok2OeSOo1n70ghcJwieTFomCHvAfyhUxWrjxrdIWHrdulAaB_5JMAE"
+    },
+	  {
+      "id":4,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/9Z5CO1-_7g5VEiuoeLTwF4EKqqH5GgvhYJUi2QAEpnWapPgYXV6dU40qNTBTJ723bIB_BrftttXgrMdlYt-HnQ",
+      "view_skin":"https://lh3.googleusercontent.com/nG9om4tKXYf-5AliHmpX05kyWlwq3HDqOrGd7F4qWDG0Hbr82tIz2z2hI-dt8SKwT2ADhcshf_hRxLFrZHBtS6-SLZsJ7cPW4w"
+    },
+	{
+      "id":5,
+      "name_skin":"Hello Kitty Maid",
+      "skin_url":"https://lh3.googleusercontent.com/huthnMtHvGFwX8VwuJQXqNguojlRb6JCw0H9Mlu4sRACdnwEnyDWsCUmhFoa0uGk3DmwZCcSYJWZK5LXu0toYP4PZAe1_nwTzRs",
+      "view_skin":"https://lh3.googleusercontent.com/3uR4mkkyWPqXqYKmO4nz_7GXvXUJyD2m1zDRb03wdnm3Xzy6H2At720FQ4merCCCgHL99246uJpV-8bi5Jt9mJmQmY8rRyLl7mt7"
+    },
+	  {
+      "id":6,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/z_5gXzdq6xkPq7SgDlNSecSY8XvmbhOL1PXdbeGgQcjKWc9lZzql3Q9K_xEh_xeIZVntGZhdoZ2QsFhAPN8QlQ",
+      "view_skin":"https://lh3.googleusercontent.com/zFiu2AbrgeoOGhkpP5OP_hQK28v9HeR6zr8hQEimaeVhVsbA8_tKiCf9Bk5MDz_FfVT16YRkmWKOCQ4OgqxoW_3kXHCax4GLU3o"
+    },
+	{
+      "id":7,
+      "name_skin":"Hello Kitty 3",
+      "skin_url":"https://lh3.googleusercontent.com/X8tJcfxfQLCzX3o5jsIOweLZmtr5kWXMO8Ur2sTyKYwvcKQfB34k9uzI5txTDALOcPPwmPeRn93joutPGQ_ig4M",
+      "view_skin":"https://lh3.googleusercontent.com/fe6Lvs7rFRn4s7ylkSBs0xPQhXFgx1jGwm1AblhuiTSkoIA4zbR2TgsPmXu60zzzZjLovu95TM9xQaxSRTbbXA"
+    },
+	{
+      "id":8,
+      "name_skin":"hello kitty 4",
+      "skin_url":"https://lh3.googleusercontent.com/cAGs993rpn9uPx5QiwXXa77EMJOVebg7IDq0TG8BgzUcjatvrl_7Qd-JE3Ewt3-A6u2kuAIvQyOfHTX2ZbznkgA74E2j1WuftKI",
+      "view_skin":"https://lh3.googleusercontent.com/yOjgMJ-HzfJtMLRwPLhhpA5h-FpvU6YhY59GRp-7rneyMTVlB1GonNNt3E0dmQ5GSRhwD4Khgfc9xnPYSPZ3XxY8suSXYFeH_sI"
+    },
+	{
+      "id":9,
+      "name_skin":"Hello Kitty 5",
+      "skin_url":"https://lh3.googleusercontent.com/8sqPRcIIop1-L1YmuVR5fVHqWKFCbx5UuVJafWouu5FxTknYySPhE0EBthL0k8j9dqC6S4WqL8OGpcLcqtTDVr6-wElgXGzs-dU",
+      "view_skin":"https://lh3.googleusercontent.com/uUphbNC-6TjhJvTakfxWa5umq5fwt05aW0bofNX5iQqOLxsYl2RdxRdkZwKdn0u_p0YUg47k3R3E5-KCJpmQrI7sMAS22A6nzg"
+    },
+	{
+      "id":10,
+      "name_skin":"hello kitty naruto uzumaki",
+      "skin_url":"https://lh3.googleusercontent.com/PBwYUMRJjkpqjrHJkwmvk3GvbxMrj2vawvKfd94gwgf_a1FHnX3g2v4syshBUsJ6PYZsKjeURGXVO5t9kQ6YbLLMDQR8dQkCvzo",
+      "view_skin":"https://lh3.googleusercontent.com/B2ufEHeo6K5uZjlOpQolcH0YZQsCRMeqlZK8okluIvXlpnTRSTD2Ef0cmbFRnWi9KDb_AGJxUlqnGGQQS5LXfCUJNBZFo2FjkA"
+    },
+	{
+      "id":11,
+      "name_skin":"hello kitty 6",
+      "skin_url":"https://lh3.googleusercontent.com/iTBOOEXIrVjBZx-bdf3aiefdCbe223AICGjKCRWOd---VC6GDBIS5drVEbOnPXMHouJU6hfqWOs1wf9zdkXtzx7i4-8GpPwanLY",
+      "view_skin":"https://lh3.googleusercontent.com/KID3Kvqcb01MT4yzgh4OBErE4HFthvfnF_GnRbsouThF7-_wZ5DTEZxik274UhZC-xJFBfi-aJxzITByUqMlUxGcXGaPXPKK3vE"
+    },
+	{
+      "id":12,
+      "name_skin":"hello kitty 7",
+      "skin_url":"https://lh3.googleusercontent.com/ErPnZYU3nmwYLe6bfstHrxvUVjv0DBm_irOx_8avRJZke6S9NqW3r1ZwWhw9lVD1DFcE_eE1nNcvJA1GnXunpzzhRYOIYVDVJA",
+      "view_skin":"https://lh3.googleusercontent.com/zqIxQvnWnkhFwRaa0X7Te-2XZE99xXEkPTyF7m4W2mhxycyMP65S6caPxGJl8_9UBauk8Wi0SUIsYeuPUV4ga2Im6FJa7STIcB4P"
+    },
+	{
+      "id":13,
+      "name_skin":"hello kitty 8",
+      "skin_url":"https://lh3.googleusercontent.com/fGDnrn3lHPi3MLsrlUKajqN-H_VYh0cdI001NWjVTj3MI50iSIWLct_dtSgHIqEVSSmJ6a6GTe8eMVeZKy0ie2yuQS9CQMFvCVY",
+      "view_skin":"https://lh3.googleusercontent.com/duUnTfg8LUlSDOPKHgZSJVHDMn8dy8ES-lCI5WJAZ1Cl0xgF6u8aR6XAkDWeZxAa4J3uqGEyXfE1U0lp8tVYHp-CF7rrR9gnNQ"
+    },
+	  {
+      "id":14,
+      "name_skin":"hello kitty 9",
+      "skin_url":"https://lh3.googleusercontent.com/8sqPRcIIop1-L1YmuVR5fVHqWKFCbx5UuVJafWouu5FxTknYySPhE0EBthL0k8j9dqC6S4WqL8OGpcLcqtTDVr6-wElgXGzs-dU",
+      "view_skin":"https://lh3.googleusercontent.com/OSnWQPyNPeVK2fEQwX-Og1Awhn8CUFOMlLrV0VmoyY0pZzLl9vugH2TNwvrot5W1U6XQckC1W_jq21t_gdGRpv8bGpWmCO4WlA"
+    },
+	{
+      "id":15,
+      "name_skin":"Hello kitty 10",
+      "skin_url":"https://lh3.googleusercontent.com/nzIFtifbdBGTL-LmSgREfAIbyrtobxIThyDfBRf9ZK3oXQbS-rDmhMgKIuTfZ-80vKPRIF5uP3zchVcd-ZIh7IIZCRNf0wfLgxQ",
+      "view_skin":"https://lh3.googleusercontent.com/vfqx1YApi6qDh0VaeCvfi9krB25y8tY8s1wo_KDYmd8IVoXCXwyW4KCyhTmPFrwHCZPMRzfRU_HTS5postRZQpkItavTUHaw6jw"
+    },
+	  {
+      "id":16,
+      "name_skin":"hello kitty branco",
+      "skin_url":"https://lh3.googleusercontent.com/noiV3gbMN8wa7YWox72ch44Bimuvlga0XKIMKYNl7YqnYMLdtyZ3VVT4veLw2hOGcPoXyOZmnVh_1rq_5hF_zQF9_aiIwSK62HUO",
+      "view_skin":"https://lh3.googleusercontent.com/CzkTopnK_45hCy3FgvyagM-1aAxNyO-iVzRyCzXKgpvb7YOcCSKIvou0ckzj8tWdnTJkK1Y55aJ0tCSjuMV2x-_7Mg3yqBXtlQ"
+    },
+	{
+      "id":17,
+      "name_skin":"Hello Kitty 11",
+      "skin_url":"https://lh3.googleusercontent.com/eHhkonKe41TYCe2v0v4DM6vTy4MxlkoKoAlKyRwPHK94Kj0QWajqENaTER8_vtcXudX82FgRf8ee9ak5rlcMUX0bTNIMUoabYg",
+      "view_skin":"https://lh3.googleusercontent.com/JINfmgX5WzwRed4-RyKwqh6weN6HOsBWzeXtQvaL9WTvgbxWLZns3-fXnYfBpgbjac6-lP8cfE_gaA3Mk0NBF2Qun5qiRmXdf5jP"
+    },
+	{
+      "id":18,
+      "name_skin":"Hello kitty 12",
+      "skin_url":"https://lh3.googleusercontent.com/OZWgVqgXqZuMIAT4yqc0bdeazgfIgyjGGtQ_zbEvI2p8IcHUkxG0WH-nV1_F1EiXQIzgO5bQjs1s6PM0J33GzdfIkffoNFRp3pii",
+      "view_skin":"https://lh3.googleusercontent.com/zrHh9L9Z25U7NKrqfXx_KmEIovqqEIKjBmkk6tBBQAs2J_lsZk3h76ROc7uf5vPjWCrhBoQLbRWvu3B6UueOMKuA_XMVs8V_rmU"
+    },
+	{
+      "id":19,
+      "name_skin":"Hello Kitty 13",
+      "skin_url":"https://lh3.googleusercontent.com/uXHs6mPiHq4yMPUF7Oaxv1wtIv8hT2umQ_WyMfj4HHSNe4ilFX-yBl2XiNBU8lf43tWf91QbAu4yhFxUVQKJlwz93GCXuUs2Rghe",
+      "view_skin":"https://lh3.googleusercontent.com/oXuBUjJF1nG4K_ZIGTSNGdBBcWf_EqFGzgJBJVEXyFyDtvWd2WSjKnX0fe-fnAPSuG3O0i2k26_ZUN7veUwQc06mBEwD1716-Q"
+    },
+	{
+      "id":20,
+      "name_skin":"hello kitty badass",
+      "skin_url":"https://lh3.googleusercontent.com/FP12E7LA9A35jJM1h_P13rw9fsqIBlbc5gYFgJ4DETC3Q-9r6Qs-9RsqQRNURtVgz0aVE00Updme5hyzE9sZofcUW4E3lOUufBw",
+      "view_skin":"https://lh3.googleusercontent.com/_yn8VxPBpH1a6Y4yKYeOX1eTRwRDW3sGDB9K-rSmqaGMrQDxIJBh4gUG-5N92lUEeA9EpUWzfbRvKAaz-KJbDSDMUxLnCS0R0g"
+    },
+	{
+      "id":21,
+      "name_skin":"Samurai Hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/LNd4rTBalnsYVvoUHorfvoi3Q0B-_83M6_V9torD8qRo56X6oQEytNmSKWNqVjBoMwDHDqBVoNbBaOwV6iWEnp8",
+      "view_skin":"https://lh3.googleusercontent.com/4js03ME9fWHiK8_1OdDuyjoGLNr0rLpijaHZaObgO_Ki6ajmJyXJI3FvcPforaj8-xnDrHOVw1DShpJDP9c6Mw"
+    },
+	{
+      "id":22,
+      "name_skin":"hello kitty 14",
+      "skin_url":"https://lh3.googleusercontent.com/pe1vwqbjJWoDz_yu3IL0j5N2YPuKatDaRPgdwjXeNYoAzIw-Ai3qJ6lh82OlD_MdusuX1Ys9yfa7bid4ZylFDNJBj3gbPUu6PJY",
+      "view_skin":"https://lh3.googleusercontent.com/9FoECxjYrEYoGUVEZv3NrCWiYcbg2EIQcNd6ya8p3gVOT1Y1ib_CcKQvCA0t5_8dPV-sB9iHNIPnrlnv3hjZonhIGrccTTUE4w"
+    },
+	{
+      "id":23,
+      "name_skin":"hello kitty 120",
+      "skin_url":"https://lh3.googleusercontent.com/5FbHMzxtLkmXA0p6RMmAHjmlkFz8P4xCaz6G24l8GJgABawzdCtYAVgfr8rz5KsNE_508I31eFaMffcn_4iRk3Vg3-9BhS1tISg",
+      "view_skin":"https://lh3.googleusercontent.com/FCZxdg58NDuO5V97sjWepLRQB0h76ZbLxKvteEFhg10aiSEXJn7A2s_ZY7LXuSRNk4-eC0LPDNH-I6V-LHBx6dHy9GjSryc2ks0"
+    },
+	  {
+      "id":24,
+      "name_skin":"hello kitty 15",
+      "skin_url":"https://lh3.googleusercontent.com/olifTL0l4rs2hqcpy03mbGR6jqD0li9p6wMXNWYRAF2KfT4xDw4yACOoJ2tr-uPEzGM-1Hi2INWmScR-_M7Y7pSjLOJBQyXM3QE9",
+      "view_skin":"https://lh3.googleusercontent.com/VmWVkDuXAsDQXRZxZ97G4THL8hqjrQYdN0EuVS36hxC60ATcuotvipWKpwvFkuyboRVMzK18nMWk8Z1gh5Z0h0jnk_aOwZ4JAn78"
+    },
+	{
+      "id":25,
+      "name_skin":"hello kitty skin",
+      "skin_url":"https://lh3.googleusercontent.com/l7kCSS6hMkFYZ0vbdbueCzDzCeZ5L0zUCNYI_Q1QRCpA_OV27Lx-2o24LqVW19axMA4hyH22aFQl1UROXmBmBfLVOG2qpPzaYdA",
+      "view_skin":"https://lh3.googleusercontent.com/HRIWX9x6vslPObdAJhg70Jr7IsS32Ihfa8HZsz2Wdm92ZfCrFF2a68fkBBobXBwFqNFN8pDiMSccyPL6bMYMIAkGdt0bdZv7Hwny"
+    },
+	  {
+      "id":26,
+      "name_skin":"Hello kitty emoboy Rr",
+      "skin_url":"https://lh3.googleusercontent.com/R1oYU1J_VNHDzWydkNY1rGtLtMTPeTdAGd0CLuE94HXIM6Mid3EucGd2jH4R5Qiu17tPsCM3XoANtR0r7PwSMGBKuAn_--5DPg",
+      "view_skin":"https://lh3.googleusercontent.com/T-yX9JyfhHZvryRRFDVheP2TSKqYOHu8Z1_J9CoxS8f2Tr90L-Cr4B0dePVQHwYcfLUH7ArUh8r_pbFVrKyP3cjJSICXwN6rNg"
+    },
+	{
+      "id":27,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/OseEC5Drn5SqaRzV-nQipwJYo-veDBXD3pb_QcZFXIMQTk0arSl_qoIazQTqpCON_hdSpbacoj-EvVKWPpjDr3-D8VP2zE7C-kA",
+      "view_skin":"https://lh3.googleusercontent.com/k-6iUoEUeJHnAN7wyKcYJjQu4Sogkz534JB7R2yxjy25MMWphrsZTATrKdQw3sgUCcx4DSJdm368m6ctD_fE0Qk5nWyldGwB9fs"
+    },
+	{
+      "id":28,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/PNzoC_WF9p-iCP528e0qgLF7HhOS-yxfdAWuo7b5E81v96go4a-LuRwRB8P7FxlRnhHIiBO5gNLxSqngAqkJOpE3WWNW3RPIyyk",
+      "view_skin":"https://lh3.googleusercontent.com/W2T2-sSNVkaavzJ5r2BA8kfv5-C84dnbUTmluU9v8ypI5e2Jm0AKQR1mjE1AWxrx0RypmFHAfnYl6qk2H17KxuF38PwJkqD2V11a"
+    },
+	{
+      "id":29,
+      "name_skin":"hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/dtZ8JoGT3TR4CuxzFnqORLHWgZaOg2TSMO2Yaxkzhv-3wwayKx8bJSplMC2dhDhCCszWh_Op7St30yotIY2T95pjG0r6hJyPxLA",
+      "view_skin":"https://lh3.googleusercontent.com/Os_KHShW8dXIdCCTnkvFqmU3jC1g8KTGl19w83qCk8YruB0ykvPLVc2a7YFdXIEigJispjQBh6PEVAkBYuS3G4DlLs9PcTtlUAE"
+    },
+	{
+      "id":30,
+      "name_skin":"skin da hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/wuyyXncOBdURsp0JKfDIg-a5xzDWR0l8O5sQ3HTug8Xjd7t2PlY3MCL2hmvxcuxesCcXalT_z6KIaeUzpKs3v_jpHWBw3TRWJA",
+      "view_skin":"https://lh3.googleusercontent.com/vOYUpXkus4ZqPKVgOawwduXJGGFbCWjEdIvnEmpR7DMLOiccAIuuuNj1koWWm2IVWF_J5VOQQ6i_Nv_vxsfLcgfz3MrGvKU0vtRp"
+    },
+	{
+      "id":31,
+      "name_skin":"Hello kitty halloween",
+      "skin_url":"https://lh3.googleusercontent.com/dm0OecT8FgeWcMh0fbbDlpDntzu9bPWmdNTP75v2xb6s027ITjGrmVlz8P2rGo43P3XEN2ryx9IUt3OJGnRnHg",
+      "view_skin":"https://lh3.googleusercontent.com/hw6EVqBjyMFbZMzFtGG_gRszps-eZXVAfqwK9BueJ7j9wYZas35MxAQylLm6GrCC8G1L4eD-2KQ24yC3hBO8cw"
+    },
+	{
+      "id":32,
+      "name_skin":"Hello kitty",
+      "skin_url":"https://lh3.googleusercontent.com/V53xdckGev0KEgG5WJAR-PSQDPxEN98N05VQP_NHpxk81DoZdfFBBd4pf8OiJpXCXsXaf8Fah0clIRpUmzXZQA",
+      "view_skin":"https://lh3.googleusercontent.com/57H-h-tcLEosPdxWVaqoondTNZfh-LAMdUQgDFz2SD673ery4urm6so1S1qxXRogbWwfF7mXIfKEbpMzpzxk8w"
+    },
+	{
+      "id":33,
+      "name_skin":"Hello Kitty RPGirl",
+      "skin_url":"https://lh3.googleusercontent.com/E-koQQVP2BZDiIuDuqPxQvCy1kyuNRu_xa_fA1l6zeRQCmWPeuLvdqLptOxC26kaVQ4xM9zOHwBczGZMBLv31g",
+      "view_skin":"https://lh3.googleusercontent.com/EyTROnkci3sDmgy2FQbOLCegOxLRbTzW0gKqDSPZGsMp4UREjDwZiAGhQXgWRERHzCOmUJn_xuibN_C952WfRA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Cat Plush",
+      "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+      "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+      "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+    }
+  ]
+}
